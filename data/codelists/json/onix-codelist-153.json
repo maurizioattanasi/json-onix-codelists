@@ -1,0 +1,152 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Sender-defined text",
+    "Note": "To be used only in circumstances where the parties to an exchange have agreed to include text which (a) is not for general distribution, and (b) cannot be coded elsewhere. If more than one type of text is sent, it must be identified by tagging within the text itself"
+  },
+  {
+    "Code": "02",
+    "Heading": "Short description/annotation",
+    "Note": "Limited to a maximum of 350 characters"
+  },
+  {
+    "Code": "03",
+    "Heading": "Description",
+    "Note": "Length unrestricted"
+  },
+  {
+    "Code": "04",
+    "Heading": "Table of contents",
+    "Note": "Used for a table of contents sent as a single text field, which may or may not carry structure expressed using XHTML"
+  },
+  {
+    "Code": "05",
+    "Heading": "Flap / cover copy",
+    "Note": "Primary descriptive blurb taken from the back cover and/or flaps. See also code 27"
+  },
+  {
+    "Code": "06",
+    "Heading": "Review quote",
+    "Note": "A quote taken from a review of the product or of the work in question where there is no need to take account of different editions"
+  },
+  {
+    "Code": "07",
+    "Heading": "Review quote: previous edition",
+    "Note": "A quote taken from a review of a previous edition of the work"
+  },
+  {
+    "Code": "08",
+    "Heading": "Review quote: previous work",
+    "Note": "A quote taken from a review of a previous work by the same author(s) or in the same series"
+  },
+  {
+    "Code": "09",
+    "Heading": "Endorsement",
+    "Note": "A quote usually provided by a celebrity or another author to promote a new book, not from a review"
+  },
+  {
+    "Code": "10",
+    "Heading": "Promotional headline",
+    "Note": "A promotional phrase which is intended to headline a description of the product"
+  },
+  {
+    "Code": "11",
+    "Heading": "Feature",
+    "Note": "Text describing a feature of a product to which the publisher wishes to draw attention for promotional purposes. Each separate feature should be described by a separate repeat, so that formatting can be applied at the discretion of the receiver of the ONIX record, or multiple features can be described using appropriate XHTML markup"
+  },
+  {
+    "Code": "12",
+    "Heading": "Biographical note",
+    "Note": "A note referring to all contributors to a product &#8211; NOT linked to a single contributor"
+  },
+  {
+    "Code": "13",
+    "Heading": "Publisher&#8217;s notice",
+    "Note": "A statement included by a publisher in fulfillment of contractual obligations, such as a disclaimer, sponsor statement, or legal notice of any sort. Note that the inclusion of such a notice cannot and does not imply that a user of the ONIX record is obliged to reproduce it"
+  },
+  {
+    "Code": "14",
+    "Heading": "Excerpt",
+    "Note": "A short excerpt from the main text of the work"
+  },
+  {
+    "Code": "15",
+    "Heading": "Index",
+    "Note": "Used for an index sent as a single text field, which may be structured using XHTML"
+  },
+  {
+    "Code": "16",
+    "Heading": "Short description/annotation for collection",
+    "Note": "(of which the product is a part.) Limited to a maximum of 350 characters"
+  },
+  {
+    "Code": "17",
+    "Heading": "Description for collection",
+    "Note": "(of which the product is a part.) Length unrestricted"
+  },
+  {
+    "Code": "18",
+    "Heading": "New feature",
+    "Note": "As code 11 but used for a new feature of this edition or version"
+  },
+  {
+    "Code": "19",
+    "Heading": "Version history",
+    "Note": ""
+  },
+  {
+    "Code": "20",
+    "Heading": "Open access statement",
+    "Note": "Short summary statement of open access status and any related conditions (eg &#8216;Open access &#8211; no commercial use&#8217;), primarily for marketing purposes. Should always be accompanied by a link to the complete license (see &lt;EpubLicense&gt; or code 99 in List 158)"
+  },
+  {
+    "Code": "21",
+    "Heading": "Digital exclusivity statement",
+    "Note": "Short summary statement that the product is available only in digital formats (eg &#8216;Digital exclusive&#8217;). If a non-digital version is planned, &lt;ContentDate&gt; should be used to specify the date when exclusivity will end (use content date role code 15). If a non-digital version is available, the statement should not be included"
+  },
+  {
+    "Code": "22",
+    "Heading": "Official recommendation",
+    "Note": "For example a recommendation or approval provided by a ministry of education or other official body. Use &lt;Text&gt; to provide details and ideally use &lt;TextSourceCorporate&gt; to name the approver"
+  },
+  {
+    "Code": "23",
+    "Heading": "JBPA description",
+    "Note": "Short description in format specified by Japanese Book Publishers Association"
+  },
+  {
+    "Code": "24",
+    "Heading": "schema.org snippet",
+    "Note": "JSON-LD snippet suitable for use within an HTML &lt;script type=\"application/ld+json\"&gt; tag, containing structured metadata suitable for use with schema.org"
+  },
+  {
+    "Code": "25",
+    "Heading": "Errata",
+    "Note": ""
+  },
+  {
+    "Code": "26",
+    "Heading": "Introduction",
+    "Note": "Introduction, preface or the text of other preliminary material, sent as a single text field, which may be structured using XHTML"
+  },
+  {
+    "Code": "27",
+    "Heading": "Secondary flap / cover copy",
+    "Note": "Secondary descriptive blurb taken from the back cover and/or flaps, used only when there are two separate texts and the primary text is included using code 05"
+  },
+  {
+    "Code": "28",
+    "Heading": "Full cast and credit list",
+    "Note": "For use with dramatized audiobooks, filmed entertainment etc, for a cast list sent as a single text field, which may or may not carry structure expressed using XHTML"
+  },
+  {
+    "Code": "29",
+    "Heading": "Bibliography",
+    "Note": "Complete list of books by the author(s), supplied as a single text field, which may be structured using (X)HTML"
+  },
+  {
+    "Code": "30",
+    "Heading": "Abstract",
+    "Note": "Formal summary of content (normally used with academic and scholarly content only)"
+  }
+]

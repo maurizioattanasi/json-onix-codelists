@@ -1,0 +1,37 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Proprietary",
+    "Note": "For example, a publisher&#8217;s own identifier. Note that &lt;IDTypeName&gt; is required with proprietary identifiers"
+  },
+  {
+    "Code": "03",
+    "Heading": "GTIN-13",
+    "Note": "Formerly known as the EAN-13 (unhyphenated)"
+  },
+  {
+    "Code": "06",
+    "Heading": "DOI",
+    "Note": ""
+  },
+  {
+    "Code": "09",
+    "Heading": "PII",
+    "Note": "Publisher item identifier"
+  },
+  {
+    "Code": "10",
+    "Heading": "SICI",
+    "Note": "For serial items only"
+  },
+  {
+    "Code": "11",
+    "Heading": "ISTC",
+    "Note": ""
+  },
+  {
+    "Code": "15",
+    "Heading": "ISBN-13",
+    "Note": "(Unhyphenated)"
+  }
+]

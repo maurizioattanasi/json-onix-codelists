@@ -1,0 +1,112 @@
+[
+  {
+    "Code": "00",
+    "Heading": "Batteries not required",
+    "Note": "The default if battery type and safety information is omitted"
+  },
+  {
+    "Code": "01",
+    "Heading": "Batteries built in",
+    "Note": "Batteries built in or pre-installed in product, non-user replaceable. May use &lt;ProductFormFeatureDesciption&gt; to provide further details"
+  },
+  {
+    "Code": "02",
+    "Heading": "Batteries pre-installed",
+    "Note": "Batteries pre-installed, user replaceable. Use &lt;ProductFormFeatureDescription&gt; to provide further details, eg &#8216;2 x 1.2V LR6/AA rechargeable&#8217;, with these details formatted as [integer] x [number]V [type or descriptive text] and usually taken from the outer packaging"
+  },
+  {
+    "Code": "03",
+    "Heading": "Batteries supplied",
+    "Note": "Batteries included with the product, but not pre-installed. Use &lt;ProductFormFeatureDescription&gt; to provide further details, eg &#8216;2 x 1.2V LR6/AA rechargeable&#8217;, with these details formatted as [integer] x [number]V [type or descriptive text] and usually taken from the outer packaging"
+  },
+  {
+    "Code": "04",
+    "Heading": "Batteries required",
+    "Note": "Batteries required for use, but not supplied with the product. May use &lt;ProductFormFeatureDescription&gt; to provide further details, eg &#8216;2 x 1.2V LR6/AA rechargeable&#8217;, with these details formatted as [integer] x [number]V [type or descriptive text] and usually taken from the outer packaging"
+  },
+  {
+    "Code": "05",
+    "Heading": "Batteries supplied spare",
+    "Note": "Spare batteries included with product, in addition to those specified using codes 02 or 03. May use &lt;ProductFormFeatureDescription&gt; to provide further details"
+  },
+  {
+    "Code": "06",
+    "Heading": "Safety data sheet available",
+    "Note": "(Material) Safety Data Sheet available for the product (including its batteries). &lt;ProductFormFeatureDescription&gt; must be used to supply URL of documentation"
+  },
+  {
+    "Code": "07",
+    "Heading": "Technical data sheet available",
+    "Note": "Battery manufacturer&#8217;s technical data sheet available. &lt;ProductFormFeatureDescription&gt; must be used to supply URL of documentation"
+  },
+  {
+    "Code": "08",
+    "Heading": "Rechargeable",
+    "Note": "Independent of whether charger is supplied as part of the product. Note that this is largely dependent on battery chemistry, but should be specified separately to avoid ambiguity"
+  },
+  {
+    "Code": "09",
+    "Heading": "Non-rechargeable",
+    "Note": ""
+  },
+  {
+    "Code": "10",
+    "Heading": "Battery warning text",
+    "Note": "&lt;ProductFormFeatureDescription&gt; contains battery safety-related warning text, generally taken from the outer packaging (eg &#8216;Warning &#8211; internal battery: product must not be pierced&#8217;)"
+  },
+  {
+    "Code": "20",
+    "Heading": "Battery chemistry",
+    "Note": "&lt;ProductFormFeatureDescription&gt; must provide details of the battery chemistry (eg &#8216;Sodium-Sulfur&#8217;). Use ONLY where no suitable code exists for the specific chemistry used"
+  },
+  {
+    "Code": "21",
+    "Heading": "Lithium-ion",
+    "Note": "For all specific battery chemistries, &lt;ProductFormFeatureDescription&gt; may optionally describe the battery construction &#8211; for example the nunber of individual cells per battery and any other physical details, eg &#8216;4 x pouch cells&#8217;"
+  },
+  {
+    "Code": "22",
+    "Heading": "Lithium-polymer",
+    "Note": ""
+  },
+  {
+    "Code": "23",
+    "Heading": "Lithium-metal",
+    "Note": ""
+  },
+  {
+    "Code": "24",
+    "Heading": "Nickel-metal hydride",
+    "Note": ""
+  },
+  {
+    "Code": "25",
+    "Heading": "Nickel-Cadmium",
+    "Note": ""
+  },
+  {
+    "Code": "26",
+    "Heading": "Zinc-Manganese dioxide",
+    "Note": "&#8216;Alkaline battery&#8217;"
+  },
+  {
+    "Code": "27",
+    "Heading": "Zinc-Carbon",
+    "Note": "Common &#8216;dry cell&#8217; battery"
+  },
+  {
+    "Code": "28",
+    "Heading": "Zinc-air",
+    "Note": ""
+  },
+  {
+    "Code": "29",
+    "Heading": "Silver oxide",
+    "Note": ""
+  },
+  {
+    "Code": "99",
+    "Heading": "Battery description",
+    "Note": "&lt;ProductFormFeatureDescription&gt; may contain a full description of the batteries supplied (chemistry, cell structure, battery size and weight, number, capacity etc). Use ONLY if the product (or a product part) contains multiple different TYPES of battery that cannot be described with existing codes (eg a mix of battery chemistries or batteries of different sizes, within a single product part)"
+  }
+]

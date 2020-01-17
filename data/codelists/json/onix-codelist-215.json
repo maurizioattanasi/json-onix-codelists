@@ -1,0 +1,37 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Less than",
+    "Note": ""
+  },
+  {
+    "Code": "02",
+    "Heading": "Not more than",
+    "Note": ""
+  },
+  {
+    "Code": "03",
+    "Heading": "Exactly",
+    "Note": "The supplier&#8217;s true figure, or at least a best estimate expected to be within 10% of the true figure (ie a quoted figure of 100 could in fact be anything between 91 and 111)"
+  },
+  {
+    "Code": "04",
+    "Heading": "Approximately",
+    "Note": "Generally interpreted as within 25% of the true figure (ie a quoted figure of 100 could in fact be anything between 80 and 133). The supplier may introduce a deliberate approximation to reduce the commercial sensitivity of the figure"
+  },
+  {
+    "Code": "05",
+    "Heading": "About",
+    "Note": "Generally interpreted as within a factor of two of the true figure (ie a quoted figure of 100 could in fact be anything between 50 and 200). The supplier may introduce a deliberate approximation to reduce the commercial sensitivity of the figure"
+  },
+  {
+    "Code": "06",
+    "Heading": "Not less than",
+    "Note": ""
+  },
+  {
+    "Code": "07",
+    "Heading": "More than",
+    "Note": ""
+  }
+]

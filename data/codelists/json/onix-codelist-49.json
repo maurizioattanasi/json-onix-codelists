@@ -1,0 +1,1762 @@
+[
+  {
+    "Code": "AU-CT",
+    "Heading": "Australian Capital Territory",
+    "Note": ""
+  },
+  {
+    "Code": "AU-NS",
+    "Heading": "New South Wales",
+    "Note": ""
+  },
+  {
+    "Code": "AU-NT",
+    "Heading": "Northern Territory",
+    "Note": ""
+  },
+  {
+    "Code": "AU-QL",
+    "Heading": "Queensland",
+    "Note": ""
+  },
+  {
+    "Code": "AU-SA",
+    "Heading": "South Australia",
+    "Note": ""
+  },
+  {
+    "Code": "AU-TS",
+    "Heading": "Tasmania",
+    "Note": ""
+  },
+  {
+    "Code": "AU-VI",
+    "Heading": "Victoria",
+    "Note": ""
+  },
+  {
+    "Code": "AU-WA",
+    "Heading": "Western Australia",
+    "Note": ""
+  },
+  {
+    "Code": "BE-BRU",
+    "Heading": "Brussels-Capital Region",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "BE-VLG",
+    "Heading": "Flemish Region",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "BE-WAL",
+    "Heading": "Walloon Region",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CA-AB",
+    "Heading": "Alberta",
+    "Note": ""
+  },
+  {
+    "Code": "CA-BC",
+    "Heading": "British Columbia",
+    "Note": ""
+  },
+  {
+    "Code": "CA-MB",
+    "Heading": "Manitoba",
+    "Note": ""
+  },
+  {
+    "Code": "CA-NB",
+    "Heading": "New Brunswick",
+    "Note": ""
+  },
+  {
+    "Code": "CA-NL",
+    "Heading": "Newfoundland and Labrador",
+    "Note": ""
+  },
+  {
+    "Code": "CA-NS",
+    "Heading": "Nova Scotia",
+    "Note": ""
+  },
+  {
+    "Code": "CA-NT",
+    "Heading": "Northwest Territories",
+    "Note": ""
+  },
+  {
+    "Code": "CA-NU",
+    "Heading": "Nunavut",
+    "Note": ""
+  },
+  {
+    "Code": "CA-ON",
+    "Heading": "Ontario",
+    "Note": ""
+  },
+  {
+    "Code": "CA-PE",
+    "Heading": "Prince Edward Island",
+    "Note": ""
+  },
+  {
+    "Code": "CA-QC",
+    "Heading": "Quebec",
+    "Note": ""
+  },
+  {
+    "Code": "CA-SK",
+    "Heading": "Saskatchewan",
+    "Note": ""
+  },
+  {
+    "Code": "CA-YT",
+    "Heading": "Yukon Territory",
+    "Note": ""
+  },
+  {
+    "Code": "CN-BJ",
+    "Heading": "Beijing Municipality",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-TJ",
+    "Heading": "Tianjin Municipality",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-HE",
+    "Heading": "Hebei Province",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-SX",
+    "Heading": "Shanxi Province",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-NM",
+    "Heading": "Inner Mongolia Autonomous Region",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-LN",
+    "Heading": "Liaoning Province",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-JL",
+    "Heading": "Jilin Province",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-HL",
+    "Heading": "Heilongjiang Province",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-SH",
+    "Heading": "Shanghai Municipality",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-JS",
+    "Heading": "Jiangsu Province",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-ZJ",
+    "Heading": "Zhejiang Province",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-AH",
+    "Heading": "Anhui Province",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-FJ",
+    "Heading": "Fujian Province",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-JX",
+    "Heading": "Jiangxi Province",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-SD",
+    "Heading": "Shandong Province",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-HA",
+    "Heading": "Henan Province",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-HB",
+    "Heading": "Hubei Province",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-HN",
+    "Heading": "Hunan Province",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-GD",
+    "Heading": "Guangdong Province",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-GX",
+    "Heading": "Guangxi Zhuang Autonomous Region",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-HI",
+    "Heading": "Hainan Province",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-CQ",
+    "Heading": "Chongqing Municipality",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-SC",
+    "Heading": "Sichuan Province",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-GZ",
+    "Heading": "Guizhou Province",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-YN",
+    "Heading": "Yunnan Province",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-XZ",
+    "Heading": "Tibet Autonomous Region",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-SN",
+    "Heading": "Shaanxi Province",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-GS",
+    "Heading": "Gansu Province",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-QH",
+    "Heading": "Qinghai Province",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-NX",
+    "Heading": "Ningxia Hui Autonomous Region",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-XJ",
+    "Heading": "Xinjiang Uyghur Autonomous Region",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-TW",
+    "Heading": "Taiwan Province",
+    "Note": "Prefer code TW (Taiwan, Province of China) from List 91. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-HK",
+    "Heading": "Hong Kong Special Administrative Region",
+    "Note": "Prefer code HK (Hong Kong) from List 91. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-MO",
+    "Heading": "Macau Special Administrative Region",
+    "Note": "Prefer code MO (Macao) from List 91. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "CN-11",
+    "Heading": "Beijing Municipality",
+    "Note": "Deprecated in favor of CN-BJ"
+  },
+  {
+    "Code": "CN-12",
+    "Heading": "Tianjin Municipality",
+    "Note": "Deprecated in favor of CN-TJ"
+  },
+  {
+    "Code": "CN-13",
+    "Heading": "Hebei Province",
+    "Note": "Deprecated in favor of CN-HE"
+  },
+  {
+    "Code": "CN-14",
+    "Heading": "Shanxi Province",
+    "Note": "Deprecated in favor of CN-SX"
+  },
+  {
+    "Code": "CN-15",
+    "Heading": "Inner Mongolia Autonomous Region",
+    "Note": "Deprecated in favor of CN-NM"
+  },
+  {
+    "Code": "CN-21",
+    "Heading": "Liaoning Province",
+    "Note": "Deprecated in favor of CN-LN"
+  },
+  {
+    "Code": "CN-22",
+    "Heading": "Jilin Province",
+    "Note": "Deprecated in favor of CN-JL"
+  },
+  {
+    "Code": "CN-23",
+    "Heading": "Heilongjiang Province",
+    "Note": "Deprecated in favor of CN-HL"
+  },
+  {
+    "Code": "CN-31",
+    "Heading": "Shanghai Municipality",
+    "Note": "Deprecated in favor of CN-SH"
+  },
+  {
+    "Code": "CN-32",
+    "Heading": "Jiangsu Province",
+    "Note": "Deprecated in favor of CN-JS"
+  },
+  {
+    "Code": "CN-33",
+    "Heading": "Zhejiang Province",
+    "Note": "Deprecated in favor of CN-ZJ"
+  },
+  {
+    "Code": "CN-34",
+    "Heading": "Anhui Province",
+    "Note": "Deprecated in favor of CN-AH"
+  },
+  {
+    "Code": "CN-35",
+    "Heading": "Fujian Province",
+    "Note": "Deprecated in favor of CN-FJ"
+  },
+  {
+    "Code": "CN-36",
+    "Heading": "Jiangxi Province",
+    "Note": "Deprecated in favor of CN-JX"
+  },
+  {
+    "Code": "CN-37",
+    "Heading": "Shandong Province",
+    "Note": "Deprecated in favor of CN-SD"
+  },
+  {
+    "Code": "CN-41",
+    "Heading": "Henan Province",
+    "Note": "Deprecated in favor of CN-HA"
+  },
+  {
+    "Code": "CN-42",
+    "Heading": "Hubei Province",
+    "Note": "Deprecated in favor of CN-HB"
+  },
+  {
+    "Code": "CN-43",
+    "Heading": "Hunan Province",
+    "Note": "Deprecated in favor of CN-HN"
+  },
+  {
+    "Code": "CN-44",
+    "Heading": "Guangdong Province",
+    "Note": "Deprecated in favor of CN-GD"
+  },
+  {
+    "Code": "CN-45",
+    "Heading": "Guangxi Zhuang Autonomous Region",
+    "Note": "Deprecated in favor of CN-GX"
+  },
+  {
+    "Code": "CN-46",
+    "Heading": "Hainan Province",
+    "Note": "Deprecated in favor of CN-HI"
+  },
+  {
+    "Code": "CN-50",
+    "Heading": "Chongqing Municipality",
+    "Note": "Deprecated in favor of CN-CQ"
+  },
+  {
+    "Code": "CN-51",
+    "Heading": "Sichuan Province",
+    "Note": "Deprecated in favor of CN-SC"
+  },
+  {
+    "Code": "CN-52",
+    "Heading": "Guizhou Province",
+    "Note": "Deprecated in favor of CN-GZ"
+  },
+  {
+    "Code": "CN-53",
+    "Heading": "Yunnan Province",
+    "Note": "Deprecated in favor of CN-YN"
+  },
+  {
+    "Code": "CN-54",
+    "Heading": "Tibet Autonomous Region",
+    "Note": "Deprecated in favor of CN-XZ"
+  },
+  {
+    "Code": "CN-61",
+    "Heading": "Shaanxi Province",
+    "Note": "Deprecated in favor of CN-SN"
+  },
+  {
+    "Code": "CN-62",
+    "Heading": "Gansu Province",
+    "Note": "Deprecated in favor of CN-GS"
+  },
+  {
+    "Code": "CN-63",
+    "Heading": "Qinghai Province",
+    "Note": "Deprecated in favor of CN-QH"
+  },
+  {
+    "Code": "CN-64",
+    "Heading": "Ningxia Hui Autonomous Region",
+    "Note": "Deprecated in favor of CN-NX"
+  },
+  {
+    "Code": "CN-65",
+    "Heading": "Xinjiang Uyghur Autonomous Region",
+    "Note": "Deprecated in favor of CN-XJ"
+  },
+  {
+    "Code": "CN-71",
+    "Heading": "Taiwan Province",
+    "Note": "Deprecated in favor of CN-TW, but prefer code TW (Taiwan, Province of China) from List 91"
+  },
+  {
+    "Code": "CN-91",
+    "Heading": "Hong Kong Special Administrative Region",
+    "Note": "Deprecated in favor of CN-HK, but prefer code HK (Hong Kong) from List 91"
+  },
+  {
+    "Code": "CN-92",
+    "Heading": "Macau Special Administrative Region",
+    "Note": "Deprecated in favor of CN-MO, but prefer code MO (Macao) from List 91"
+  },
+  {
+    "Code": "ES-CN",
+    "Heading": "Canary Islands",
+    "Note": ""
+  },
+  {
+    "Code": "FR-H",
+    "Heading": "Corsica",
+    "Note": ""
+  },
+  {
+    "Code": "GB-AIR",
+    "Heading": "UK airside",
+    "Note": "Airside outlets at UK international airports only"
+  },
+  {
+    "Code": "GB-APS",
+    "Heading": "UK airports",
+    "Note": "All UK airports, including both airside and other outlets"
+  },
+  {
+    "Code": "GB-CHA",
+    "Heading": "Channel Islands",
+    "Note": "DEPRECATED, replaced by country codes GG &#8211; Guernsey, and JE &#8211; Jersey from List 91"
+  },
+  {
+    "Code": "GB-ENG",
+    "Heading": "England",
+    "Note": ""
+  },
+  {
+    "Code": "GB-EWS",
+    "Heading": "England, Wales, Scotland",
+    "Note": "UK excluding Northern Ireland. DEPRECATED &#8211; use separate region codes GB-ENG, GB-SCT, GB-WLS instead"
+  },
+  {
+    "Code": "GB-IOM",
+    "Heading": "Isle of Man",
+    "Note": "DEPRECATED, replaced by country code IM &#8211; Isle of Man from List 91"
+  },
+  {
+    "Code": "GB-NIR",
+    "Heading": "Northern Ireland",
+    "Note": ""
+  },
+  {
+    "Code": "GB-SCT",
+    "Heading": "Scotland",
+    "Note": ""
+  },
+  {
+    "Code": "GB-WLS",
+    "Heading": "Wales",
+    "Note": ""
+  },
+  {
+    "Code": "IE-AIR",
+    "Heading": "Ireland airside",
+    "Note": "Airside outlets at Irish international airports only"
+  },
+  {
+    "Code": "IT-AG",
+    "Heading": "Agrigento",
+    "Note": ""
+  },
+  {
+    "Code": "IT-AL",
+    "Heading": "Alessandria",
+    "Note": ""
+  },
+  {
+    "Code": "IT-AN",
+    "Heading": "Ancona",
+    "Note": ""
+  },
+  {
+    "Code": "IT-AO",
+    "Heading": "Aosta",
+    "Note": ""
+  },
+  {
+    "Code": "IT-AR",
+    "Heading": "Arezzo",
+    "Note": ""
+  },
+  {
+    "Code": "IT-AP",
+    "Heading": "Ascoli Piceno",
+    "Note": ""
+  },
+  {
+    "Code": "IT-AT",
+    "Heading": "Asti",
+    "Note": ""
+  },
+  {
+    "Code": "IT-AV",
+    "Heading": "Avellino",
+    "Note": ""
+  },
+  {
+    "Code": "IT-BA",
+    "Heading": "Bari",
+    "Note": ""
+  },
+  {
+    "Code": "IT-BT",
+    "Heading": "Barletta-Andria-Trani",
+    "Note": ""
+  },
+  {
+    "Code": "IT-BL",
+    "Heading": "Belluno",
+    "Note": ""
+  },
+  {
+    "Code": "IT-BN",
+    "Heading": "Benevento",
+    "Note": ""
+  },
+  {
+    "Code": "IT-BG",
+    "Heading": "Bergamo",
+    "Note": ""
+  },
+  {
+    "Code": "IT-BI",
+    "Heading": "Biella",
+    "Note": ""
+  },
+  {
+    "Code": "IT-BO",
+    "Heading": "Bologna",
+    "Note": ""
+  },
+  {
+    "Code": "IT-BZ",
+    "Heading": "Bolzano",
+    "Note": ""
+  },
+  {
+    "Code": "IT-BS",
+    "Heading": "Brescia",
+    "Note": ""
+  },
+  {
+    "Code": "IT-BR",
+    "Heading": "Brindisi",
+    "Note": ""
+  },
+  {
+    "Code": "IT-CA",
+    "Heading": "Cagliari",
+    "Note": ""
+  },
+  {
+    "Code": "IT-CL",
+    "Heading": "Caltanissetta",
+    "Note": ""
+  },
+  {
+    "Code": "IT-CB",
+    "Heading": "Campobasso",
+    "Note": ""
+  },
+  {
+    "Code": "IT-CI",
+    "Heading": "Carbonia-Iglesias",
+    "Note": ""
+  },
+  {
+    "Code": "IT-CE",
+    "Heading": "Caserta",
+    "Note": ""
+  },
+  {
+    "Code": "IT-CT",
+    "Heading": "Catania",
+    "Note": ""
+  },
+  {
+    "Code": "IT-CZ",
+    "Heading": "Catanzaro",
+    "Note": ""
+  },
+  {
+    "Code": "IT-CH",
+    "Heading": "Chieti",
+    "Note": ""
+  },
+  {
+    "Code": "IT-CO",
+    "Heading": "Como",
+    "Note": ""
+  },
+  {
+    "Code": "IT-CS",
+    "Heading": "Cosenza",
+    "Note": ""
+  },
+  {
+    "Code": "IT-CR",
+    "Heading": "Cremona",
+    "Note": ""
+  },
+  {
+    "Code": "IT-KR",
+    "Heading": "Crotone",
+    "Note": ""
+  },
+  {
+    "Code": "IT-CN",
+    "Heading": "Cuneo",
+    "Note": ""
+  },
+  {
+    "Code": "IT-EN",
+    "Heading": "Enna",
+    "Note": ""
+  },
+  {
+    "Code": "IT-FM",
+    "Heading": "Fermo",
+    "Note": ""
+  },
+  {
+    "Code": "IT-FE",
+    "Heading": "Ferrara",
+    "Note": ""
+  },
+  {
+    "Code": "IT-FI",
+    "Heading": "Firenze",
+    "Note": ""
+  },
+  {
+    "Code": "IT-FG",
+    "Heading": "Foggia",
+    "Note": ""
+  },
+  {
+    "Code": "IT-FC",
+    "Heading": "Forl&igrave;-Cesena",
+    "Note": ""
+  },
+  {
+    "Code": "IT-FR",
+    "Heading": "Frosinone",
+    "Note": ""
+  },
+  {
+    "Code": "IT-GE",
+    "Heading": "Genova",
+    "Note": ""
+  },
+  {
+    "Code": "IT-GO",
+    "Heading": "Gorizia",
+    "Note": ""
+  },
+  {
+    "Code": "IT-GR",
+    "Heading": "Grosseto",
+    "Note": ""
+  },
+  {
+    "Code": "IT-IM",
+    "Heading": "Imperia",
+    "Note": ""
+  },
+  {
+    "Code": "IT-IS",
+    "Heading": "Isernia",
+    "Note": ""
+  },
+  {
+    "Code": "IT-SP",
+    "Heading": "La Spezia",
+    "Note": ""
+  },
+  {
+    "Code": "IT-AQ",
+    "Heading": "L&#8217;Aquila",
+    "Note": ""
+  },
+  {
+    "Code": "IT-LT",
+    "Heading": "Latina",
+    "Note": ""
+  },
+  {
+    "Code": "IT-LE",
+    "Heading": "Lecce",
+    "Note": ""
+  },
+  {
+    "Code": "IT-LC",
+    "Heading": "Lecco",
+    "Note": ""
+  },
+  {
+    "Code": "IT-LI",
+    "Heading": "Livorno",
+    "Note": ""
+  },
+  {
+    "Code": "IT-LO",
+    "Heading": "Lodi",
+    "Note": ""
+  },
+  {
+    "Code": "IT-LU",
+    "Heading": "Lucca",
+    "Note": ""
+  },
+  {
+    "Code": "IT-MC",
+    "Heading": "Macerata",
+    "Note": ""
+  },
+  {
+    "Code": "IT-MN",
+    "Heading": "Mantova",
+    "Note": ""
+  },
+  {
+    "Code": "IT-MS",
+    "Heading": "Massa-Carrara",
+    "Note": ""
+  },
+  {
+    "Code": "IT-MT",
+    "Heading": "Matera",
+    "Note": ""
+  },
+  {
+    "Code": "IT-VS",
+    "Heading": "Medio Campidano",
+    "Note": ""
+  },
+  {
+    "Code": "IT-ME",
+    "Heading": "Messina",
+    "Note": ""
+  },
+  {
+    "Code": "IT-MI",
+    "Heading": "Milano",
+    "Note": ""
+  },
+  {
+    "Code": "IT-MO",
+    "Heading": "Modena",
+    "Note": ""
+  },
+  {
+    "Code": "IT-MB",
+    "Heading": "Monza e Brianza",
+    "Note": ""
+  },
+  {
+    "Code": "IT-NA",
+    "Heading": "Napoli",
+    "Note": ""
+  },
+  {
+    "Code": "IT-NO",
+    "Heading": "Novara",
+    "Note": ""
+  },
+  {
+    "Code": "IT-NU",
+    "Heading": "Nuoro",
+    "Note": ""
+  },
+  {
+    "Code": "IT-OG",
+    "Heading": "Ogliastra",
+    "Note": ""
+  },
+  {
+    "Code": "IT-OT",
+    "Heading": "Olbia-Tempio",
+    "Note": ""
+  },
+  {
+    "Code": "IT-OR",
+    "Heading": "Oristano",
+    "Note": ""
+  },
+  {
+    "Code": "IT-PD",
+    "Heading": "Padova",
+    "Note": ""
+  },
+  {
+    "Code": "IT-PA",
+    "Heading": "Palermo",
+    "Note": ""
+  },
+  {
+    "Code": "IT-PR",
+    "Heading": "Parma",
+    "Note": ""
+  },
+  {
+    "Code": "IT-PV",
+    "Heading": "Pavia",
+    "Note": ""
+  },
+  {
+    "Code": "IT-PG",
+    "Heading": "Perugia",
+    "Note": ""
+  },
+  {
+    "Code": "IT-PU",
+    "Heading": "Pesaro e Urbino",
+    "Note": ""
+  },
+  {
+    "Code": "IT-PE",
+    "Heading": "Pescara",
+    "Note": ""
+  },
+  {
+    "Code": "IT-PC",
+    "Heading": "Piacenza",
+    "Note": ""
+  },
+  {
+    "Code": "IT-PI",
+    "Heading": "Pisa",
+    "Note": ""
+  },
+  {
+    "Code": "IT-PT",
+    "Heading": "Pistoia",
+    "Note": ""
+  },
+  {
+    "Code": "IT-PN",
+    "Heading": "Pordenone",
+    "Note": ""
+  },
+  {
+    "Code": "IT-PZ",
+    "Heading": "Potenza",
+    "Note": ""
+  },
+  {
+    "Code": "IT-PO",
+    "Heading": "Prato",
+    "Note": ""
+  },
+  {
+    "Code": "IT-RG",
+    "Heading": "Ragusa",
+    "Note": ""
+  },
+  {
+    "Code": "IT-RA",
+    "Heading": "Ravenna",
+    "Note": ""
+  },
+  {
+    "Code": "IT-RC",
+    "Heading": "Reggio Calabria",
+    "Note": ""
+  },
+  {
+    "Code": "IT-RE",
+    "Heading": "Reggio Emilia",
+    "Note": ""
+  },
+  {
+    "Code": "IT-RI",
+    "Heading": "Rieti",
+    "Note": ""
+  },
+  {
+    "Code": "IT-RN",
+    "Heading": "Rimini",
+    "Note": ""
+  },
+  {
+    "Code": "IT-RM",
+    "Heading": "Roma",
+    "Note": ""
+  },
+  {
+    "Code": "IT-RO",
+    "Heading": "Rovigo",
+    "Note": ""
+  },
+  {
+    "Code": "IT-SA",
+    "Heading": "Salerno",
+    "Note": ""
+  },
+  {
+    "Code": "IT-SS",
+    "Heading": "Sassari",
+    "Note": ""
+  },
+  {
+    "Code": "IT-SV",
+    "Heading": "Savona",
+    "Note": ""
+  },
+  {
+    "Code": "IT-SI",
+    "Heading": "Siena",
+    "Note": ""
+  },
+  {
+    "Code": "IT-SR",
+    "Heading": "Siracusa",
+    "Note": ""
+  },
+  {
+    "Code": "IT-SO",
+    "Heading": "Sondrio",
+    "Note": ""
+  },
+  {
+    "Code": "IT-TA",
+    "Heading": "Taranto",
+    "Note": ""
+  },
+  {
+    "Code": "IT-TE",
+    "Heading": "Teramo",
+    "Note": ""
+  },
+  {
+    "Code": "IT-TR",
+    "Heading": "Terni",
+    "Note": ""
+  },
+  {
+    "Code": "IT-TO",
+    "Heading": "Torino",
+    "Note": ""
+  },
+  {
+    "Code": "IT-TP",
+    "Heading": "Trapani",
+    "Note": ""
+  },
+  {
+    "Code": "IT-TN",
+    "Heading": "Trento",
+    "Note": ""
+  },
+  {
+    "Code": "IT-TV",
+    "Heading": "Treviso",
+    "Note": ""
+  },
+  {
+    "Code": "IT-TS",
+    "Heading": "Trieste",
+    "Note": ""
+  },
+  {
+    "Code": "IT-UD",
+    "Heading": "Udine",
+    "Note": ""
+  },
+  {
+    "Code": "IT-VA",
+    "Heading": "Varese",
+    "Note": ""
+  },
+  {
+    "Code": "IT-VE",
+    "Heading": "Venezia",
+    "Note": ""
+  },
+  {
+    "Code": "IT-VB",
+    "Heading": "Verbano-Cusio-Ossola",
+    "Note": ""
+  },
+  {
+    "Code": "IT-VC",
+    "Heading": "Vercelli",
+    "Note": ""
+  },
+  {
+    "Code": "IT-VR",
+    "Heading": "Verona",
+    "Note": ""
+  },
+  {
+    "Code": "IT-VV",
+    "Heading": "Vibo Valentia",
+    "Note": ""
+  },
+  {
+    "Code": "IT-VI",
+    "Heading": "Vicenza",
+    "Note": ""
+  },
+  {
+    "Code": "IT-VT",
+    "Heading": "Viterbo",
+    "Note": ""
+  },
+  {
+    "Code": "RS-KM",
+    "Heading": "Kosovo-Metohija",
+    "Note": ""
+  },
+  {
+    "Code": "RS-VO",
+    "Heading": "Vojvodina",
+    "Note": ""
+  },
+  {
+    "Code": "RU-AD",
+    "Heading": "Republic of Adygeya",
+    "Note": ""
+  },
+  {
+    "Code": "RU-AL",
+    "Heading": "Republic of Altay",
+    "Note": ""
+  },
+  {
+    "Code": "RU-BA",
+    "Heading": "Republic of Bashkortostan",
+    "Note": ""
+  },
+  {
+    "Code": "RU-BU",
+    "Heading": "Republic of Buryatiya",
+    "Note": ""
+  },
+  {
+    "Code": "RU-CE",
+    "Heading": "Chechenskaya Republic",
+    "Note": ""
+  },
+  {
+    "Code": "RU-CU",
+    "Heading": "Chuvashskaya Republic",
+    "Note": ""
+  },
+  {
+    "Code": "RU-DA",
+    "Heading": "Republic of Dagestan",
+    "Note": ""
+  },
+  {
+    "Code": "RU-IN",
+    "Heading": "Republic of Ingushetiya",
+    "Note": ""
+  },
+  {
+    "Code": "RU-KB",
+    "Heading": "Kabardino-Balkarskaya Republic",
+    "Note": ""
+  },
+  {
+    "Code": "RU-KL",
+    "Heading": "Republic of Kalmykiya",
+    "Note": ""
+  },
+  {
+    "Code": "RU-KC",
+    "Heading": "Karachayevo-Cherkesskaya Republic",
+    "Note": ""
+  },
+  {
+    "Code": "RU-KR",
+    "Heading": "Republic of Kareliya",
+    "Note": ""
+  },
+  {
+    "Code": "RU-KK",
+    "Heading": "Republic of Khakasiya",
+    "Note": ""
+  },
+  {
+    "Code": "RU-KO",
+    "Heading": "Republic of Komi",
+    "Note": ""
+  },
+  {
+    "Code": "RU-ME",
+    "Heading": "Republic of Mariy El",
+    "Note": ""
+  },
+  {
+    "Code": "RU-MO",
+    "Heading": "Republic of Mordoviya",
+    "Note": ""
+  },
+  {
+    "Code": "RU-SA",
+    "Heading": "Republic of Sakha (Yakutiya)",
+    "Note": ""
+  },
+  {
+    "Code": "RU-SE",
+    "Heading": "Republic of Severnaya Osetiya-Alaniya",
+    "Note": ""
+  },
+  {
+    "Code": "RU-TA",
+    "Heading": "Republic of Tatarstan",
+    "Note": ""
+  },
+  {
+    "Code": "RU-TY",
+    "Heading": "Republic of Tyva (Tuva)",
+    "Note": ""
+  },
+  {
+    "Code": "RU-UD",
+    "Heading": "Udmurtskaya Republic",
+    "Note": ""
+  },
+  {
+    "Code": "RU-ALT",
+    "Heading": "Altayskiy Administrative Territory",
+    "Note": ""
+  },
+  {
+    "Code": "RU-KAM",
+    "Heading": "Kamchatskiy Administrative Territory",
+    "Note": ""
+  },
+  {
+    "Code": "RU-KHA",
+    "Heading": "Khabarovskiy Administrative Territory",
+    "Note": ""
+  },
+  {
+    "Code": "RU-KDA",
+    "Heading": "Krasnodarskiy Administrative Territory",
+    "Note": ""
+  },
+  {
+    "Code": "RU-KYA",
+    "Heading": "Krasnoyarskiy Administrative Territory",
+    "Note": ""
+  },
+  {
+    "Code": "RU-PER",
+    "Heading": "Permskiy Administrative Territory",
+    "Note": ""
+  },
+  {
+    "Code": "RU-PRI",
+    "Heading": "Primorskiy Administrative Territory",
+    "Note": ""
+  },
+  {
+    "Code": "RU-STA",
+    "Heading": "Stavropol&#8217;skiy Administrative Territory",
+    "Note": ""
+  },
+  {
+    "Code": "RU-ZAB",
+    "Heading": "Zabaykal&#8217;skiy Administrative Territory",
+    "Note": ""
+  },
+  {
+    "Code": "RU-AMU",
+    "Heading": "Amurskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-ARK",
+    "Heading": "Arkhangel&#8217;skaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-AST",
+    "Heading": "Astrakhanskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-BEL",
+    "Heading": "Belgorodskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-BRY",
+    "Heading": "Bryanskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-CHE",
+    "Heading": "Chelyabinskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-IRK",
+    "Heading": "Irkutskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-IVA",
+    "Heading": "Ivanovskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-KGD",
+    "Heading": "Kaliningradskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-KLU",
+    "Heading": "Kaluzhskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-KEM",
+    "Heading": "Kemerovskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-KIR",
+    "Heading": "Kirovskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-KOS",
+    "Heading": "Kostromskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-KGN",
+    "Heading": "Kurganskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-KRS",
+    "Heading": "Kurskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-LEN",
+    "Heading": "Leningradskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-LIP",
+    "Heading": "Lipetskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-MAG",
+    "Heading": "Magadanskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-MOS",
+    "Heading": "Moskovskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-MUR",
+    "Heading": "Murmanskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-NIZ",
+    "Heading": "Nizhegorodskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-NGR",
+    "Heading": "Novgorodskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-NVS",
+    "Heading": "Novosibirskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-OMS",
+    "Heading": "Omskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-ORE",
+    "Heading": "Orenburgskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-ORL",
+    "Heading": "Orlovskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-PNZ",
+    "Heading": "Penzenskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-PSK",
+    "Heading": "Pskovskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-ROS",
+    "Heading": "Rostovskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-RYA",
+    "Heading": "Ryazanskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-SAK",
+    "Heading": "Sakhalinskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-SAM",
+    "Heading": "Samarskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-SAR",
+    "Heading": "Saratovskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-SMO",
+    "Heading": "Smolenskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-SVE",
+    "Heading": "Sverdlovskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-TAM",
+    "Heading": "Tambovskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-TOM",
+    "Heading": "Tomskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-TUL",
+    "Heading": "Tul&#8217;skaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-TVE",
+    "Heading": "Tverskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-TYU",
+    "Heading": "Tyumenskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-ULY",
+    "Heading": "Ul&#8217;yanovskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-VLA",
+    "Heading": "Vladimirskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-VGG",
+    "Heading": "Volgogradskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-VLG",
+    "Heading": "Vologodskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-VOR",
+    "Heading": "Voronezhskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-YAR",
+    "Heading": "Yaroslavskaya Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-MOW",
+    "Heading": "Moskva City",
+    "Note": ""
+  },
+  {
+    "Code": "RU-SPE",
+    "Heading": "Sankt-Peterburg City",
+    "Note": ""
+  },
+  {
+    "Code": "RU-YEV",
+    "Heading": "Yevreyskaya Autonomous Administrative Region",
+    "Note": ""
+  },
+  {
+    "Code": "RU-CHU",
+    "Heading": "Chukotskiy Autonomous District",
+    "Note": ""
+  },
+  {
+    "Code": "RU-KHM",
+    "Heading": "Khanty-Mansiyskiy Autonomous District",
+    "Note": ""
+  },
+  {
+    "Code": "RU-NEN",
+    "Heading": "Nenetskiy Autonomous District",
+    "Note": ""
+  },
+  {
+    "Code": "RU-YAN",
+    "Heading": "Yamalo-Nenetskiy Autonomous District",
+    "Note": ""
+  },
+  {
+    "Code": "US-AK",
+    "Heading": "Alaska",
+    "Note": ""
+  },
+  {
+    "Code": "US-AL",
+    "Heading": "Alabama",
+    "Note": ""
+  },
+  {
+    "Code": "US-AR",
+    "Heading": "Arkansas",
+    "Note": ""
+  },
+  {
+    "Code": "US-AZ",
+    "Heading": "Arizona",
+    "Note": ""
+  },
+  {
+    "Code": "US-CA",
+    "Heading": "California",
+    "Note": ""
+  },
+  {
+    "Code": "US-CO",
+    "Heading": "Colorado",
+    "Note": ""
+  },
+  {
+    "Code": "US-CT",
+    "Heading": "Connecticut",
+    "Note": ""
+  },
+  {
+    "Code": "US-DC",
+    "Heading": "District of Columbia",
+    "Note": ""
+  },
+  {
+    "Code": "US-DE",
+    "Heading": "Delaware",
+    "Note": ""
+  },
+  {
+    "Code": "US-FL",
+    "Heading": "Florida",
+    "Note": ""
+  },
+  {
+    "Code": "US-GA",
+    "Heading": "Georgia",
+    "Note": ""
+  },
+  {
+    "Code": "US-HI",
+    "Heading": "Hawaii",
+    "Note": ""
+  },
+  {
+    "Code": "US-IA",
+    "Heading": "Iowa",
+    "Note": ""
+  },
+  {
+    "Code": "US-ID",
+    "Heading": "Idaho",
+    "Note": ""
+  },
+  {
+    "Code": "US-IL",
+    "Heading": "Illinois",
+    "Note": ""
+  },
+  {
+    "Code": "US-IN",
+    "Heading": "Indiana",
+    "Note": ""
+  },
+  {
+    "Code": "US-KS",
+    "Heading": "Kansas",
+    "Note": ""
+  },
+  {
+    "Code": "US-KY",
+    "Heading": "Kentucky",
+    "Note": ""
+  },
+  {
+    "Code": "US-LA",
+    "Heading": "Louisiana",
+    "Note": ""
+  },
+  {
+    "Code": "US-MA",
+    "Heading": "Massachusetts",
+    "Note": ""
+  },
+  {
+    "Code": "US-MD",
+    "Heading": "Maryland",
+    "Note": ""
+  },
+  {
+    "Code": "US-ME",
+    "Heading": "Maine",
+    "Note": ""
+  },
+  {
+    "Code": "US-MI",
+    "Heading": "Michigan",
+    "Note": ""
+  },
+  {
+    "Code": "US-MN",
+    "Heading": "Minnesota",
+    "Note": ""
+  },
+  {
+    "Code": "US-MO",
+    "Heading": "Missouri",
+    "Note": ""
+  },
+  {
+    "Code": "US-MS",
+    "Heading": "Mississippi",
+    "Note": ""
+  },
+  {
+    "Code": "US-MT",
+    "Heading": "Montana",
+    "Note": ""
+  },
+  {
+    "Code": "US-NC",
+    "Heading": "North Carolina",
+    "Note": ""
+  },
+  {
+    "Code": "US-ND",
+    "Heading": "North Dakota",
+    "Note": ""
+  },
+  {
+    "Code": "US-NE",
+    "Heading": "Nebraska",
+    "Note": ""
+  },
+  {
+    "Code": "US-NH",
+    "Heading": "New Hampshire",
+    "Note": ""
+  },
+  {
+    "Code": "US-NJ",
+    "Heading": "New Jersey",
+    "Note": ""
+  },
+  {
+    "Code": "US-NM",
+    "Heading": "New Mexico",
+    "Note": ""
+  },
+  {
+    "Code": "US-NV",
+    "Heading": "Nevada",
+    "Note": ""
+  },
+  {
+    "Code": "US-NY",
+    "Heading": "New York",
+    "Note": ""
+  },
+  {
+    "Code": "US-OH",
+    "Heading": "Ohio",
+    "Note": ""
+  },
+  {
+    "Code": "US-OK",
+    "Heading": "Oklahoma",
+    "Note": ""
+  },
+  {
+    "Code": "US-OR",
+    "Heading": "Oregon",
+    "Note": ""
+  },
+  {
+    "Code": "US-PA",
+    "Heading": "Pennsylvania",
+    "Note": ""
+  },
+  {
+    "Code": "US-RI",
+    "Heading": "Rhode Island",
+    "Note": ""
+  },
+  {
+    "Code": "US-SC",
+    "Heading": "South Carolina",
+    "Note": ""
+  },
+  {
+    "Code": "US-SD",
+    "Heading": "South Dakota",
+    "Note": ""
+  },
+  {
+    "Code": "US-TN",
+    "Heading": "Tennessee",
+    "Note": ""
+  },
+  {
+    "Code": "US-TX",
+    "Heading": "Texas",
+    "Note": ""
+  },
+  {
+    "Code": "US-UT",
+    "Heading": "Utah",
+    "Note": ""
+  },
+  {
+    "Code": "US-VA",
+    "Heading": "Virginia",
+    "Note": ""
+  },
+  {
+    "Code": "US-VT",
+    "Heading": "Vermont",
+    "Note": ""
+  },
+  {
+    "Code": "US-WA",
+    "Heading": "Washington",
+    "Note": ""
+  },
+  {
+    "Code": "US-WI",
+    "Heading": "Wisconsin",
+    "Note": ""
+  },
+  {
+    "Code": "US-WV",
+    "Heading": "West Virginia",
+    "Note": ""
+  },
+  {
+    "Code": "US-WY",
+    "Heading": "Wyoming",
+    "Note": ""
+  },
+  {
+    "Code": "ECZ",
+    "Heading": "Eurozone",
+    "Note": "Countries geographically within continental Europe which use the Euro as their sole currency. At the time of writing, this is a synonym for &#8216;AT BE CY EE FI FR DE ES GR IE IT LT LU LV MT NL PT SI SK&#8217; (the official Eurozone 19), plus &#8216;AD MC SM VA ME&#8217; and Kosovo (other Euro-using countries in continental Europe). Note some other territories using the Euro, but outside continental Europe are excluded from this list, and may need to be specified separately. ONLY valid in ONIX 3, and ONLY within P.26 &#8211;&nbsp;and this use is itself DEPRECATED. Use of an explicit list of countries instead of ECZ is strongly encouraged"
+  },
+  {
+    "Code": "WORLD",
+    "Heading": "World",
+    "Note": "In ONIX 3, may ONLY be used in &lt;RegionsIncluded&gt;"
+  }
+]

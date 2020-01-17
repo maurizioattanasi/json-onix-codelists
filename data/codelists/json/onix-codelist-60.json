@@ -1,0 +1,12 @@
+[
+  {
+    "Code": "00",
+    "Heading": "Per copy of whole product",
+    "Note": "Default"
+  },
+  {
+    "Code": "01",
+    "Heading": "Per page for printed loose-leaf content only",
+    "Note": ""
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "Code": "00",
+    "Heading": "Not barcoded",
+    "Note": ""
+  },
+  {
+    "Code": "01",
+    "Heading": "Barcoded, scheme unspecified",
+    "Note": ""
+  },
+  {
+    "Code": "02",
+    "Heading": "GTIN-13",
+    "Note": ""
+  },
+  {
+    "Code": "03",
+    "Heading": "GTIN-13+5 (US dollar price encoded)",
+    "Note": ""
+  },
+  {
+    "Code": "04",
+    "Heading": "GTIN-13+5 (CAN dollar price encoded)",
+    "Note": ""
+  },
+  {
+    "Code": "05",
+    "Heading": "GTIN-13+5 (no price encoded)",
+    "Note": ""
+  },
+  {
+    "Code": "06",
+    "Heading": "UPC-12 (item-specific)",
+    "Note": "AKA item/price"
+  },
+  {
+    "Code": "07",
+    "Heading": "UPC-12+5 (item-specific)",
+    "Note": "AKA item/price"
+  },
+  {
+    "Code": "08",
+    "Heading": "UPC-12 (price-point)",
+    "Note": "AKA price/item"
+  },
+  {
+    "Code": "09",
+    "Heading": "UPC-12+5 (price-point)",
+    "Note": "AKA price/item"
+  }
+]

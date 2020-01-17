@@ -1,0 +1,572 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Dewey",
+    "Note": "Dewey Decimal Classification"
+  },
+  {
+    "Code": "02",
+    "Heading": "Abridged Dewey",
+    "Note": ""
+  },
+  {
+    "Code": "03",
+    "Heading": "LC classification",
+    "Note": "US Library of Congress classification"
+  },
+  {
+    "Code": "04",
+    "Heading": "LC subject heading",
+    "Note": "US Library of Congress subject heading"
+  },
+  {
+    "Code": "05",
+    "Heading": "NLM classification",
+    "Note": "US National Library of Medicine medical classification"
+  },
+  {
+    "Code": "06",
+    "Heading": "MeSH heading",
+    "Note": "US National Library of Medicine Medical subject heading"
+  },
+  {
+    "Code": "07",
+    "Heading": "NAL subject heading",
+    "Note": "US National Agricultural Library subject heading"
+  },
+  {
+    "Code": "08",
+    "Heading": "AAT",
+    "Note": "Getty Art and Architecture Thesaurus heading"
+  },
+  {
+    "Code": "09",
+    "Heading": "UDC",
+    "Note": "Universal Decimal Classification"
+  },
+  {
+    "Code": "10",
+    "Heading": "BISAC Subject Heading",
+    "Note": "BISAC Subject Headings are used in the North American market to categorize books based on topical content. They serve as a guideline for shelving books in physical stores and browsing books in online stores. See https://bisg.org/page/BISACSubjectCodes"
+  },
+  {
+    "Code": "11",
+    "Heading": "BISAC Regional theme",
+    "Note": "A geographical qualifier used with a BISAC subject category"
+  },
+  {
+    "Code": "12",
+    "Heading": "BIC subject category",
+    "Note": "For all BIC subject codes and qualifiers, see http://www.bic.org.uk/7/BIC-Standard-Subject-Categories/"
+  },
+  {
+    "Code": "13",
+    "Heading": "BIC geographical qualifier",
+    "Note": ""
+  },
+  {
+    "Code": "14",
+    "Heading": "BIC language qualifier (language as subject)",
+    "Note": ""
+  },
+  {
+    "Code": "15",
+    "Heading": "BIC time period qualifier",
+    "Note": ""
+  },
+  {
+    "Code": "16",
+    "Heading": "BIC educational purpose qualifier",
+    "Note": ""
+  },
+  {
+    "Code": "17",
+    "Heading": "BIC reading level and special interest qualifier",
+    "Note": ""
+  },
+  {
+    "Code": "18",
+    "Heading": "DDC-Sachgruppen der Deutschen Nationalbibliografie",
+    "Note": "Used for German National Bibliography since 2004 (100 subjects). Is different from value 30. See http://www.dnb.de/service/pdf/ddc_wv_aktuell.pdf (in German) or http://www.dnb.de/eng/service/pdf/ddc_wv_aktuell_eng.pdf (English)"
+  },
+  {
+    "Code": "19",
+    "Heading": "LC fiction genre heading",
+    "Note": ""
+  },
+  {
+    "Code": "20",
+    "Heading": "Keywords",
+    "Note": "For indexing and search purposes, not normally intended for display. Where multiple keywords or keyword phrases are sent, this should be in a single instance of the &lt;SubjectHeadingText&gt; element, and it is recommended that they should be separated by semi-colons (this is consistent with Library of Congress preferred practice)"
+  },
+  {
+    "Code": "21",
+    "Heading": "BIC children&#8217;s book marketing category",
+    "Note": "See PA/BIC CBMC guidelines at http://www.bic.org.uk/8/Children%27s-Books-Marketing-Classifications/"
+  },
+  {
+    "Code": "22",
+    "Heading": "BISAC Merchandising Theme",
+    "Note": "BISAC Merchandising Themes are used in addition to BISAC Subject Headings to denote an audience to which a work may be of particular appeal, a time of year or event for which a work may be especially appropriate, or to further describe fictional works that have been subject-coded by genre"
+  },
+  {
+    "Code": "23",
+    "Heading": "Publisher&#8217;s own category code",
+    "Note": ""
+  },
+  {
+    "Code": "24",
+    "Heading": "Proprietary subject scheme",
+    "Note": "As specified in &lt;SubjectSchemeName&gt;"
+  },
+  {
+    "Code": "25",
+    "Heading": "Tabla de materias ISBN",
+    "Note": "Latin America"
+  },
+  {
+    "Code": "26",
+    "Heading": "Warengruppen-Systematik des deutschen Buchhandels",
+    "Note": "See http://info.vlb.de/files/wgsneuversion2_0.pdf (in German)"
+  },
+  {
+    "Code": "27",
+    "Heading": "SWD",
+    "Note": "Schlagwortnormdatei &#8211; Subject Headings Authority File in the German-speaking countries. See http://www.dnb.de/standardisierung/normdateien/swd.htm (in German) and http://www.dnb.de/eng/standardisierung/normdateien/swd.htm (English). DEPRECATED in favor of the GND"
+  },
+  {
+    "Code": "28",
+    "Heading": "Th&egrave;mes Electre",
+    "Note": "Subject classification used by Electre (France)"
+  },
+  {
+    "Code": "29",
+    "Heading": "CLIL",
+    "Note": "France. A four-digit number, see http://www.clil.org/information/documentation.html (in French). The first digit identifies the version of the scheme"
+  },
+  {
+    "Code": "30",
+    "Heading": "DNB-Sachgruppen",
+    "Note": "Deutsche Bibliothek subject groups. Used for German National Bibliography until 2003 (65 subjects). Is different from value 18. See http://www.dnb.de/service/pdf/ddc_wv_alt_neu.pdf (in German)"
+  },
+  {
+    "Code": "31",
+    "Heading": "NUGI",
+    "Note": "Nederlandse Uniforme Genre-Indeling (former Dutch book trade classification)"
+  },
+  {
+    "Code": "32",
+    "Heading": "NUR",
+    "Note": "Nederlandstalige Uniforme Rubrieksindeling (Dutch book trade classification, from 2002, see http://www.boek.nl/nur (in Dutch)"
+  },
+  {
+    "Code": "33",
+    "Heading": "ECPA Christian Book Category",
+    "Note": "ECPA Christian Product Category Book Codes, consisting of up to three x 3-letter blocks, for Super Category, Primary Category and Sub-Category. See http://www.ecpa.org/ECPA/cbacategories.xls"
+  },
+  {
+    "Code": "34",
+    "Heading": "SISO",
+    "Note": "Schema Indeling Systematische Catalogus Openbare Bibliotheken (Dutch library classification)"
+  },
+  {
+    "Code": "35",
+    "Heading": "Korean Decimal Classification (KDC)",
+    "Note": "A modified Dewey Decimal Classification used in the Republic of Korea"
+  },
+  {
+    "Code": "36",
+    "Heading": "DDC Deutsch 22",
+    "Note": "German Translation of Dewey Decimal Classification 22. Also known as DDC 22 ger. See http://www.ddc-deutsch.de/produkte/uebersichten/"
+  },
+  {
+    "Code": "37",
+    "Heading": "Bokgrupper",
+    "Note": "Norwegian book trade product categories (Bokgrupper) administered by the Norwegian Publishers Association (http://www.forleggerforeningen.no/)"
+  },
+  {
+    "Code": "38",
+    "Heading": "Varegrupper",
+    "Note": "Norwegian bookselling subject categories (Bokhandelens varegrupper) administered by the Norwegian Booksellers Association (http://bokhandlerforeningen.no/)"
+  },
+  {
+    "Code": "39",
+    "Heading": "L&aelig;replaner",
+    "Note": "Norwegian school curriculum version. Deprecated"
+  },
+  {
+    "Code": "40",
+    "Heading": "Nippon Decimal Classification",
+    "Note": "Japanese subject classification scheme"
+  },
+  {
+    "Code": "41",
+    "Heading": "BSQ",
+    "Note": "BookSelling Qualifier: Russian book trade classification"
+  },
+  {
+    "Code": "42",
+    "Heading": "ANELE Materias",
+    "Note": "Spain: subject coding scheme of the Asociaci&oacute;n Nacional de Editores de Libros y Material de Ense&ntilde;anza"
+  },
+  {
+    "Code": "43",
+    "Heading": "Utdanningsprogram",
+    "Note": "Codes for Norwegian &#8216;utdanningsprogram&#8217; used in secondary education. See: http://www.udir.no/. (Formerly labelled &#8216;Skolefag&#8217;)"
+  },
+  {
+    "Code": "44",
+    "Heading": "Programomr&aring;de",
+    "Note": "Codes for Norwegian &#8216;programomr&aring;de&#8217; used in secondary education. See http://www.udir.no/. (Formerly labelled &#8216;Videreg&aring;ende&#8217; or &#8216;Programfag&#8217;)"
+  },
+  {
+    "Code": "45",
+    "Heading": "Undervisningsmateriell",
+    "Note": "Norwegian list of categories for books and other material used in education"
+  },
+  {
+    "Code": "46",
+    "Heading": "Norsk DDK",
+    "Note": "Norwegian version of Dewey Decimal Classification"
+  },
+  {
+    "Code": "47",
+    "Heading": "Varugrupper",
+    "Note": "Swedish bookselling subject categories"
+  },
+  {
+    "Code": "48",
+    "Heading": "SAB",
+    "Note": "Swedish classification scheme"
+  },
+  {
+    "Code": "49",
+    "Heading": "L&auml;romedelstyp",
+    "Note": "Swedish bookselling educational subject type"
+  },
+  {
+    "Code": "50",
+    "Heading": "F&ouml;rhandsbeskrivning",
+    "Note": "Swedish publishers preliminary subject classification"
+  },
+  {
+    "Code": "51",
+    "Heading": "Spanish ISBN UDC subset",
+    "Note": "Controlled subset of UDC codes used by the Spanish ISBN Agency"
+  },
+  {
+    "Code": "52",
+    "Heading": "ECI subject categories",
+    "Note": "Subject categories defined by El Corte Ingl&eacute;s and used widely in the Spanish book trade"
+  },
+  {
+    "Code": "53",
+    "Heading": "Soggetto CCE",
+    "Note": "Classificazione commerciale editoriale (Italian book trade subject category based on BIC). CCE documentation available at http://www.ie-online.it/CCE2_2.0.pdf"
+  },
+  {
+    "Code": "54",
+    "Heading": "Qualificatore geografico CCE",
+    "Note": "CCE Geographical qualifier"
+  },
+  {
+    "Code": "55",
+    "Heading": "Qualificatore di lingua CCE",
+    "Note": "CCE Language qualifier"
+  },
+  {
+    "Code": "56",
+    "Heading": "Qualificatore di periodo storico CCE",
+    "Note": "CCE Time Period qualifier"
+  },
+  {
+    "Code": "57",
+    "Heading": "Qualificatore di livello scolastico CCE",
+    "Note": "CCE Educational Purpose qualifier"
+  },
+  {
+    "Code": "58",
+    "Heading": "Qualificatore di et&agrave; di lettura CCE",
+    "Note": "CCE Reading Level Qualifier"
+  },
+  {
+    "Code": "59",
+    "Heading": "VdS Bildungsmedien F&auml;cher",
+    "Note": "Subject code list of the German association of educational media publishers. See http://www.bildungsmedien.de/service/onixlisten/unterrichtsfach_onix_codelist27_value59_0408.pdf"
+  },
+  {
+    "Code": "60",
+    "Heading": "Fagkoder",
+    "Note": "Norwegian primary and secondary school subject categories (fagkoder), see http://www.udir.no/"
+  },
+  {
+    "Code": "61",
+    "Heading": "JEL classification",
+    "Note": "Journal of Economic Literature classification scheme"
+  },
+  {
+    "Code": "62",
+    "Heading": "CSH",
+    "Note": "National Library of Canada subject heading (English)"
+  },
+  {
+    "Code": "63",
+    "Heading": "RVM",
+    "Note": "R&eacute;pertoire de vedettes-mati&egrave;re Biblioth&egrave;que de l&#8217;Universit&eacute; Laval) (French)"
+  },
+  {
+    "Code": "64",
+    "Heading": "YSA",
+    "Note": "Yleinen suomalainen asiasanasto: Finnish General Thesaurus. See http://onki.fi/fi/browser/ (in Finnish)"
+  },
+  {
+    "Code": "65",
+    "Heading": "All&auml;rs",
+    "Note": "Allm&auml;n tesaurus p&aring; svenska: Swedish translation of the Finnish General Thesaurus. See http://onki.fi/fi/browser/ (in Finnish)"
+  },
+  {
+    "Code": "66",
+    "Heading": "YKL",
+    "Note": "Yleisten kirjastojen luokitusj&auml;rjestelm&auml;: Finnish Public Libraries Classification System. See http://ykl.kirjastot.fi/ (in Finnish)"
+  },
+  {
+    "Code": "67",
+    "Heading": "MUSA",
+    "Note": "Musiikin asiasanasto: Finnish Music Thesaurus. See http://onki.fi/fi/browser/ (in Finnish)"
+  },
+  {
+    "Code": "68",
+    "Heading": "CILLA",
+    "Note": "Specialtesaurus f&ouml;r musik: Swedish translation of the Finnish Music Thesaurus. See http://onki.fi/fi/browser/ (in Finnish)"
+  },
+  {
+    "Code": "69",
+    "Heading": "Kaunokki",
+    "Note": "Fiktiivisen aineiston asiasanasto: Finnish thesaurus for fiction. See http://kaunokki.kirjastot.fi/ (in Finnish)"
+  },
+  {
+    "Code": "70",
+    "Heading": "Bella",
+    "Note": "Specialtesaurus f&ouml;r fiktivt material: Swedish translation of the Finnish thesaurus for fiction. See http://kaunokki.kirjastot.fi/sv-FI/ (in Finnish)"
+  },
+  {
+    "Code": "71",
+    "Heading": "YSO",
+    "Note": "Yleinen suomalainen ontologia: Finnish General Upper Ontology. See http://onki.fi/fi/browser/ (In Finnish)"
+  },
+  {
+    "Code": "72",
+    "Heading": "Paikkatieto ontologia",
+    "Note": "Finnish Place Ontology. See http://onki.fi/fi/browser/ (in Finnish)"
+  },
+  {
+    "Code": "73",
+    "Heading": "Suomalainen kirja-alan luokitus",
+    "Note": "Finnish book trade categorisation"
+  },
+  {
+    "Code": "74",
+    "Heading": "Sears",
+    "Note": "Sears List of Subject Headings"
+  },
+  {
+    "Code": "75",
+    "Heading": "BIC E4L",
+    "Note": "BIC E4Libraries Category Headings, see http://www.bic.org.uk/51/E4libraries-Subject-Category-Headings/"
+  },
+  {
+    "Code": "76",
+    "Heading": "CSR",
+    "Note": "Code Sujet Rayon: subject categories used by bookstores in France"
+  },
+  {
+    "Code": "77",
+    "Heading": "Suomalainen oppiaineluokitus",
+    "Note": "Finnish school subject categories"
+  },
+  {
+    "Code": "78",
+    "Heading": "Japanese book trade C-Code",
+    "Note": "See http://www.asahi-net.or.jp/~ax2s-kmtn/ref/ccode.html (in Japanese)"
+  },
+  {
+    "Code": "79",
+    "Heading": "Japanese book trade Genre Code",
+    "Note": ""
+  },
+  {
+    "Code": "80",
+    "Heading": "Fiktiivisen aineiston lis&auml;luokitus",
+    "Note": "Finnish fiction genre classification. See http://ykl.kirjastot.fi/fi-FI/lisaluokat/ (in Finnish)"
+  },
+  {
+    "Code": "81",
+    "Heading": "Arabic Subject heading scheme",
+    "Note": ""
+  },
+  {
+    "Code": "82",
+    "Heading": "Arabized BIC subject category",
+    "Note": "Arabized version of BIC subject category scheme developed by ElKotob.com"
+  },
+  {
+    "Code": "83",
+    "Heading": "Arabized LC subject headings",
+    "Note": "Arabized version of Library of Congress scheme"
+  },
+  {
+    "Code": "84",
+    "Heading": "Bibliotheca Alexandrina Subject Headings",
+    "Note": "Classification scheme used by Library of Alexandria"
+  },
+  {
+    "Code": "85",
+    "Heading": "Postal code",
+    "Note": "Location defined by postal code. Format is two-letter country code (from List 91), space, postal code. Note some postal codes themselves contain spaces, eg &#8216;GB N7 9DP&#8217; or &#8216;US 10125&#8217;"
+  },
+  {
+    "Code": "86",
+    "Heading": "GeoNames ID",
+    "Note": "ID number for geographical place, as defined at http://www.geonames.org (eg 2825297 is Stuttgart, Germany, see http://www.geonames.org/2825297)"
+  },
+  {
+    "Code": "87",
+    "Heading": "NewBooks Subject Classification",
+    "Note": "Used for classification of academic and specialist publication in German-speaking countries. See http://www.newbooks-services.com/de/top/unternehmensportrait/klassifikation-und-mapping.html (German) and http://www.newbooks-services.com/en/top/about-newbooks/classification-mapping.html (English)"
+  },
+  {
+    "Code": "88",
+    "Heading": "Chinese Library Classification",
+    "Note": "Subject classification maintained by the Editorial Board of Chinese Library Classification. See http://cct.nlc.gov.cn for access to details of the scheme"
+  },
+  {
+    "Code": "89",
+    "Heading": "NTCPDSAC Classification",
+    "Note": "Subject classification for Books, Audiovisual products and E-publications formulated by China National Technical Committee 505"
+  },
+  {
+    "Code": "90",
+    "Heading": "Season and Event Indicator",
+    "Note": "German code scheme indicating association with seasons, holidays, events (eg Autumn, Back to School, Easter)"
+  },
+  {
+    "Code": "91",
+    "Heading": "GND",
+    "Note": "Gemeinsame Normdatei &#8211; Joint Authority File in the German-speaking countries. See http://www.dnb.de/EN/gnd (English). Combines the PND, SWD and GKD into a single authority file, and should be used in preference to the older codes"
+  },
+  {
+    "Code": "92",
+    "Heading": "BIC UKSLC",
+    "Note": "UK Standard Library Categories, the successor to BIC&#8217;s E4L classification scheme"
+  },
+  {
+    "Code": "93",
+    "Heading": "Thema subject category",
+    "Note": "International multilingual subject category scheme &#8211;&nbsp;see https://ns.editeur.org/thema"
+  },
+  {
+    "Code": "94",
+    "Heading": "Thema place qualifier",
+    "Note": ""
+  },
+  {
+    "Code": "95",
+    "Heading": "Thema language qualifier",
+    "Note": ""
+  },
+  {
+    "Code": "96",
+    "Heading": "Thema time period qualifier",
+    "Note": ""
+  },
+  {
+    "Code": "97",
+    "Heading": "Thema educational purpose qualifier",
+    "Note": ""
+  },
+  {
+    "Code": "98",
+    "Heading": "Thema interest age / special interest qualifier",
+    "Note": ""
+  },
+  {
+    "Code": "99",
+    "Heading": "Thema style qualifier",
+    "Note": ""
+  },
+  {
+    "Code": "A2",
+    "Heading": "&Auml;mnesord",
+    "Note": "Swedish subject categories maintained by Bokrondellen"
+  },
+  {
+    "Code": "A3",
+    "Heading": "Statystyka Ksi&#261;&#380;ek Papierowych, M&oacute;wionych I Elektronicznych",
+    "Note": "Polish Statistical Book and E-book Classification"
+  },
+  {
+    "Code": "A4",
+    "Heading": "CCSS",
+    "Note": "Common Core State Standards curriculum alignment, for links to US educational standards. &lt;SubjectCode&gt; uses the full dot notation. See http://www.corestandards.org/developers-and-publishers"
+  },
+  {
+    "Code": "A5",
+    "Heading": "Rameau",
+    "Note": "French library subject headings"
+  },
+  {
+    "Code": "A6",
+    "Heading": "Nomenclature discipline scolaire",
+    "Note": "French educational subject classification scolomfr-voc-015. See https://www.reseau-canope.fr/scolomfr/accueil.html"
+  },
+  {
+    "Code": "A7",
+    "Heading": "ISIC",
+    "Note": "International Standard Industry Classification, a classification of economic activities. Use for books that are about a particular industry or economic activity. &lt;SubjectCode&gt; should be a single letter denoting an ISIC section OR a 2-, 3- or 4-digit number denoting an ISIC division, group or class. See http://unstats.un.org/unsd/cr/registry/isic-4.asp"
+  },
+  {
+    "Code": "A8",
+    "Heading": "LC Children&#8217;s Subject Headings",
+    "Note": "Library of Congress Children&#8217;s Subject Headings: LCSHAC supplementary headings for Children&#8217;s books"
+  },
+  {
+    "Code": "A9",
+    "Heading": "Ny L&auml;romedel",
+    "Note": "Swedish bookselling educational subject"
+  },
+  {
+    "Code": "B0",
+    "Heading": "EuroVoc",
+    "Note": "EuroVoc multilingual thesaurus. &lt;SubjectCode&gt; should be a EuroVoc concept dc:identifier (for example, 2777, &#8216;refrigerated products&#8217;). See http://eurovoc.europa.eu"
+  },
+  {
+    "Code": "B1",
+    "Heading": "BISG Educational Taxonomy",
+    "Note": "Controlled vocabulary for educational objectives. See https://www.bisg.org/educational-taxonomy"
+  },
+  {
+    "Code": "B2",
+    "Heading": "Keywords (not for display)",
+    "Note": "For indexing and search purposes, MUST not be displayed. Where multiple keywords or keyword phrases are sent, this should be in a single instance of the &lt;SubjectHeadingText&gt; element, and it is recommended that they should be separated by semi-colons. Use of code B2 should be very rare: use B2 in preference to code 20 only where it is important to show the keyword list is specifically NOT for display to purchasers (eg some keywords for a medical textbook may appear offensive if displayed out of context)"
+  },
+  {
+    "Code": "B3",
+    "Heading": "Nomenclature Dipl&ocirc;me",
+    "Note": "French higher and vocational educational subject classification scolomfr-voc-29 subject category for degree and diploma study. See https://www.reseau-canope.fr/scolomfr/accueil.html"
+  },
+  {
+    "Code": "B4",
+    "Heading": "Key character names",
+    "Note": "For fiction and non-fiction, one or more key names, provided &#8211; like keywords &#8211; for indexing and search purposes. Where multiple character names are sent, this should be in a single instance of &lt;SubjectHeadingText&gt;, and multiple names should be separated by semi-colons. Note &lt;NameAsSubject&gt; should be used for people who are the central subject of the book. Code B4 may be used for names of lesser importance"
+  },
+  {
+    "Code": "B5",
+    "Heading": "Key place names",
+    "Note": "For fiction and non-fiction, one or more key names, provded &#8211; like keywords &#8211; for indexing and search purposes. Where multiple place names are sent, this should in a single instance of &lt;SubjectHeadingText&gt;, and multiple names should be separated by semi-colons. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "B6",
+    "Heading": "FAST",
+    "Note": "Faceted Application of Subject Terminology, OCLC subject scheme based on but different from LCSH (see code 04). For use in ONIX 3.0 only"
+  }
+]

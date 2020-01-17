@@ -1,0 +1,217 @@
+[
+  {
+    "Code": "00",
+    "Heading": "Unspecified, see website description",
+    "Note": ""
+  },
+  {
+    "Code": "01",
+    "Heading": "Publisher&#8217;s corporate website",
+    "Note": "See also codes 17 and 18"
+  },
+  {
+    "Code": "02",
+    "Heading": "Publisher&#8217;s website for a specified work",
+    "Note": "A publisher&#8217;s informative and/or promotional webpage relating to a specified work (book, journal, online resource or other publication type)"
+  },
+  {
+    "Code": "03",
+    "Heading": "Online hosting service home page",
+    "Note": "A webpage giving access to an online content hosting service as a whole"
+  },
+  {
+    "Code": "04",
+    "Heading": "Journal home page",
+    "Note": "A webpage giving general information about a serial, in print or electronic format or both"
+  },
+  {
+    "Code": "05",
+    "Heading": "Online resource &#8216;available content&#8217; page",
+    "Note": "A webpage giving direct access to the content that is available online for a specified resource version. Generally used for content available online under subscription terms"
+  },
+  {
+    "Code": "06",
+    "Heading": "Contributor&#8217;s own website",
+    "Note": "A webpage maintained by an author or other contributor about her/his publications and personal background"
+  },
+  {
+    "Code": "07",
+    "Heading": "Publisher&#8217;s website relating to specified contributor",
+    "Note": "A publisher&#8217;s webpage devoted to a specific author or other contributor"
+  },
+  {
+    "Code": "08",
+    "Heading": "Other publisher&#8217;s website relating to specified contributor",
+    "Note": "A webpage devoted to a specific author or other contributor, and maintained by a publisher other than the publisher of the item described in the ONIX record"
+  },
+  {
+    "Code": "09",
+    "Heading": "Third-party website relating to specified contributor",
+    "Note": "A webpage devoted to a specific author or other contributor, and maintained by a third party (eg a fan site)"
+  },
+  {
+    "Code": "10",
+    "Heading": "Contributor&#8217;s own website for specified work",
+    "Note": "A webpage maintained by an author or other contributor and specific to an individual work"
+  },
+  {
+    "Code": "11",
+    "Heading": "Other publisher&#8217;s website relating to specified work",
+    "Note": "A webpage devoted to an individual work, and maintained by a publisher other than the publisher of the item described in the ONIX record"
+  },
+  {
+    "Code": "12",
+    "Heading": "Third-party website relating to specified work",
+    "Note": "A webpage devoted to an individual work, and maintained by a third party (eg a fan site)"
+  },
+  {
+    "Code": "13",
+    "Heading": "Contributor&#8217;s own website for group or series of works",
+    "Note": "A webpage maintained by an author or other contributor and specific to a group or series of works"
+  },
+  {
+    "Code": "14",
+    "Heading": "Publisher&#8217;s website relating to group or series of works",
+    "Note": "A publisher&#8217;s webpage devoted to a group or series of works"
+  },
+  {
+    "Code": "15",
+    "Heading": "Other publisher&#8217;s website relating to group or series of works",
+    "Note": "A webpage devoted to a group or series of works, and maintained by a publisher other than the publisher of the item described in the ONIX record"
+  },
+  {
+    "Code": "16",
+    "Heading": "Third-party website relating to group or series of works (eg a fan site)",
+    "Note": "A webpage devoted to a group or series of works, and maintained by a third party (eg a fan site)"
+  },
+  {
+    "Code": "17",
+    "Heading": "Publisher&#8217;s B2B website",
+    "Note": "Use instead of code 01 to specify a publisher&#8217;s website for trade users"
+  },
+  {
+    "Code": "18",
+    "Heading": "Publisher&#8217;s B2C website",
+    "Note": "Use instead of code 01 to specify a publisher&#8217;s website for end customers (consumers)"
+  },
+  {
+    "Code": "23",
+    "Heading": "Author blog",
+    "Note": "For example, a Blogger or Tumblr URL, a Wordpress website or other blog URL"
+  },
+  {
+    "Code": "24",
+    "Heading": "Web page for author presentation / commentary",
+    "Note": ""
+  },
+  {
+    "Code": "25",
+    "Heading": "Web page for author interview",
+    "Note": ""
+  },
+  {
+    "Code": "26",
+    "Heading": "Web page for author reading",
+    "Note": ""
+  },
+  {
+    "Code": "27",
+    "Heading": "Web page for cover material",
+    "Note": ""
+  },
+  {
+    "Code": "28",
+    "Heading": "Web page for sample content",
+    "Note": ""
+  },
+  {
+    "Code": "29",
+    "Heading": "Web page for full content",
+    "Note": "Use this value in the &lt;Website&gt; composite (typically within &lt;Publisher&gt; or &lt;SupplyDetail&gt;) when sending a link to a webpage at which a digital product is available for download and/or online access"
+  },
+  {
+    "Code": "30",
+    "Heading": "Web page for other commentary / discussion",
+    "Note": ""
+  },
+  {
+    "Code": "31",
+    "Heading": "Transfer-URL",
+    "Note": "URL needed by the German National Library for direct access, harvesting and storage of an electronic resource"
+  },
+  {
+    "Code": "32",
+    "Heading": "DOI Website Link",
+    "Note": "Link needed by German Books in Print (VLB) for DOI registration and ONIX DOI conversion"
+  },
+  {
+    "Code": "33",
+    "Heading": "Supplier&#8217;s corporate website",
+    "Note": "A corporate website operated by a distributor or other supplier (not the publisher)"
+  },
+  {
+    "Code": "34",
+    "Heading": "Supplier&#8217;s B2B website",
+    "Note": "A website operated by a distributor or other supplier (not the publisher) and aimed at trade customers"
+  },
+  {
+    "Code": "35",
+    "Heading": "Supplier&#8217;s B2C website",
+    "Note": "A website operated by a distributor or other supplier (not the publisher) and aimed at consumers"
+  },
+  {
+    "Code": "36",
+    "Heading": "Supplier&#8217;s website for a specified work",
+    "Note": "A distributor or supplier&#8217;s webpage describing a specified work"
+  },
+  {
+    "Code": "37",
+    "Heading": "Supplier&#8217;s B2B website for a specified work",
+    "Note": "A distributor or supplier&#8217;s webpage describing a specified work, and aimed at trade customers"
+  },
+  {
+    "Code": "38",
+    "Heading": "Supplier&#8217;s B2C website for a specified work",
+    "Note": "A distributor or supplier&#8217;s webpage describing a specified work, and aimed at consumers"
+  },
+  {
+    "Code": "39",
+    "Heading": "Supplier&#8217;s website for a group or series of works",
+    "Note": "A distributor or supplier&#8217;s webpage describing a group or series of works"
+  },
+  {
+    "Code": "40",
+    "Heading": "URL of full metadata description",
+    "Note": "For example an ONIX or MARC record for the product, available online"
+  },
+  {
+    "Code": "41",
+    "Heading": "Social networking URL for specific work or product",
+    "Note": "For example, a Facebook, Google+ or Twitter URL for the product or work"
+  },
+  {
+    "Code": "42",
+    "Heading": "Author&#8217;s social networking URL",
+    "Note": "For example, a Facebook, Google+ or Twitter page"
+  },
+  {
+    "Code": "43",
+    "Heading": "Publisher&#8217;s social networking URL",
+    "Note": "For example, a Facebook, Google+ or Twitter page"
+  },
+  {
+    "Code": "44",
+    "Heading": "Social networking URL for specific article, chapter or content item",
+    "Note": "For example, a Facebook, Google+ or Twitter page. Use only in the context of a specific content item (eg within &lt;ContentItem&gt;)"
+  },
+  {
+    "Code": "45",
+    "Heading": "Publisher&#8217;s or third party website for permissions requests",
+    "Note": "For example, a service offering click-through licensing of extracts"
+  },
+  {
+    "Code": "46",
+    "Heading": "Publisher&#8217;s or third party website for privacy statement",
+    "Note": "For example, a page providing details related to GDPR. For use in ONIX 3.0 only"
+  }
+]

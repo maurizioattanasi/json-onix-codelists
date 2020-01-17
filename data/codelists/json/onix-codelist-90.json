@@ -1,0 +1,57 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Academic year",
+    "Note": "Use with code 01 in &lt;ReligiousTextFeatureType&gt;"
+  },
+  {
+    "Code": "02",
+    "Heading": "Catechistic year",
+    "Note": "Use with code 01 in &lt;ReligiousTextFeatureType&gt;"
+  },
+  {
+    "Code": "03",
+    "Heading": "Liturgical year",
+    "Note": "Use with code 01 in &lt;ReligiousTextFeatureType&gt;"
+  },
+  {
+    "Code": "04",
+    "Heading": "Advent and Christmas",
+    "Note": "Use with code 01 in &lt;ReligiousTextFeatureType&gt;"
+  },
+  {
+    "Code": "05",
+    "Heading": "Blessings",
+    "Note": "Use with code 01 in &lt;ReligiousTextFeatureType&gt;"
+  },
+  {
+    "Code": "06",
+    "Heading": "Scholastic cycles",
+    "Note": "Use with code 01 in &lt;ReligiousTextFeatureType&gt;"
+  },
+  {
+    "Code": "07",
+    "Heading": "Confirmation and Holy Communion",
+    "Note": "Use with code 01 in &lt;ReligiousTextFeatureType&gt;"
+  },
+  {
+    "Code": "08",
+    "Heading": "Summer activites",
+    "Note": "For example, summer camps and other youth recreational activities: use with code 01 in &lt;ReligiousTextFeatureType&gt;"
+  },
+  {
+    "Code": "09",
+    "Heading": "Easter",
+    "Note": "Use with code 01 in &lt;ReligiousTextFeatureType&gt;"
+  },
+  {
+    "Code": "10",
+    "Heading": "Lent",
+    "Note": "Use with code 01 in &lt;ReligiousTextFeatureType&gt;"
+  },
+  {
+    "Code": "11",
+    "Heading": "Marian themes",
+    "Note": "Use with code 01 in &lt;ReligiousTextFeatureType&gt;"
+  }
+]

@@ -1,0 +1,87 @@
+[
+  {
+    "Code": "AP",
+    "Heading": "Apocrypha (Catholic canon)",
+    "Note": "The seven portions of the Apocrypha added to the Catholic canon at the Council of Trent in 1546: Tobit; Judith; Wisdom of Solomon; Sirach (Ecclesiasticus); Baruch, including the Letter of Jeremiah; I and II Maccabees; Extra portions of Esther and Daniel (Additions to Esther; the Prayer of Azariah; Song of the Three Jews; Susannah; Bel and the Dragon). These are not generally included in the Protestant canon"
+  },
+  {
+    "Code": "AQ",
+    "Heading": "Apocrypha (canon unspecified)",
+    "Note": "A collection of Apocryphal texts, canon not specified"
+  },
+  {
+    "Code": "AX",
+    "Heading": "Additional Apocryphal texts: Greek Orthodox canon",
+    "Note": "I Esdras; Prayer of Manasseh; Psalm 151; III Maccabees"
+  },
+  {
+    "Code": "AY",
+    "Heading": "Additional Apocryphal texts: Slavonic Orthodox canon",
+    "Note": "I and II Esdras; Prayer of Manasseh; Psalm 151; III and IV Maccabees"
+  },
+  {
+    "Code": "AZ",
+    "Heading": "Additional Apocryphal texts",
+    "Note": "Additional Apocryphal texts included in some Bible versions: I and II Esdras; Prayer of Manasseh"
+  },
+  {
+    "Code": "GA",
+    "Heading": "General canon with Apocrypha (Catholic canon)",
+    "Note": "The 66 books included in the Protestant, Catholic and Orthodox canons, together with the seven portions of the Apocrypha included in the Catholic canon. (Equivalent to OT plus NT plus AP)"
+  },
+  {
+    "Code": "GC",
+    "Heading": "General canon with Apocryphal texts (canon unspecified)",
+    "Note": "The 66 books included in the Protestant, Catholic and Orthodox canons, together with Apocryphal texts, canon not specified. (Equivalent to OT plus NT plus AQ)"
+  },
+  {
+    "Code": "GE",
+    "Heading": "General canon",
+    "Note": "The 66 books included in the Protestant, Catholic and Orthodox canons, 39 from the Old Testament and 27 from the New Testament. The sequence of books may differ in different canons. (Equivalent to OT plus NT)"
+  },
+  {
+    "Code": "GS",
+    "Heading": "Gospels",
+    "Note": "The books of Matthew, Mark, Luke and John"
+  },
+  {
+    "Code": "OT",
+    "Heading": "Old Testament",
+    "Note": "Those 39 books which were included in the Jewish canon by the rabbinical academy established at Jamma in 90 CE. Also known as the Jewish or Hebrew scriptures"
+  },
+  {
+    "Code": "NT",
+    "Heading": "New Testament",
+    "Note": "The 27 books included in the Christian canon through the Easter Letter of Athanasius, Bishop of Alexandria and also by a general council of the Christian church held near the end of the 4th century CE"
+  },
+  {
+    "Code": "NP",
+    "Heading": "New Testament with Psalms and Proverbs",
+    "Note": "Includes the 27 books of the New Testament plus Psalms and Proverbs from the Old Testament. Equivalent to NT plus PP)"
+  },
+  {
+    "Code": "PE",
+    "Heading": "Paul&#8217;s Epistles",
+    "Note": "The books containing the letters of Paul to the various early Christian churches"
+  },
+  {
+    "Code": "PP",
+    "Heading": "Psalms and Proverbs",
+    "Note": "The book of Psalms and the book of Proverbs combined"
+  },
+  {
+    "Code": "PS",
+    "Heading": "Psalms",
+    "Note": "The book of Psalms"
+  },
+  {
+    "Code": "PT",
+    "Heading": "Pentateuch",
+    "Note": "The first five books of the Bible: Genesis, Exodus, Numbers, Leviticus, Deuteronomy. Also applied to the Torah"
+  },
+  {
+    "Code": "ZZ",
+    "Heading": "Other portions",
+    "Note": "Selected books of either the OT or NT not otherwise noted"
+  }
+]

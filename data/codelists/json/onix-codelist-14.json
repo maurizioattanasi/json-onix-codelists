@@ -1,0 +1,22 @@
+[
+  {
+    "Code": "00",
+    "Heading": "Undefined",
+    "Note": "Default"
+  },
+  {
+    "Code": "01",
+    "Heading": "Sentence case",
+    "Note": "Initial capitals on first word and subsequently on proper names only, eg &#8216;The conquest of Mexico&#8217;"
+  },
+  {
+    "Code": "02",
+    "Heading": "Title case",
+    "Note": "Initial capitals on first word and subsequently on all significant words (nouns, pronouns, adjectives, verbs, adverbs, subordinate conjunctions) thereafter. Unless they appear as the first word, articles, prepositions and coordinating conjunctions remain lower case, eg &#8216;The Conquest of Mexico&#8217;"
+  },
+  {
+    "Code": "03",
+    "Heading": "All capitals",
+    "Note": "For example, &#8216;THE CONQUEST OF MEXICO&#8217;. Use only when Sentence or Title case are not possible (for example because of system limitations). Do NOT use simply because title is (correctly) in all caps (eg &#8216;BBQ USA&#8217;)"
+  }
+]

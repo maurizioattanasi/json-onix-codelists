@@ -1,0 +1,32 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Free of charge",
+    "Note": ""
+  },
+  {
+    "Code": "02",
+    "Heading": "Price to be announced",
+    "Note": ""
+  },
+  {
+    "Code": "03",
+    "Heading": "Not sold separately",
+    "Note": "Not sold separately at retail"
+  },
+  {
+    "Code": "04",
+    "Heading": "Contact supplier",
+    "Note": "May be used for books that do not carry a recommended retail price; when goods can only be ordered &#8216;in person&#8217; from a sales representative; when an ONIX file is &#8216;broadcast&#8217; rather than sent one-to-one to a single trading partner; or for digital products offered on subscription or with pricing which is too complex to specify in ONIX"
+  },
+  {
+    "Code": "05",
+    "Heading": "Not sold as set",
+    "Note": "When a collection that is not sold as a set nevertheless has its own ONIX record"
+  },
+  {
+    "Code": "06",
+    "Heading": "Revenue share",
+    "Note": "Unpriced, but available via a pre-determined revenue share agreement"
+  }
+]

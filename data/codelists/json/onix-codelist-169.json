@@ -1,0 +1,27 @@
+[
+  {
+    "Code": "00",
+    "Heading": "Units",
+    "Note": "The quantity refers to a unit implied by the quantity type"
+  },
+  {
+    "Code": "07",
+    "Heading": "Days",
+    "Note": ""
+  },
+  {
+    "Code": "08",
+    "Heading": "Weeks",
+    "Note": ""
+  },
+  {
+    "Code": "09",
+    "Heading": "Months",
+    "Note": ""
+  },
+  {
+    "Code": "10",
+    "Heading": "Years",
+    "Note": ""
+  }
+]

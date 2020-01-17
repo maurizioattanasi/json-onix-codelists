@@ -1,0 +1,37 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Proprietary",
+    "Note": "A short explanatory label for the sequence should be provided in &lt;CollectionSequenceTypeName&gt;"
+  },
+  {
+    "Code": "02",
+    "Heading": "Title order",
+    "Note": "Order as specified by the title, eg by volume or part number sequence, provided for confirmation"
+  },
+  {
+    "Code": "03",
+    "Heading": "Publication order",
+    "Note": "Order of publication of products within the collection"
+  },
+  {
+    "Code": "04",
+    "Heading": "Temporal/narrative order",
+    "Note": "Order defined by a continuing narrative or temporal sequence within products in the collection. Applicable to either fiction or to non-fiction (eg within a collection of history textbooks)"
+  },
+  {
+    "Code": "05",
+    "Heading": "Original publication order",
+    "Note": "Original publication order, for a republished collection or collected works originally published outside a collection"
+  },
+  {
+    "Code": "06",
+    "Heading": "Suggested reading order",
+    "Note": "Where it is different from the title order, publication order, narrative order etc"
+  },
+  {
+    "Code": "07",
+    "Heading": "Suggested display order",
+    "Note": "Where it is different from the title order, publication order, narrative order, reading order etc"
+  }
+]

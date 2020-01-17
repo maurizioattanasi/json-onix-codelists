@@ -1,0 +1,32 @@
+[
+  {
+    "Code": "H",
+    "Heading": "Higher rate",
+    "Note": "Specifies that tax is applied at a higher rate than standard"
+  },
+  {
+    "Code": "P",
+    "Heading": "Tax paid at source (Italy)",
+    "Note": "Under Italian tax rules, VAT on books may be paid at source by the publisher, and subsequent transactions through the supply chain are tax-exempt"
+  },
+  {
+    "Code": "R",
+    "Heading": "Lower rate",
+    "Note": "Specifies that tax is applied at a lower rate than standard. In the EU, use code R for &#8216;Reduced rates&#8217;, and for rates lower than 5%, use code T (&#8216;Super-reduced&#8217;) or Z (Zero-rated)"
+  },
+  {
+    "Code": "S",
+    "Heading": "Standard rate",
+    "Note": ""
+  },
+  {
+    "Code": "T",
+    "Heading": "Super-low rate",
+    "Note": "Specifies that tax is applied at a rate lower than the Lower rate(s). In the EU, use code T for &#8216;Super-reduced rates&#8217;, and for Reduced rates (5% or above) use code R (Lower rate). For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "Z",
+    "Heading": "Zero-rated",
+    "Note": ""
+  }
+]

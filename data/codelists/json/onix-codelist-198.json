@@ -1,0 +1,47 @@
+[
+  {
+    "Code": "00",
+    "Heading": "Metadata contact",
+    "Note": "For queries and feedback concerning the metadata record itself"
+  },
+  {
+    "Code": "01",
+    "Heading": "Accessibility request contact",
+    "Note": "Eg for requests for supply of mutable digital files for conversion to other formats"
+  },
+  {
+    "Code": "02",
+    "Heading": "Promotional contact",
+    "Note": "Eg for requests relating to interviews, author events"
+  },
+  {
+    "Code": "03",
+    "Heading": "Advertising contact",
+    "Note": "Eg for co-op advertising"
+  },
+  {
+    "Code": "04",
+    "Heading": "Review copy contact",
+    "Note": "Eg for requests for review copies"
+  },
+  {
+    "Code": "05",
+    "Heading": "Evaluation copy contact",
+    "Note": "Eg for requests for approval or evaluation copies (particularly within education)"
+  },
+  {
+    "Code": "06",
+    "Heading": "Permissions contact",
+    "Note": "Eg for requests to reproduce or repurpose parts of the publication"
+  },
+  {
+    "Code": "07",
+    "Heading": "Return authorisation contact",
+    "Note": "Eg for use where authorisation must be gained from the publisher rather than the distributor or wholesaler"
+  },
+  {
+    "Code": "08",
+    "Heading": "CIP / Legal deposit contact",
+    "Note": ""
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Audiovisual work",
+    "Note": "A complete audiovisual work which is published as a content item in a product which carries two or more such works, eg when two or three AV works are published in a single omnibus package"
+  },
+  {
+    "Code": "02",
+    "Heading": "Front matter",
+    "Note": "Audiovisual components such as a scene index or introduction which appear before the main content of the product"
+  },
+  {
+    "Code": "03",
+    "Heading": "Body matter",
+    "Note": "Audiovisual components such as scenes or &#8216;chapters&#8217; which appear as part of the main body of the AV material in the product"
+  },
+  {
+    "Code": "04",
+    "Heading": "End matter",
+    "Note": "Audiovisual components such as advertising which appear after the main content of the product"
+  }
+]

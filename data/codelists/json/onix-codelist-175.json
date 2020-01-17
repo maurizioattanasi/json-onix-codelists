@@ -1,0 +1,1372 @@
+[
+  {
+    "Code": "A101",
+    "Heading": "CD standard audio format",
+    "Note": "CD &#8216;red book&#8217; format"
+  },
+  {
+    "Code": "A102",
+    "Heading": "SACD super audio format",
+    "Note": ""
+  },
+  {
+    "Code": "A103",
+    "Heading": "MP3 format",
+    "Note": "MPEG-1/2 Audio Layer III file"
+  },
+  {
+    "Code": "A104",
+    "Heading": "WAV format",
+    "Note": ""
+  },
+  {
+    "Code": "A105",
+    "Heading": "Real Audio format",
+    "Note": ""
+  },
+  {
+    "Code": "A106",
+    "Heading": "WMA",
+    "Note": "Windows Media Audio format"
+  },
+  {
+    "Code": "A107",
+    "Heading": "AAC",
+    "Note": "Advanced Audio Coding format"
+  },
+  {
+    "Code": "A108",
+    "Heading": "Ogg/Vorbis",
+    "Note": "Vorbis audio format in the Ogg container"
+  },
+  {
+    "Code": "A109",
+    "Heading": "Audible",
+    "Note": "Audio format proprietary to Audible.com"
+  },
+  {
+    "Code": "A110",
+    "Heading": "FLAC",
+    "Note": "Free lossless audio codec"
+  },
+  {
+    "Code": "A111",
+    "Heading": "AIFF",
+    "Note": "Audio Interchangeable File Format"
+  },
+  {
+    "Code": "A112",
+    "Heading": "ALAC",
+    "Note": "Apple Lossless Audio Codec"
+  },
+  {
+    "Code": "A201",
+    "Heading": "DAISY 2: full audio with title only (no navigation)",
+    "Note": "Deprecated, as does not meet DAISY 2 standard. Use conventional audiobook codes instead"
+  },
+  {
+    "Code": "A202",
+    "Heading": "DAISY 2: full audio with navigation (no text)",
+    "Note": ""
+  },
+  {
+    "Code": "A203",
+    "Heading": "DAISY 2: full audio with navigation and partial text",
+    "Note": ""
+  },
+  {
+    "Code": "A204",
+    "Heading": "DAISY 2: full audio with navigation and full text",
+    "Note": ""
+  },
+  {
+    "Code": "A205",
+    "Heading": "DAISY 2: full text with navigation and partial audio",
+    "Note": "Reading systems may provide full audio via text-to-speech"
+  },
+  {
+    "Code": "A206",
+    "Heading": "DAISY 2: full text with navigation and no audio",
+    "Note": "Reading systems may provide full audio via text-to-speech"
+  },
+  {
+    "Code": "A207",
+    "Heading": "DAISY 3: full audio with title only (no navigation)",
+    "Note": "Deprecated, as does not meet DAISY 3 standard. Use conventional audiobook codes instead"
+  },
+  {
+    "Code": "A208",
+    "Heading": "DAISY 3: full audio with navigation (no text)",
+    "Note": ""
+  },
+  {
+    "Code": "A209",
+    "Heading": "DAISY 3: full audio with navigation and partial text",
+    "Note": ""
+  },
+  {
+    "Code": "A210",
+    "Heading": "DAISY 3: full audio with navigation and full text",
+    "Note": ""
+  },
+  {
+    "Code": "A211",
+    "Heading": "DAISY 3: full text with navigation and partial audio",
+    "Note": "Reading systems may provide full audio via text-to-speech"
+  },
+  {
+    "Code": "A212",
+    "Heading": "DAISY 3: full text with navigation and no audio",
+    "Note": "Reading systems may provide full audio via text-to-speech"
+  },
+  {
+    "Code": "A301",
+    "Heading": "Standalone audio",
+    "Note": ""
+  },
+  {
+    "Code": "A302",
+    "Heading": "Readalong audio",
+    "Note": "Audio intended exclusively for use alongside a printed copy of the book. Most often a children&#8217;s product. Normally contains instructions such as &#8216;turn the page now&#8217; and other references to the printed item, and is usually sold packaged together with a printed copy"
+  },
+  {
+    "Code": "A303",
+    "Heading": "Playalong audio",
+    "Note": "Audio intended for musical accompaniment, eg &#8216;Music minus one&#8217;, etc, often used for music learning. Includes singalong backing audio for musical learning or for Karaoke-style entertainment"
+  },
+  {
+    "Code": "A304",
+    "Heading": "Speakalong audio",
+    "Note": "Audio intended for language learning, which includes speech plus gaps intended to be filled by the listener"
+  },
+  {
+    "Code": "A305",
+    "Heading": "Synchronised audio",
+    "Note": "Audio synchronised to text within an e-publication, for example an EPUB3 with audio overlay. Synchronisation at least at paragraph level, and covering the full content"
+  },
+  {
+    "Code": "A310",
+    "Heading": "Sound effects",
+    "Note": "Incidental sounds added to the audiobook narration (eg background environmental sounds)"
+  },
+  {
+    "Code": "A311",
+    "Heading": "Background music",
+    "Note": "Incidental music added to the audiobook narration (eg to heighten atmosphere). Do not use where the music is a primary part of the audio"
+  },
+  {
+    "Code": "A410",
+    "Heading": "Mono",
+    "Note": "Includes &#8216;stereo&#8217; where channels are identical"
+  },
+  {
+    "Code": "A420",
+    "Heading": "Stereo",
+    "Note": ""
+  },
+  {
+    "Code": "A421",
+    "Heading": "Stereo 2.1",
+    "Note": "Stereo plus low-frequency channel"
+  },
+  {
+    "Code": "A441",
+    "Heading": "Surround 4.1",
+    "Note": "Five-channel audio (including low-frequency channel)"
+  },
+  {
+    "Code": "A451",
+    "Heading": "Surround 5.1",
+    "Note": "Six-channel audio (including low-frequency channel)"
+  },
+  {
+    "Code": "B101",
+    "Heading": "Mass market (rack) paperback",
+    "Note": "In North America, a category of paperback characterized partly by page size (typically from 6&frac34; up to 7&#8539; x 4&frac14; inches) and partly by target market and terms of trade. Use with Product Form code BC"
+  },
+  {
+    "Code": "B102",
+    "Heading": "Trade paperback (US)",
+    "Note": "In North America, a category of paperback characterized partly by page size (larger than rack-sized) and partly by target market and terms of trade. AKA &#8216;quality paperback&#8217;, and including textbooks. Most paperback books sold in North America except &#8216;mass-market&#8217; (B101) and &#8216;tall rack&#8217; (B107) are correctly described with this code. Use with Product Form code BC"
+  },
+  {
+    "Code": "B103",
+    "Heading": "Digest format paperback",
+    "Note": "In North America, a category of paperback characterized by page size (typically 7 x 5 inches) and generally used for children&#8217;s books; use with Product Form code BC. Note: was wrongly shown as B102 (duplicate entry) in Issue 3"
+  },
+  {
+    "Code": "B104",
+    "Heading": "A-format paperback",
+    "Note": "In UK, a category of paperback characterized by page size (normally 178 x 111 mm approx); use with Product Form code BC"
+  },
+  {
+    "Code": "B105",
+    "Heading": "B-format paperback",
+    "Note": "In UK, a category of paperback characterized by page size (normally 198 x 129 mm approx); use with Product Form code BC"
+  },
+  {
+    "Code": "B106",
+    "Heading": "Trade paperback (UK)",
+    "Note": "In UK, a category of paperback characterized largely by size (usually in traditional hardback dimensions), and often used for paperback originals or retailer/travel/export-exclusives; use with Product Form code BC"
+  },
+  {
+    "Code": "B107",
+    "Heading": "Tall rack paperback (US)",
+    "Note": "In North America, a category of paperback characterised partly by page size (typically 7&frac12; x 4&frac14; inches) and partly by target market and terms of trade; use with Product Form code BC"
+  },
+  {
+    "Code": "B108",
+    "Heading": "A5 size Tankobon",
+    "Note": "Japanese A-series size, 210 x 148mm. A tankobon is a complete collected story originally published in serialised form (eg in a magazine)"
+  },
+  {
+    "Code": "B109",
+    "Heading": "JIS B5 size Tankobon",
+    "Note": "Japanese B-series size, 257 x 182mm"
+  },
+  {
+    "Code": "B110",
+    "Heading": "JIS B6 size Tankobon",
+    "Note": "Japanese B-series size, 182 x 128mm"
+  },
+  {
+    "Code": "B111",
+    "Heading": "A6 size Bunko",
+    "Note": "Japanese A-series size, 148 x 105mm"
+  },
+  {
+    "Code": "B112",
+    "Heading": "B40-dori Shinsho",
+    "Note": "Japanese format, 182x103mm or 173x105mm"
+  },
+  {
+    "Code": "B113",
+    "Heading": "Pocket (Sweden, Norway, France)",
+    "Note": "A Swedish, Norwegian, French paperback format, of no particular fixed size. Use with Product Form Code BC"
+  },
+  {
+    "Code": "B114",
+    "Heading": "Storpocket (Sweden)",
+    "Note": "A Swedish paperback format, use with Product Form Code BC. In Finnish, J&auml;ttipokkari"
+  },
+  {
+    "Code": "B115",
+    "Heading": "Kartonnage (Sweden)",
+    "Note": "A Swedish hardback format, use with Product Form Code BB"
+  },
+  {
+    "Code": "B116",
+    "Heading": "Flexband (Sweden)",
+    "Note": "A Swedish softback format, use with Product Form Code BC"
+  },
+  {
+    "Code": "B117",
+    "Heading": "Mook / Bookazine",
+    "Note": "A softback book in the format of a magazine, usually sold like a book. Use with Product Form code BC"
+  },
+  {
+    "Code": "B118",
+    "Heading": "Dwarsligger",
+    "Note": "Also called &#8216;Flipback&#8217;. A softback book in a specially compact proprietary format with pages printed in landscape on very thin paper and bound along the long (top) edge (ie parallel with the lines of text). Use with Product Form code BC &#8211; see www.dwarsligger.com"
+  },
+  {
+    "Code": "B119",
+    "Heading": "46 size",
+    "Note": "Japanese format, 188 x 127mm"
+  },
+  {
+    "Code": "B120",
+    "Heading": "46-Henkei size",
+    "Note": "Japanese format, 188 x 127mm"
+  },
+  {
+    "Code": "B121",
+    "Heading": "A4",
+    "Note": "297 x 210mm"
+  },
+  {
+    "Code": "B122",
+    "Heading": "A4-Henkei size",
+    "Note": "Japanese format, 297 x 210mm"
+  },
+  {
+    "Code": "B123",
+    "Heading": "A5-Henkei size",
+    "Note": "Japanese format, 210 x 146mm"
+  },
+  {
+    "Code": "B124",
+    "Heading": "B5-Henkei size",
+    "Note": "Japanese format, 257 x 182mm"
+  },
+  {
+    "Code": "B125",
+    "Heading": "B6-Henkei size",
+    "Note": "Japanese format, 182 x 128mm"
+  },
+  {
+    "Code": "B126",
+    "Heading": "AB size",
+    "Note": "257 x 210mm"
+  },
+  {
+    "Code": "B127",
+    "Heading": "JIS B7 size",
+    "Note": "Japanese B-series size, 128 x 91mm"
+  },
+  {
+    "Code": "B128",
+    "Heading": "Kiku size",
+    "Note": "Japanese format, 218 x 152mm or 227 x 152mm"
+  },
+  {
+    "Code": "B129",
+    "Heading": "Kiku-Henkei size",
+    "Note": "Japanese format"
+  },
+  {
+    "Code": "B130",
+    "Heading": "JIS B4 size",
+    "Note": "Japanese B-series size, 364 x 257 mm"
+  },
+  {
+    "Code": "B131",
+    "Heading": "Paperback (DE)",
+    "Note": "German large paperback format, greater than about 205mm high, with flaps. Use with Product form code BC"
+  },
+  {
+    "Code": "B132",
+    "Heading": "Libro de bolsillo",
+    "Note": "Spanish pocket paperback. Use with Product form code BC"
+  },
+  {
+    "Code": "B133",
+    "Heading": "Pocket-sized",
+    "Note": "German ,Taschenbuch&#8216;, Italian &laquo;Tascabile / Supertascabile&raquo; pocket-sized format, usually less than about 205mm high. Use with Product form code BB or BC"
+  },
+  {
+    "Code": "B134",
+    "Heading": "A5",
+    "Note": "210 x 148mm"
+  },
+  {
+    "Code": "B201",
+    "Heading": "Coloring / join-the-dot book",
+    "Note": ""
+  },
+  {
+    "Code": "B202",
+    "Heading": "Lift-the-flap book",
+    "Note": ""
+  },
+  {
+    "Code": "B204",
+    "Heading": "Miniature book",
+    "Note": "Note: was wrongly shown as B203 (duplicate entry) in Issue 3"
+  },
+  {
+    "Code": "B205",
+    "Heading": "Moving picture / flicker book",
+    "Note": ""
+  },
+  {
+    "Code": "B206",
+    "Heading": "Pop-up book",
+    "Note": ""
+  },
+  {
+    "Code": "B207",
+    "Heading": "Scented / &#8216;smelly&#8217; book",
+    "Note": ""
+  },
+  {
+    "Code": "B208",
+    "Heading": "Sound story / &#8216;noisy&#8217; book",
+    "Note": ""
+  },
+  {
+    "Code": "B209",
+    "Heading": "Sticker book",
+    "Note": ""
+  },
+  {
+    "Code": "B210",
+    "Heading": "Touch-and-feel book",
+    "Note": "A book whose pages have a variety of textured inserts designed to stimulate tactile exploration: see also B214 and B215"
+  },
+  {
+    "Code": "B212",
+    "Heading": "Die-cut book",
+    "Note": "A book which is cut into a distinctive non-rectilinear shape and/or in which holes or shapes have been cut internally. (&#8216;Die-cut&#8217; is used here as a convenient shorthand, and does not imply strict limitation to a particular production process)"
+  },
+  {
+    "Code": "B213",
+    "Heading": "Book-as-toy",
+    "Note": "A book which is also a toy, or which incorporates a toy as an integral part. (Do not, however, use B213 for a multiple-item product which includes a book and a toy as separate items)"
+  },
+  {
+    "Code": "B214",
+    "Heading": "Soft-to-touch book",
+    "Note": "A book whose cover has a soft textured finish, typically over board"
+  },
+  {
+    "Code": "B215",
+    "Heading": "Fuzzy-felt book",
+    "Note": "A book with detachable felt pieces and textured pages on which they can be arranged"
+  },
+  {
+    "Code": "B216",
+    "Heading": "Press-out puzzle pieces",
+    "Note": "A book containing pages with die-cut or press-out pieces that can be used as a jigsaw, puzzle pieces, etc"
+  },
+  {
+    "Code": "B221",
+    "Heading": "Picture book",
+    "Note": "Children&#8217;s picture book: use with applicable Product Form code"
+  },
+  {
+    "Code": "B222",
+    "Heading": "&#8216;Carousel&#8217; book",
+    "Note": "(aka &#8216;Star&#8217; book). Tax treatment of products may differ from that of products with similar codes such as Book as toy or Pop-up book)"
+  },
+  {
+    "Code": "B223",
+    "Heading": "Pull-the-tab book",
+    "Note": "A book with movable card &#8216;tabs&#8217; within the pages. Pull a tab to reveal or animate part of a picture (distinct from a &#8216;lift-the-flap&#8217; book, where flaps simply reveal hidden pictures, and not a &#8216;pop-up&#8217; book with 3D paper engineering)"
+  },
+  {
+    "Code": "B301",
+    "Heading": "Loose leaf &#8211; sheets and binder",
+    "Note": "Use with Product Form code BD"
+  },
+  {
+    "Code": "B302",
+    "Heading": "Loose leaf &#8211; binder only",
+    "Note": "Use with Product Form code BD"
+  },
+  {
+    "Code": "B303",
+    "Heading": "Loose leaf &#8211; sheets only",
+    "Note": "Use with Product Form code BD"
+  },
+  {
+    "Code": "B304",
+    "Heading": "Sewn",
+    "Note": "AKA stitched; for &#8216;saddle-sewn&#8217;, see code B310"
+  },
+  {
+    "Code": "B305",
+    "Heading": "Unsewn / adhesive bound",
+    "Note": "Including &#8216;perfect bound&#8217;, &#8216;glued&#8217;"
+  },
+  {
+    "Code": "B306",
+    "Heading": "Library binding",
+    "Note": "Strengthened cloth-over-boards binding intended for libraries: use with Product form code BB"
+  },
+  {
+    "Code": "B307",
+    "Heading": "Reinforced binding",
+    "Note": "Strengthened binding, not specifically intended for libraries: use with Product form code BB or BC"
+  },
+  {
+    "Code": "B308",
+    "Heading": "Half bound",
+    "Note": "Highest qualiy material used on spine and corners only. Must be accompanied by a code specifiying a material, eg &#8216;half-bound real leather&#8217;"
+  },
+  {
+    "Code": "B309",
+    "Heading": "Quarter bound",
+    "Note": "Highest qualiy material used on spine only. Must be accompanied by a code specifiying a material, eg &#8216;quarter bound real leather&#8217;"
+  },
+  {
+    "Code": "B310",
+    "Heading": "Saddle-sewn",
+    "Note": "AKA &#8216;saddle-stitched&#8217; or &#8216;wire-stitched&#8217;"
+  },
+  {
+    "Code": "B311",
+    "Heading": "Comb bound",
+    "Note": "Round or oval plastic forms in a clamp-like configuration: use with Product Form code BE"
+  },
+  {
+    "Code": "B312",
+    "Heading": "Wire-O",
+    "Note": "Twin loop metal wire spine: use with Product Form code BE"
+  },
+  {
+    "Code": "B313",
+    "Heading": "Concealed wire",
+    "Note": "Cased over Coiled or Wire-O binding: use with Product Form code BE and Product Form Detail code B312 or B314"
+  },
+  {
+    "Code": "B314",
+    "Heading": "Coiled wire bound",
+    "Note": "Spiral wire bound. Use with product form code BE. The default if a spiral binding type is not stated. Cf. Comb and Wire-O binding"
+  },
+  {
+    "Code": "B315",
+    "Heading": "Trade binding",
+    "Note": "Hardcover binding intended for general consumers rather than libraries, use with Product form code BB. The default if a hardcover binding detail is not stated. cf. Library binding"
+  },
+  {
+    "Code": "B316",
+    "Heading": "Swiss binding",
+    "Note": "Cover is attached to the book block along only one edge of the spine, allowing the cover to lay flat"
+  },
+  {
+    "Code": "B317",
+    "Heading": "Notched binding",
+    "Note": "Refinement of perfect binding, with notches cut in the spine of the book block prior to glueing, to improve adhesion and durability"
+  },
+  {
+    "Code": "B400",
+    "Heading": "Self-covered",
+    "Note": "Covers do not use a distinctive stock, but are the same as the body pages"
+  },
+  {
+    "Code": "B401",
+    "Heading": "Cloth over boards",
+    "Note": "Cotton, linen or other woven fabric over boards. Use with &lt;ProductForm&gt; BB"
+  },
+  {
+    "Code": "B402",
+    "Heading": "Paper over boards",
+    "Note": "Cellulose-based or similar non-woven material, which may be printed and may be embossed with an artificial cloth or leather-like texture, over boards. Use with &lt;ProductForm&gt; BB"
+  },
+  {
+    "Code": "B403",
+    "Heading": "Leather, real",
+    "Note": "Covered with leather created by tanning animal hide. May be &#8216;full-grain&#8217; using the entire thickness of the hide, &#8216;top grain&#8217; using the outer layer of the hide, or &#8216;split&#8217; using the inner layers of the hide. Split leather may be embossed with an artificial grain or texture. Use with &lt;ProductForm&gt; BG, and if appropriate with codes B308 or B309 (otherwise &#8216;full-bound&#8217; is implied)"
+  },
+  {
+    "Code": "B404",
+    "Heading": "Leather, imitation",
+    "Note": "Covered with synthetic leather-like material &#8211; polymer or non-animal fibre over a textile backing, usually coated and embossed with an artificial grain or texture. Leatherette, pleather etc. Use with &lt;ProductForm&gt; BB (or BG if particularly high-quality), and if appropriate with codes B308 or B309 (otherwise &#8216;full-bound&#8217; is implied)"
+  },
+  {
+    "Code": "B405",
+    "Heading": "Leather, bonded",
+    "Note": "Covered with leather reconstituted from a pulp made from shredded animal hide, layered on a fibre or textile backing, coated and usually embossed with an artificial grain or texture. Use with &lt;ProductForm&gt; BG, and if appropriate with codes B308 or B309 (otherwise &#8216;full-bound&#8217; is implied)"
+  },
+  {
+    "Code": "B406",
+    "Heading": "Vellum",
+    "Note": "Pages made with prepared but untanned animal skin (usually calf, occasionally goat or sheep). Includes parchment, a thicker and less refined form of animal skin, but not &#8216;paper vellum&#8217; or vegetable parchment made from synthetic or plant fibres"
+  },
+  {
+    "Code": "B409",
+    "Heading": "Cloth",
+    "Note": "Cloth, not necessarily over boards &#8211; cf B401"
+  },
+  {
+    "Code": "B410",
+    "Heading": "Imitation cloth",
+    "Note": "Spanish &#8216;simil-tela&#8217;"
+  },
+  {
+    "Code": "B411",
+    "Heading": "Velvet",
+    "Note": ""
+  },
+  {
+    "Code": "B412",
+    "Heading": "Flexible plastic/vinyl cover",
+    "Note": "AKA &#8216;flexibound&#8217;: use with Product Form code BC"
+  },
+  {
+    "Code": "B413",
+    "Heading": "Plastic-covered",
+    "Note": ""
+  },
+  {
+    "Code": "B414",
+    "Heading": "Vinyl-covered",
+    "Note": ""
+  },
+  {
+    "Code": "B415",
+    "Heading": "Laminated cover",
+    "Note": "Book, laminating material unspecified: use L101 for &#8216;whole product laminated&#8217;, eg a laminated sheet map or wallchart"
+  },
+  {
+    "Code": "B416",
+    "Heading": "Card cover",
+    "Note": "With card cover (like a typical paperback). As distinct from a self-cover or more elaborate binding"
+  },
+  {
+    "Code": "B417",
+    "Heading": "Duplex-printed cover",
+    "Note": "Printed both inside and outside the front and/or back cover"
+  },
+  {
+    "Code": "B501",
+    "Heading": "With dust jacket",
+    "Note": "Type unspecified"
+  },
+  {
+    "Code": "B502",
+    "Heading": "With printed dust jacket",
+    "Note": "Used to distinguish from B503"
+  },
+  {
+    "Code": "B503",
+    "Heading": "With translucent dust cover",
+    "Note": "With translucent paper or plastic protective cover"
+  },
+  {
+    "Code": "B504",
+    "Heading": "With flaps",
+    "Note": "For paperback with flaps"
+  },
+  {
+    "Code": "B505",
+    "Heading": "With thumb index",
+    "Note": ""
+  },
+  {
+    "Code": "B506",
+    "Heading": "With ribbon marker(s)",
+    "Note": "If the number of markers is significant, it can be stated as free text in &lt;ProductFormDescription&gt;"
+  },
+  {
+    "Code": "B507",
+    "Heading": "With zip fastener",
+    "Note": ""
+  },
+  {
+    "Code": "B508",
+    "Heading": "With button snap fastener",
+    "Note": ""
+  },
+  {
+    "Code": "B509",
+    "Heading": "With leather edge lining",
+    "Note": "AKA yapp edge?"
+  },
+  {
+    "Code": "B510",
+    "Heading": "Rough front",
+    "Note": "With edge trimming such that the front edge is ragged, not neatly and squarely trimmed: AKA deckle edge, feather edge, uncut edge, rough cut"
+  },
+  {
+    "Code": "B511",
+    "Heading": "Foldout",
+    "Note": "With one or more gatefold or foldout sections bound in"
+  },
+  {
+    "Code": "B512",
+    "Heading": "Wide margin",
+    "Note": "Pages include extra-wide margin specifically intended for hand-written annotations"
+  },
+  {
+    "Code": "B513",
+    "Heading": "With fastening strap",
+    "Note": "Book with attached loop for fixing to baby stroller, cot, chair etc"
+  },
+  {
+    "Code": "B514",
+    "Heading": "With perforated pages",
+    "Note": "With one or more pages perforated and intended to be torn out for use"
+  },
+  {
+    "Code": "B515",
+    "Heading": "Acid-free paper",
+    "Note": "Printed on acid-free or alkaline buffered paper conforming with ISO 9706"
+  },
+  {
+    "Code": "B516",
+    "Heading": "Archival paper",
+    "Note": "Printed on acid-free or alkaline buffered paper with a high cotton content, conforming with ISO 11108"
+  },
+  {
+    "Code": "B517",
+    "Heading": "With elasticated strap",
+    "Note": "Strap acts as closure or as page marker"
+  },
+  {
+    "Code": "B518",
+    "Heading": "With serialized authenticity token",
+    "Note": "For example, holographic sticker such as the banderol used in the Turkish book trade"
+  },
+  {
+    "Code": "B519",
+    "Heading": "With dust jacket poster",
+    "Note": "Jacket in the form of a pamphlet or poster, specifically intended to be removed and read or used separately from the book"
+  },
+  {
+    "Code": "B601",
+    "Heading": "Turn-around book",
+    "Note": "A book in which half the content is printed upside-down, to be read the other way round. Also known as a &#8216;flip-book&#8217; or &#8216;t&ecirc;te-b&ecirc;che&#8217; (Fr) binding, it has two front covers and a single spine. Usually an omnibus of two works"
+  },
+  {
+    "Code": "B602",
+    "Heading": "Unflipped manga format",
+    "Note": "Manga with pages and panels in the sequence of the original Japanese, but with Western text"
+  },
+  {
+    "Code": "B603",
+    "Heading": "Back-to-back book",
+    "Note": "A book in which half the content is printed so as to be read from the other cover. All content is printed the same way up. Also known as &#8216;dos-&agrave;-dos&#8217; (Fr) binding, it has two front covers and two spines. Usually an omnibus of two works"
+  },
+  {
+    "Code": "B610",
+    "Heading": "Syllabification",
+    "Note": "Text shows syllable breaks"
+  },
+  {
+    "Code": "B701",
+    "Heading": "UK Uncontracted Braille",
+    "Note": "Single letters only. Was formerly identified as UK Braille Grade 1"
+  },
+  {
+    "Code": "B702",
+    "Heading": "UK Contracted Braille",
+    "Note": "With some letter combinations. Was formerly identified as UK Braille Grade 2"
+  },
+  {
+    "Code": "B703",
+    "Heading": "US Braille",
+    "Note": "For US Braille, prefer codes B704 and B705 as appropriate"
+  },
+  {
+    "Code": "B704",
+    "Heading": "US Uncontracted Braille",
+    "Note": ""
+  },
+  {
+    "Code": "B705",
+    "Heading": "US Contracted Braille",
+    "Note": ""
+  },
+  {
+    "Code": "B706",
+    "Heading": "Unified English Braille",
+    "Note": "For UEB, prefer codes B708 and B709 as appropriate"
+  },
+  {
+    "Code": "B707",
+    "Heading": "Moon",
+    "Note": "Moon embossed alphabet, used by some print-impaired readers who have difficulties with Braille"
+  },
+  {
+    "Code": "B708",
+    "Heading": "Unified English Uncontracted Braille",
+    "Note": ""
+  },
+  {
+    "Code": "B709",
+    "Heading": "Unified English Contracted Braille",
+    "Note": ""
+  },
+  {
+    "Code": "D101",
+    "Heading": "Real Video format",
+    "Note": "Proprietary RealNetworks format. Includes Real Video packaged within a .rm RealMedia container"
+  },
+  {
+    "Code": "D102",
+    "Heading": "Quicktime format",
+    "Note": ""
+  },
+  {
+    "Code": "D103",
+    "Heading": "AVI format",
+    "Note": ""
+  },
+  {
+    "Code": "D104",
+    "Heading": "Windows Media Video format",
+    "Note": ""
+  },
+  {
+    "Code": "D105",
+    "Heading": "MPEG-4",
+    "Note": ""
+  },
+  {
+    "Code": "D201",
+    "Heading": "MS-DOS",
+    "Note": "Use with an applicable Product Form code D*; note that more detail of operating system requirements can be given in a Product Form Feature composite"
+  },
+  {
+    "Code": "D202",
+    "Heading": "Windows",
+    "Note": "Use with an applicable Product Form code D*; see note on D201"
+  },
+  {
+    "Code": "D203",
+    "Heading": "Macintosh",
+    "Note": "Use with an applicable Product Form code D*; see note on D201"
+  },
+  {
+    "Code": "D204",
+    "Heading": "UNIX / LINUX",
+    "Note": "Use with an applicable Product Form code D*; see note on D201"
+  },
+  {
+    "Code": "D205",
+    "Heading": "Other operating system(s)",
+    "Note": "Use with an applicable Product Form code D*; see note on D201"
+  },
+  {
+    "Code": "D206",
+    "Heading": "Palm OS",
+    "Note": "Use with an applicable Product Form code D*; see note on D201"
+  },
+  {
+    "Code": "D207",
+    "Heading": "Windows Mobile",
+    "Note": "Use with an applicable Product Form code D*; see note on D201"
+  },
+  {
+    "Code": "D301",
+    "Heading": "Microsoft XBox",
+    "Note": "Use with Product Form code DE or DB as applicable"
+  },
+  {
+    "Code": "D302",
+    "Heading": "Nintendo Gameboy Color",
+    "Note": "Use with Product Form code DE or DB as applicable"
+  },
+  {
+    "Code": "D303",
+    "Heading": "Nintendo Gameboy Advanced",
+    "Note": "Use with Product Form code DE or DB as applicable"
+  },
+  {
+    "Code": "D304",
+    "Heading": "Nintendo Gameboy",
+    "Note": "Use with Product Form code DE or DB as applicable"
+  },
+  {
+    "Code": "D305",
+    "Heading": "Nintendo Gamecube",
+    "Note": "Use with Product Form code DE or DB as applicable"
+  },
+  {
+    "Code": "D306",
+    "Heading": "Nintendo 64",
+    "Note": "Use with Product Form code DE or DB as applicable"
+  },
+  {
+    "Code": "D307",
+    "Heading": "Sega Dreamcast",
+    "Note": "Use with Product Form code DE or DB as applicable"
+  },
+  {
+    "Code": "D308",
+    "Heading": "Sega Genesis/Megadrive",
+    "Note": "Use with Product Form code DE or DB as applicable"
+  },
+  {
+    "Code": "D309",
+    "Heading": "Sega Saturn",
+    "Note": "Use with Product Form code DE or DB as applicable"
+  },
+  {
+    "Code": "D310",
+    "Heading": "Sony PlayStation 1",
+    "Note": "Use with Product Form code DE or DB as applicable"
+  },
+  {
+    "Code": "D311",
+    "Heading": "Sony PlayStation 2",
+    "Note": "Use with Product Form code DE or DB as applicable"
+  },
+  {
+    "Code": "D312",
+    "Heading": "Nintendo Dual Screen",
+    "Note": "Use with Product Form code DE or DB as applicable"
+  },
+  {
+    "Code": "D313",
+    "Heading": "Sony PlayStation 3",
+    "Note": "Use with Product Form code DE or DB as applicable"
+  },
+  {
+    "Code": "D314",
+    "Heading": "Xbox 360",
+    "Note": "Use with Product Form code DE or DB as applicable"
+  },
+  {
+    "Code": "D315",
+    "Heading": "Nintendo Wii",
+    "Note": "Use with Product Form code DE or DB as applicable"
+  },
+  {
+    "Code": "D316",
+    "Heading": "Sony PlayStation Portable (PSP)",
+    "Note": "Use with Product Form code DE or DB as applicable"
+  },
+  {
+    "Code": "D317",
+    "Heading": "Sony PlayStation 3",
+    "Note": "Use with Product Form code DE or DB as applicable"
+  },
+  {
+    "Code": "D318",
+    "Heading": "Sony PlayStation 4",
+    "Note": "Use with Product Form code DE or DB as applicable"
+  },
+  {
+    "Code": "D319",
+    "Heading": "Sony PlayStation Vita",
+    "Note": "Use with Product Form code DE or DB as applicable"
+  },
+  {
+    "Code": "D320",
+    "Heading": "Microsoft Xbox One",
+    "Note": "Use with Product Form code DE or DB as applicable"
+  },
+  {
+    "Code": "D321",
+    "Heading": "Nintendo Switch",
+    "Note": "Use with Product Form code DE or DB as applicable"
+  },
+  {
+    "Code": "D322",
+    "Heading": "Ninetndo Wii U",
+    "Note": "Use with Product Form code DE or DB as applicable"
+  },
+  {
+    "Code": "E100",
+    "Heading": "Other",
+    "Note": "No code allocated for this e-publication format yet"
+  },
+  {
+    "Code": "E101",
+    "Heading": "EPUB",
+    "Note": "The Open Publication Structure / OPS Container Format standard of the International Digital Publishing Forum (IDPF) [File extension .epub]"
+  },
+  {
+    "Code": "E102",
+    "Heading": "OEB",
+    "Note": "The Open EBook format of the IDPF, a predecessor of the full EPUB format, still (2008) supported as part of the latter [File extension .opf]. Includes EPUB format up to and including version 2 &#8211; but prefer code E101 for EPUB 2, and always use code E101 for EPUB 3"
+  },
+  {
+    "Code": "E103",
+    "Heading": "DOC",
+    "Note": "Microsoft Word binary document format [File extension .doc]"
+  },
+  {
+    "Code": "E104",
+    "Heading": "DOCX",
+    "Note": "Office Open XML / Microsoft Word XML document format (ISO/IEC 29500:2008) [File extension .docx]"
+  },
+  {
+    "Code": "E105",
+    "Heading": "HTML",
+    "Note": "HyperText Mark-up Language [File extension .html, .htm]"
+  },
+  {
+    "Code": "E106",
+    "Heading": "ODF",
+    "Note": "Open Document Format [File extension .odt]"
+  },
+  {
+    "Code": "E107",
+    "Heading": "PDF",
+    "Note": "Portable Document Format (ISO 32000-1:2008) [File extension .pdf]"
+  },
+  {
+    "Code": "E108",
+    "Heading": "PDF/A",
+    "Note": "PDF archiving format defined by ISO 19005-1:2005 [File extension .pdf]"
+  },
+  {
+    "Code": "E109",
+    "Heading": "RTF",
+    "Note": "Rich Text Format [File extension .rtf]"
+  },
+  {
+    "Code": "E110",
+    "Heading": "SGML",
+    "Note": "Standard Generalized Mark-up Language"
+  },
+  {
+    "Code": "E111",
+    "Heading": "TCR",
+    "Note": "A compressed text format mainly used on Psion handheld devices [File extension .tcr]"
+  },
+  {
+    "Code": "E112",
+    "Heading": "TXT",
+    "Note": "Text file format [File extension .txt]. Typically ASCII or Unicode UTF-8/16"
+  },
+  {
+    "Code": "E113",
+    "Heading": "XHTML",
+    "Note": "Extensible Hypertext Markup Language [File extension .xhtml, .xht, .xml, .html, .htm]"
+  },
+  {
+    "Code": "E114",
+    "Heading": "zTXT",
+    "Note": "A compressed text format mainly used on Palm handheld devices [File extension .pdb &#8211; see also E121, E125, E130]"
+  },
+  {
+    "Code": "E115",
+    "Heading": "XPS",
+    "Note": "XML Paper Specification format [File extension .xps]"
+  },
+  {
+    "Code": "E116",
+    "Heading": "Amazon Kindle",
+    "Note": "A format proprietary to Amazon for use with its Kindle reading devices or software readers [File extensions .azw, .mobi, .prc etc]. Prefer code E148 for Print Replica files"
+  },
+  {
+    "Code": "E117",
+    "Heading": "BBeB",
+    "Note": "A Sony proprietary format for use with the Sony Reader and LIBRI&eacute; reading devices [File extension .lrf]"
+  },
+  {
+    "Code": "E118",
+    "Heading": "DXReader",
+    "Note": "A proprietary format for use with DXReader software"
+  },
+  {
+    "Code": "E119",
+    "Heading": "EBL",
+    "Note": "A format proprietary to the Ebook Library service"
+  },
+  {
+    "Code": "E120",
+    "Heading": "Ebrary",
+    "Note": "A format proprietary to the Ebrary service"
+  },
+  {
+    "Code": "E121",
+    "Heading": "eReader",
+    "Note": "A proprietary format for use with eReader (AKA &#8216;Palm Reader&#8217;) software on various hardware platforms [File extension .pdb &#8211; see also E114, E125, E130]"
+  },
+  {
+    "Code": "E122",
+    "Heading": "Exebook",
+    "Note": "A proprietary format with its own reading system for Windows platforms [File extension .exe]"
+  },
+  {
+    "Code": "E123",
+    "Heading": "Franklin eBookman",
+    "Note": "A proprietary format for use with the Franklin eBookman reader"
+  },
+  {
+    "Code": "E124",
+    "Heading": "Gemstar Rocketbook",
+    "Note": "A proprietary format for use with the Gemstar Rocketbook reader [File extension .rb]"
+  },
+  {
+    "Code": "E125",
+    "Heading": "iSilo",
+    "Note": "A proprietary format for use with iSilo software on various hardware platforms [File extension .pdb &#8211; see also E114, E121, E130]"
+  },
+  {
+    "Code": "E126",
+    "Heading": "Microsoft Reader",
+    "Note": "A proprietary format for use with Microsoft Reader software on Windows and Pocket PC platforms [File extension .lit]"
+  },
+  {
+    "Code": "E127",
+    "Heading": "Mobipocket",
+    "Note": "A proprietary format for use with Mobipocket software on various hardware platforms [File extensions .mobi, .prc]. Includes Amazon Kindle formats up to and including version 7 &#8211; but prefer code E116 for version 7, and always use E116 for KF8"
+  },
+  {
+    "Code": "E128",
+    "Heading": "MyiLibrary",
+    "Note": "A format proprietary to the MyiLibrary service"
+  },
+  {
+    "Code": "E129",
+    "Heading": "NetLibrary",
+    "Note": "A format proprietary to the NetLibrary service"
+  },
+  {
+    "Code": "E130",
+    "Heading": "Plucker",
+    "Note": "A proprietary format for use with Plucker reader software on Palm and other handheld devices [File extension .pdb &#8211; see also E114, E121, E125]"
+  },
+  {
+    "Code": "E131",
+    "Heading": "VitalBook",
+    "Note": "A format proprietary to the VitalSource service"
+  },
+  {
+    "Code": "E132",
+    "Heading": "Vook",
+    "Note": "A proprietary digital product combining text and video content and available to be used online or as a downloadable application for a mobile device &#8211; see www.vook.com"
+  },
+  {
+    "Code": "E133",
+    "Heading": "Google Edition",
+    "Note": "An epublication made available by Google in association with a publisher; readable online on a browser-enabled device and offline on designated ebook readers"
+  },
+  {
+    "Code": "E134",
+    "Heading": "Book &#8216;app&#8217; for iOS",
+    "Note": "Epublication packaged as application for iOS (eg Apple iPhone, iPad etc), containing both executable code and content. Use &lt;ProductContentType&gt; to describe content, and &lt;ProductFormFeatureType&gt; to list detailed technical requirements"
+  },
+  {
+    "Code": "E135",
+    "Heading": "Book &#8216;app&#8217; for Android",
+    "Note": "Epublication packaged as application for Android (eg Android phone or tablet), containing both executable code and content. Use &lt;ProductContentType&gt; to describe content, and &lt;ProductFormFeatureType&gt; to list detailed technical requirements"
+  },
+  {
+    "Code": "E136",
+    "Heading": "Book &#8216;app&#8217; for other operating system",
+    "Note": "Epublication packaged as application, containing both executable code and content. Use where other &#8216;app&#8217; codes are not applicable. Technical requirements such as target operating system and/or device should be provided eg in &lt;ProductFormFeatureType&gt;. Content type (text or text plus various &#8216;enhancements&#8217;) may be described with &lt;ProductContentType&gt;"
+  },
+  {
+    "Code": "E139",
+    "Heading": "CEB",
+    "Note": "Founder Apabi&#8217;s proprietary basic e-book format"
+  },
+  {
+    "Code": "E140",
+    "Heading": "CEBX",
+    "Note": "Founder Apabi&#8217;s proprietary XML e-book format"
+  },
+  {
+    "Code": "E141",
+    "Heading": "iBook",
+    "Note": "Apple&#8217;s iBook format (a proprietary extension of EPUB), can only be read on Apple iOS devices"
+  },
+  {
+    "Code": "E142",
+    "Heading": "ePIB",
+    "Note": "Proprietary format based on EPUB used by Barnes and Noble for fixed-format e-books, readable on NOOK devices and Nook reader software"
+  },
+  {
+    "Code": "E143",
+    "Heading": "SCORM",
+    "Note": "Sharable Content Object Reference Model, standard content and packaging format for e-learning objects"
+  },
+  {
+    "Code": "E144",
+    "Heading": "EBP",
+    "Note": "E-book Plus (proprietary Norwegian e-book format)"
+  },
+  {
+    "Code": "E145",
+    "Heading": "Page Perfect",
+    "Note": "Proprietary format based on PDF used by Barnes and Noble for fixed-format e-books, readable on some NOOK devices and Nook reader software"
+  },
+  {
+    "Code": "E146",
+    "Heading": "BRF",
+    "Note": "Electronic Braille file"
+  },
+  {
+    "Code": "E147",
+    "Heading": "Erudit",
+    "Note": "Proprietary XML format for articles, see for example https://www.cairn.info/services-aux-editeurs.php"
+  },
+  {
+    "Code": "E148",
+    "Heading": "Amazon Kindle Print Replica",
+    "Note": "A format proprietary to Amazon for use with its Kindle reading devices or software readers. Essentially a PDF embedded within a KF8 format file"
+  },
+  {
+    "Code": "E200",
+    "Heading": "Reflowable",
+    "Note": "Use this and/or code E201 when a particular e-publication type (specified using codes E100 and upwards) has both fixed format and reflowable variants, to indicate which option is included in this product"
+  },
+  {
+    "Code": "E201",
+    "Heading": "Fixed format",
+    "Note": "Use this and/or code E200 when a particular e-publication type (specified using codes E100 and upwards) has both fixed format and reflowable variants, to indicate which option is included in this product"
+  },
+  {
+    "Code": "E202",
+    "Heading": "Readable offline",
+    "Note": "All e-publication resources are included within the e-publication package"
+  },
+  {
+    "Code": "E203",
+    "Heading": "Requires network connection",
+    "Note": "E-publication requires a network connection to access some resources (eg an enhanced e-book where video clips are not stored within the e-publication package itself, but are delivered via an internet connection)"
+  },
+  {
+    "Code": "E204",
+    "Heading": "Content removed",
+    "Note": "Resources (eg images) present in other editions have been removed from this product, eg due to rights issues"
+  },
+  {
+    "Code": "E210",
+    "Heading": "Landscape",
+    "Note": "Use for fixed-format e-books optimised for landscape display. Also include an indication of the optimal screen aspect ratio"
+  },
+  {
+    "Code": "E211",
+    "Heading": "Portrait",
+    "Note": "Use for fixed-format e-books optimised for portrait display. Also include an indication of the optimal screen aspect ratio"
+  },
+  {
+    "Code": "E221",
+    "Heading": "5:4",
+    "Note": "Use for fixed-format e-books optimised for displays with a 5:4 aspect ratio (eg 1280x1024 pixels etc, assuming square pixels). Note that aspect ratio codes are NOT specific to actual screen dimensions or pixel counts, but to the ratios between two dimensions or two pixel counts"
+  },
+  {
+    "Code": "E222",
+    "Heading": "4:3",
+    "Note": "Use for fixed-format e-books optimised for displays with a 4:3 aspect ratio (eg 800x600, 1024x768, 2048x1536 pixels etc)"
+  },
+  {
+    "Code": "E223",
+    "Heading": "3:2",
+    "Note": "Use for fixed-format e-books optimised for displays with a 3:2 aspect ratio (eg 960x640, 3072x2048 pixels etc)"
+  },
+  {
+    "Code": "E224",
+    "Heading": "16:10",
+    "Note": "Use for fixed-format e-books optimised for displays with a 16:10 aspect ratio (eg 1440x900, 2560x1600 pixels etc)"
+  },
+  {
+    "Code": "E225",
+    "Heading": "16:9",
+    "Note": "Use for fixed-format e-books optimised for displays with a 16:9 aspect ratio (eg 1024x576, 1920x1080, 2048x1152 pixels etc)"
+  },
+  {
+    "Code": "L101",
+    "Heading": "Laminated",
+    "Note": "Whole product laminated (eg laminated map, fold-out chart, wallchart, etc): use B415 for book with laminated cover"
+  },
+  {
+    "Code": "P101",
+    "Heading": "Desk calendar",
+    "Note": "Use with Product Form code PC"
+  },
+  {
+    "Code": "P102",
+    "Heading": "Mini calendar",
+    "Note": "Use with Product Form code PC"
+  },
+  {
+    "Code": "P103",
+    "Heading": "Engagement calendar",
+    "Note": "Use with Product Form code PC"
+  },
+  {
+    "Code": "P104",
+    "Heading": "Day by day calendar",
+    "Note": "Use with Product Form code PC"
+  },
+  {
+    "Code": "P105",
+    "Heading": "Poster calendar",
+    "Note": "Use with Product Form code PC"
+  },
+  {
+    "Code": "P106",
+    "Heading": "Wall calendar",
+    "Note": "Use with Product Form code PC"
+  },
+  {
+    "Code": "P107",
+    "Heading": "Perpetual calendar",
+    "Note": "Use with Product Form code PC"
+  },
+  {
+    "Code": "P108",
+    "Heading": "Advent calendar",
+    "Note": "Use with Product Form code PC"
+  },
+  {
+    "Code": "P109",
+    "Heading": "Bookmark calendar",
+    "Note": "Use with Product Form code PC"
+  },
+  {
+    "Code": "P110",
+    "Heading": "Student calendar",
+    "Note": "Use with Product Form code PC"
+  },
+  {
+    "Code": "P111",
+    "Heading": "Project calendar",
+    "Note": "Use with Product Form code PC"
+  },
+  {
+    "Code": "P112",
+    "Heading": "Almanac calendar",
+    "Note": "Use with Product Form code PC"
+  },
+  {
+    "Code": "P113",
+    "Heading": "Other calendar",
+    "Note": "A calendar that is not one of the types specified elsewhere: use with Product Form code PC"
+  },
+  {
+    "Code": "P114",
+    "Heading": "Other calendar or organiser product",
+    "Note": "A product that is associated with or ancillary to a calendar or organiser, eg a deskstand for a calendar, or an insert for an organiser: use with Product Form code PC or PS"
+  },
+  {
+    "Code": "P120",
+    "Heading": "Picture story cards",
+    "Note": "Kamishibai / Cantastoria cards"
+  },
+  {
+    "Code": "P201",
+    "Heading": "Hardback (stationery)",
+    "Note": "Stationery item in hardback book format"
+  },
+  {
+    "Code": "P202",
+    "Heading": "Paperback / softback (stationery)",
+    "Note": "Stationery item in paperback/softback book format"
+  },
+  {
+    "Code": "P203",
+    "Heading": "Spiral bound (stationery)",
+    "Note": "Stationery item in spiral-bound book format"
+  },
+  {
+    "Code": "P204",
+    "Heading": "Leather / fine binding (stationery)",
+    "Note": "Stationery item in leather-bound book format, or other fine binding"
+  },
+  {
+    "Code": "P301",
+    "Heading": "With hanging strips",
+    "Note": "For wall map, poster, wallchart etc"
+  },
+  {
+    "Code": "V201",
+    "Heading": "PAL",
+    "Note": "SD TV standard for video or DVD"
+  },
+  {
+    "Code": "V202",
+    "Heading": "NTSC",
+    "Note": "SD TV standard for video or DVD"
+  },
+  {
+    "Code": "V203",
+    "Heading": "SECAM",
+    "Note": "SD TV standard for video or DVD"
+  },
+  {
+    "Code": "V205",
+    "Heading": "HD",
+    "Note": "Up to 2K resolution (1920 or 2048 pixels wide) eg for Blu-Ray"
+  },
+  {
+    "Code": "V206",
+    "Heading": "UHD",
+    "Note": "Up to 4K resolution (3840 or 4096 pixels wide) eg for Ultra HD Blu-Ray"
+  },
+  {
+    "Code": "V207",
+    "Heading": "3D video",
+    "Note": "Eg for Blu-ray 3D"
+  },
+  {
+    "Code": "V220",
+    "Heading": "Home use",
+    "Note": "Licensed for use in domestic contexts only"
+  },
+  {
+    "Code": "V221",
+    "Heading": "Classroom use",
+    "Note": "Licensed for use in education"
+  }
+]

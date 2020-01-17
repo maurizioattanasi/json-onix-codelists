@@ -1,0 +1,27 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Review",
+    "Note": "The full text of a review in a third-party publication in any medium"
+  },
+  {
+    "Code": "02",
+    "Heading": "Bestseller list",
+    "Note": ""
+  },
+  {
+    "Code": "03",
+    "Heading": "Media mention",
+    "Note": "Other than a review"
+  },
+  {
+    "Code": "04",
+    "Heading": "&#8216;One locality, one book&#8217; program",
+    "Note": "(North America) Inclusion in a program such as &#8216;Chicago Reads&#8217;, &#8216;Seattle Reads&#8217;"
+  },
+  {
+    "Code": "05",
+    "Heading": "Curated list",
+    "Note": "For example a &#8216;best books of the year&#8217; or &#8216;25 books you should have read&#8217; list, without regard to their bestseller status"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Unknown",
+    "Note": ""
+  },
+  {
+    "Code": "02",
+    "Heading": "Anonymous",
+    "Note": ""
+  },
+  {
+    "Code": "03",
+    "Heading": "et al",
+    "Note": "And others: additional contributors not listed"
+  },
+  {
+    "Code": "04",
+    "Heading": "Various authors",
+    "Note": "When the product is a pack of books by different authors"
+  },
+  {
+    "Code": "05",
+    "Heading": "Synthesized voice &#8211; male",
+    "Note": "Use with Contributor role code E07 &#8216;read by&#8217;, for audio books for the blind"
+  },
+  {
+    "Code": "06",
+    "Heading": "Synthesized voice &#8211; female",
+    "Note": "Use with Contributor role code E07 &#8216;read by&#8217;, for audio books for the blind"
+  },
+  {
+    "Code": "07",
+    "Heading": "Synthesized voice &#8211; unspecified",
+    "Note": "Use with Contributor role code E07 &#8216;read by&#8217;, for audio books for the blind"
+  }
+]

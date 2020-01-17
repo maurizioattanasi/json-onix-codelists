@@ -1,0 +1,47 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Publication linked to conference",
+    "Note": "For example an academic, professional or political conference"
+  },
+  {
+    "Code": "02",
+    "Heading": "Complete proceedings of conference",
+    "Note": ""
+  },
+  {
+    "Code": "03",
+    "Heading": "Selected papers from conference",
+    "Note": ""
+  },
+  {
+    "Code": "11",
+    "Heading": "Publication linked to sporting event",
+    "Note": "For example a competitive match, fixture series or championship"
+  },
+  {
+    "Code": "12",
+    "Heading": "Programme or guide for sporting event",
+    "Note": ""
+  },
+  {
+    "Code": "21",
+    "Heading": "Publication linked to artistic event",
+    "Note": "For example a theatrical or musical event or performance, a season of events or performances, or an exhibition of art"
+  },
+  {
+    "Code": "22",
+    "Heading": "Programme or guide for artistic event",
+    "Note": ""
+  },
+  {
+    "Code": "31",
+    "Heading": "Publication linked to exposition",
+    "Note": "For example a commercial exposition"
+  },
+  {
+    "Code": "32",
+    "Heading": "Programme or guide for exposition",
+    "Note": ""
+  }
+]

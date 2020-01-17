@@ -1,0 +1,17 @@
+[
+  {
+    "Code": "00",
+    "Heading": "Unspecified",
+    "Note": "Default"
+  },
+  {
+    "Code": "01",
+    "Heading": "Provisional",
+    "Note": ""
+  },
+  {
+    "Code": "02",
+    "Heading": "Firm",
+    "Note": ""
+  }
+]

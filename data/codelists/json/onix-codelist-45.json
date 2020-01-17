@@ -1,0 +1,92 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Publisher",
+    "Note": ""
+  },
+  {
+    "Code": "02",
+    "Heading": "Co-publisher",
+    "Note": "Use where two or more publishers co-publish the exact same product, either under a single ISBN (in which case both publishers are co-publishers), or under different ISBNs (in which case the publisher of THIS ISBN is the publisher and the publishers of OTHER ISBNs are co-publishers. Note this is different from publication of &#8216;co-editions&#8217;"
+  },
+  {
+    "Code": "03",
+    "Heading": "Sponsor",
+    "Note": ""
+  },
+  {
+    "Code": "04",
+    "Heading": "Publisher of original-language version",
+    "Note": "Of a translated work"
+  },
+  {
+    "Code": "05",
+    "Heading": "Host/distributor of electronic content",
+    "Note": ""
+  },
+  {
+    "Code": "06",
+    "Heading": "Published for/on behalf of",
+    "Note": ""
+  },
+  {
+    "Code": "07",
+    "Heading": "Published in association with",
+    "Note": "Use also for &#8216;Published in cooperation with&#8217;"
+  },
+  {
+    "Code": "09",
+    "Heading": "New or acquiring publisher",
+    "Note": "When ownership of a product or title is transferred from one publisher to another"
+  },
+  {
+    "Code": "10",
+    "Heading": "Publishing group",
+    "Note": "The group to which a publisher (publishing role 01) belongs: use only if a publisher has been identified with role code 01"
+  },
+  {
+    "Code": "11",
+    "Heading": "Publisher of facsimile original",
+    "Note": "The publisher of the edition of which a product is a facsimile"
+  },
+  {
+    "Code": "12",
+    "Heading": "Repackager of prebound edition",
+    "Note": "The repackager of a prebound edition that has been assigned its own identifier. (In the US, a &#8216;prebound edition&#8217; is a book that was previously bound, normally as a paperback, and has been rebound with a library-quality hardcover binding by a supplier other than the original publisher.) Required when the &lt;EditionType&gt; is coded PRB. The original publisher should be named as the &#8216;publisher&#8217;"
+  },
+  {
+    "Code": "13",
+    "Heading": "Former publisher",
+    "Note": "When ownership of a product or title is transferred from one publisher to another (complement of code 09)"
+  },
+  {
+    "Code": "14",
+    "Heading": "Publication funder",
+    "Note": "Body funding publication fees, if different from the body funding the underlying research. Intended primarily for use with open access publications"
+  },
+  {
+    "Code": "15",
+    "Heading": "Research funder",
+    "Note": "Body funding the research on which publication is based, if different from the body funding the publication. Intended primarily for use with open access publications"
+  },
+  {
+    "Code": "16",
+    "Heading": "Funding body",
+    "Note": "Body funding research and publication. Intended primarily for use with open access publications"
+  },
+  {
+    "Code": "17",
+    "Heading": "Printer",
+    "Note": "Organisation responsible for printing a printed product. Supplied primarily to meet legal deposit requirements, and may apply only to the first impression. The organisation may also be responsible for binding, when a separate binder is not specified"
+  },
+  {
+    "Code": "18",
+    "Heading": "Binder",
+    "Note": "Organisation responsible for binding a printed product (where distinct from the printer). Supplied primarily to meet legal deposit requirements, and may apply only to the first impression"
+  },
+  {
+    "Code": "19",
+    "Heading": "Manufacturer",
+    "Note": "Organisation primarily responsible for physical manufacture of a product, when neither Printer nor Binder is directly appropriate (for example, with disc or tape products, or digital products on a physical carrier)"
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "Code": "01",
+    "Heading": "ONIX audience codes",
+    "Note": "Using a code from List 28"
+  },
+  {
+    "Code": "02",
+    "Heading": "Proprietary",
+    "Note": "As specified in &lt;AudienceCodeTypeName&gt;"
+  },
+  {
+    "Code": "03",
+    "Heading": "MPAA rating",
+    "Note": "Motion Picture Association of America rating applied to movies"
+  },
+  {
+    "Code": "04",
+    "Heading": "BBFC rating",
+    "Note": "British Board of Film Classification rating applied to movies"
+  },
+  {
+    "Code": "05",
+    "Heading": "FSK rating",
+    "Note": "German FSK (Freiwillige Selbstkontrolle der Filmwirtschaft) rating applied to movies"
+  },
+  {
+    "Code": "06",
+    "Heading": "BTLF audience code",
+    "Note": "French Canadian audience code list, used by BTLF for Memento"
+  },
+  {
+    "Code": "07",
+    "Heading": "Electre audience code",
+    "Note": "Audience code used by Electre (France)"
+  },
+  {
+    "Code": "08",
+    "Heading": "ANELE Tipo",
+    "Note": "Spain: educational audience and material type code of the Asociaci&oacute;n Nacional de Editores de Libros y Material de Ense&ntilde;anza"
+  },
+  {
+    "Code": "09",
+    "Heading": "AVI",
+    "Note": "Code list used to specify reading levels for children&#8217;s books, used in Flanders, and formerly in the Netherlands &#8211; see also code 18"
+  },
+  {
+    "Code": "10",
+    "Heading": "USK rating",
+    "Note": "German USK (Unterhaltungssoftware Selbstkontrolle) rating applied to video or computer games"
+  },
+  {
+    "Code": "11",
+    "Heading": "AWS",
+    "Note": "Audience code used in Flanders"
+  },
+  {
+    "Code": "12",
+    "Heading": "Schulform",
+    "Note": "Type of school: codelist maintained by VdS Bildungsmedien eV, the German association of educational media publishers. See http://www.bildungsmedien.de/service/onixlisten/schulform_onix_codelist29_value12_0408.pdf"
+  },
+  {
+    "Code": "13",
+    "Heading": "Bundesland",
+    "Note": "School region: codelist maintained by VdS Bildungsmedien eV, the German association of educational media publishers, indicating where products are licensed to be used in schools. See http://www.bildungsmedien.de/service/onixlisten/bundesland_onix_codelist29_value13_0408.pdf"
+  },
+  {
+    "Code": "14",
+    "Heading": "Ausbildungsberuf",
+    "Note": "Occupation: codelist for vocational training materials, maintained by VdS Bildungsmedien eV, the German association of educational media publishers. See http://www.bildungsmedien.de/service/onixlisten/ausbildungsberufe_onix_codelist29_value14_0408.pdf"
+  },
+  {
+    "Code": "15",
+    "Heading": "Suomalainen kouluasteluokitus",
+    "Note": "Finnish school or college level"
+  },
+  {
+    "Code": "16",
+    "Heading": "CBG age guidance",
+    "Note": "UK Publishers Association, Children&#8217;s Book Group, coded indication of intended reader age, carried on book covers"
+  },
+  {
+    "Code": "17",
+    "Heading": "Nielsen Book audience code",
+    "Note": "Audience code used in Nielsen Book Services"
+  },
+  {
+    "Code": "18",
+    "Heading": "AVI (revised)",
+    "Note": "Code list used to specify reading levels for children&#8217;s books, used in the Netherlands &#8211; see also code 09"
+  },
+  {
+    "Code": "19",
+    "Heading": "Lexile measure",
+    "Note": "Lexile measure (the Lexile measure in &lt;AudienceCodeValue&gt; may optionally be prefixed by the Lexile code). Examples might be &#8216;880L&#8217;, &#8216;AD0L&#8217; or &#8216;HL600L&#8217;. Deprecated &#8211; use &lt;Complexity&gt; instead"
+  },
+  {
+    "Code": "20",
+    "Heading": "Fry Readability score",
+    "Note": "Fry readability metric based on number of sentences and syllables per 100 words. Expressed as a number from 1 to 15 in &lt;AudienceCodeValue&gt;. Deprecated &#8211; use &lt;Complexity&gt; instead"
+  },
+  {
+    "Code": "21",
+    "Heading": "Japanese Children&#8217;s audience code",
+    "Note": "Children&#8217;s audience code (&#23550;&#35937;&#35501;&#32773;), two-digit encoding of intended target readership from 0&#8211;2 years up to High School level"
+  },
+  {
+    "Code": "22",
+    "Heading": "ONIX Adult audience rating",
+    "Note": "Publisher&#8217;s rating indicating suitability for a particular adult audience, using a code from List 203. Should only be used when the ONIX Audience code indicates a general adult audience (code 01 from List 28)"
+  },
+  {
+    "Code": "23",
+    "Heading": "Common European Framework of Reference for Language Learning (CEFR)",
+    "Note": "Codes A1 to C2 indicating standardised level of language learning or teaching material, from beginner to advanced, defined by the Council of Europe (see http://www.coe.int/lang-CEFR)"
+  },
+  {
+    "Code": "24",
+    "Heading": "Korean Publication Ethics Commission rating",
+    "Note": "Rating used in Korea to control selling of books and e-books to minors. Current values are 0 (suitable for all) and 19 (only for sale to ages 19+). See http://www.kpec.or.kr/english/"
+  },
+  {
+    "Code": "25",
+    "Heading": "IoE Book Band",
+    "Note": "UK Institute of Education Book Bands for Guided Reading scheme (see http://www.ioe.ac.uk/research/4664.html). &lt;AudienceCodeValue&gt; is a color, eg &#8216;Pink A&#8217; or &#8216;Copper&#8217;. Deprecated &#8211; use &lt;Complexity&gt; instead"
+  },
+  {
+    "Code": "26",
+    "Heading": "FSK Lehr-/Infoprogramm",
+    "Note": "Used for German videos/DVDs with educational or informative content; value for &lt;AudienceCodeValue&gt; must be either &#8216;Infoprogramm gem&auml;&szlig; &sect; 14 JuSchG&#8217; or &#8216;Lehrprogramm gem&auml;&szlig; &sect; 14 JuSchG&#8217;"
+  },
+  {
+    "Code": "27",
+    "Heading": "Intended audience language",
+    "Note": "Where this is different from the language of the text of the book recorded in &lt;Language&gt;. &lt;AudienceCodeValue&gt; should be a value from List 74"
+  },
+  {
+    "Code": "28",
+    "Heading": "PEGI rating",
+    "Note": "Pan European Game Information rating used primarily for video games"
+  },
+  {
+    "Code": "29",
+    "Heading": "Gymnasieprogram",
+    "Note": "Code indicating the intended curriculum (eg Naturvetenskapsprogrammet, Estetica programmet) in Swedish higher secondary education"
+  }
+]

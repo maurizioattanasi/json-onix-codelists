@@ -1,0 +1,32 @@
+[
+  {
+    "Code": "CCL",
+    "Heading": "Center column",
+    "Note": "References are printed in a narrow column in the center of the page between two columns of text"
+  },
+  {
+    "Code": "PGE",
+    "Heading": "Page end",
+    "Note": "References are printed at the foot of the page"
+  },
+  {
+    "Code": "SID",
+    "Heading": "Side column",
+    "Note": "References are printed in a column to the side of the scripture"
+  },
+  {
+    "Code": "VER",
+    "Heading": "Verse end",
+    "Note": "References are printed at the end of the applicable verse"
+  },
+  {
+    "Code": "UNK",
+    "Heading": "Unknown",
+    "Note": "The person creating the ONIX record does not know where the references are located"
+  },
+  {
+    "Code": "ZZZ",
+    "Heading": "Other",
+    "Note": "Other locations not otherwise identified"
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "Code": "14",
+    "Heading": "From date",
+    "Note": "Date on which a price becomes effective"
+  },
+  {
+    "Code": "15",
+    "Heading": "Until date",
+    "Note": "Date on which a price ceases to be effective"
+  },
+  {
+    "Code": "24",
+    "Heading": "From&#8230; until date",
+    "Note": "Combines From date and Until date to define a period (both dates are inclusive). Use with for example dateformat 06"
+  }
+]

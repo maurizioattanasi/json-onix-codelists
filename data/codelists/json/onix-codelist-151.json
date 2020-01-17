@@ -1,0 +1,52 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Born in",
+    "Note": ""
+  },
+  {
+    "Code": "02",
+    "Heading": "Died in",
+    "Note": ""
+  },
+  {
+    "Code": "03",
+    "Heading": "Formerly resided in",
+    "Note": ""
+  },
+  {
+    "Code": "04",
+    "Heading": "Currently resides in",
+    "Note": ""
+  },
+  {
+    "Code": "05",
+    "Heading": "Educated in",
+    "Note": ""
+  },
+  {
+    "Code": "06",
+    "Heading": "Worked in",
+    "Note": ""
+  },
+  {
+    "Code": "07",
+    "Heading": "Flourished in",
+    "Note": "(&#8216;Floruit&#8217;)"
+  },
+  {
+    "Code": "08",
+    "Heading": "Citizen of",
+    "Note": "Or nationality. For use with country codes only"
+  },
+  {
+    "Code": "09",
+    "Heading": "Registered in",
+    "Note": "The place of legal registration of an organisation"
+  },
+  {
+    "Code": "10",
+    "Heading": "Operating from",
+    "Note": "The place an organisation or part of an organisation is based or operates from"
+  }
+]

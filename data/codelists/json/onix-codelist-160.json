@@ -1,0 +1,32 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Required credit",
+    "Note": "Credit that must be displayed when a resource is used (eg &#8216;Photo Jerry Bauer&#8217; or &#8216;&copy; Magnum Photo&#8217;). Credit text should be carried in &lt;FeatureNote&gt;"
+  },
+  {
+    "Code": "02",
+    "Heading": "Caption",
+    "Note": "Explanatory caption that may accompany a resource (eg use to identify an author in a photograph). Caption text should be carried in &lt;FeatureNote&gt;"
+  },
+  {
+    "Code": "03",
+    "Heading": "Copyright holder",
+    "Note": "Copyright holder of resource (indicative only, as the resource can be used without consultation). Copyright text should be carried in &lt;FeatureNote&gt;"
+  },
+  {
+    "Code": "04",
+    "Heading": "Length in minutes",
+    "Note": "Approximate length in minutes of an audio or video resource. &lt;FeatureValue&gt; should contain the length of time as an integer number of minutes"
+  },
+  {
+    "Code": "05",
+    "Heading": "ISNI of resource contributor",
+    "Note": "Use to link resource to a contributor unambiguously, for example with Resource Content types 04, 11&#8211;14 from List 158, particularly where the product has more than a single contributor. &lt;FeatureValue&gt; contains the 16-digit ISNI, which must match an ISNI given in an instance of &lt;Contributor&gt;"
+  },
+  {
+    "Code": "06",
+    "Heading": "Proprietary ID of resource contributor",
+    "Note": "Use to link resource to a contributor unambiguously, for example with Resource Content types 04, 11&#8211;14 from List 158, particularly where the product has more than a single contributor. &lt;FeatureValue&gt; contains the proprietary ID, which must match a proprietary ID given in an instance of &lt;Contributor&gt;"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Proprietary",
+    "Note": "Proprietary list of retail and other end-user sales outlet IDs. Note that &lt;IDTypeName&gt; is required with proprietary identifiers"
+  },
+  {
+    "Code": "03",
+    "Heading": "ONIX retail sales outlet ID code",
+    "Note": "Use with ONIX retail and other end-user sales outlet IDs from List 139"
+  },
+  {
+    "Code": "04",
+    "Heading": "Retail sales outlet GLN",
+    "Note": "13-digit GS1 global location number (formerly EAN location number)"
+  },
+  {
+    "Code": "05",
+    "Heading": "Retail sales outlet SAN",
+    "Note": "7-digit Book trade Standard Address Number (US, UK etc)"
+  }
+]

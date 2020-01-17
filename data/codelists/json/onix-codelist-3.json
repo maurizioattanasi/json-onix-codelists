@@ -1,0 +1,72 @@
+[
+  {
+    "Code": "00",
+    "Heading": "Unspecified",
+    "Note": ""
+  },
+  {
+    "Code": "01",
+    "Heading": "Publisher",
+    "Note": ""
+  },
+  {
+    "Code": "02",
+    "Heading": "Publisher&#8217;s distributor",
+    "Note": "Use to designate a distributor providing primary warehousing and fulfillment for a publisher or for a publisher&#8217;s sales agent, as distinct from a wholesaler"
+  },
+  {
+    "Code": "03",
+    "Heading": "Wholesaler",
+    "Note": ""
+  },
+  {
+    "Code": "04",
+    "Heading": "Bibliographic agency",
+    "Note": "Bibliographic data aggregator"
+  },
+  {
+    "Code": "05",
+    "Heading": "Library bookseller",
+    "Note": "Library supplier. Bookseller selling to libraries (including academic libraries)"
+  },
+  {
+    "Code": "06",
+    "Heading": "Publisher&#8217;s sales agent",
+    "Note": "Use for a publisher&#8217;s sales agent responsible for marketing the publisher&#8217;s products within a territory, as opposed to a publisher&#8217;s distributor who fulfills orders but does not market"
+  },
+  {
+    "Code": "07",
+    "Heading": "Publisher&#8217;s conversion service provider",
+    "Note": "Downstream provider of e-publication format conversion services (who might also be a distributor or retailer of the converted e-publication), supplying metadata on behalf of the publisher. The assigned ISBN is taken from the publisher&#8217;s ISBN prefix"
+  },
+  {
+    "Code": "08",
+    "Heading": "Conversion service provider",
+    "Note": "Downstream provider of e-publication format conversion services (who might also be a distributor or retailer of the converted e-publication), supplying metadata on behalf of the publisher. The assigned ISBN is taken from the service provider&#8217;s prefix (whether or not the service provider dedicates that prefix to a particular publisher)"
+  },
+  {
+    "Code": "09",
+    "Heading": "ISBN Registration Agency",
+    "Note": ""
+  },
+  {
+    "Code": "10",
+    "Heading": "ISTC Registration Agency",
+    "Note": ""
+  },
+  {
+    "Code": "11",
+    "Heading": "Retail bookseller",
+    "Note": "Bookseller selling primarily to consumers"
+  },
+  {
+    "Code": "12",
+    "Heading": "Education bookseller",
+    "Note": "Bookseller selling primarily to educational institutions"
+  },
+  {
+    "Code": "13",
+    "Heading": "Library",
+    "Note": "Library service providing enhanced metadata to publishers or other parties"
+  }
+]

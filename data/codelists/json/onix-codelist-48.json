@@ -1,0 +1,92 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Height",
+    "Note": "For a book, the overall height when standing on a shelf. For a folded map, the height when folded. For packaged products, the height of the retail packaging. In general, the height of a product in the form in which it is presented or packaged for retail sale"
+  },
+  {
+    "Code": "02",
+    "Heading": "Width",
+    "Note": "For a book, the overall horizontal dimension of the cover when standing upright. For a folded map, the width when folded. For packaged products, the width of the retail packaging. In general, the width of a product in the form in which it is presented or packaged for retail sale"
+  },
+  {
+    "Code": "03",
+    "Heading": "Thickness",
+    "Note": "For a book, the overall thickness of the spine. For a folded map, the thickness when folded. For packaged products, the depth of the packaging. In general, the thickness or depth of a product in the form in which it is presented or packaged for retail sale"
+  },
+  {
+    "Code": "04",
+    "Heading": "Page trim height",
+    "Note": "Not recommended for general use"
+  },
+  {
+    "Code": "05",
+    "Heading": "Page trim width",
+    "Note": "Not recommended for general use"
+  },
+  {
+    "Code": "06",
+    "Heading": "Unit volume",
+    "Note": "The volume of the product, including any retail packaging. Note the &lt;MeasureUnit&gt; is interpreted as a volumetric unit &#8211; for example code cm = cubic centimetres (ie millilitres), and code oz = fluid ounces. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "07",
+    "Heading": "Unit capacity",
+    "Note": "Volume of the internal (fluid) contents of a product (eg of paint in a can). Note the &lt;MeasureUnit&gt; is interpreted as a volumetric unit &#8211; for example code cm = cubic centimetres (ie millilitres), and code oz = fluid ounces. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "08",
+    "Heading": "Unit weight",
+    "Note": "The weight of the product, including any retail packaging"
+  },
+  {
+    "Code": "09",
+    "Heading": "Diameter (sphere)",
+    "Note": "Of a globe, for example"
+  },
+  {
+    "Code": "10",
+    "Heading": "Unfolded/unrolled sheet height",
+    "Note": "The height of a folded or rolled sheet map, poster etc when unfolded"
+  },
+  {
+    "Code": "11",
+    "Heading": "Unfolded/unrolled sheet width",
+    "Note": "The width of a folded or rolled sheet map, poster etc when unfolded"
+  },
+  {
+    "Code": "12",
+    "Heading": "Diameter (tube or cylinder)",
+    "Note": "The diameter of the cross-section of a tube or cylinder, usually carrying a rolled sheet product. Use 01 &#8216;Height&#8217; for the height or length of the tube"
+  },
+  {
+    "Code": "13",
+    "Heading": "Rolled sheet package side measure",
+    "Note": "The length of a side of the cross-section of a long triangular or square package, usually carrying a rolled sheet product. Use 01 &#8216;Height&#8217; for the height or length of the package"
+  },
+  {
+    "Code": "14",
+    "Heading": "Unpackaged height",
+    "Note": "As height, but of the product without packaging (use only for products supplied in retail packaging, must also supply overall size when packaged using code 01). For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "15",
+    "Heading": "Unpackaged width",
+    "Note": "As width, but of the product without packaging (use only for products supplied in retail packaging, must also supply overall size when packaged using code 02). For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "16",
+    "Heading": "Unpackaged thickness",
+    "Note": "As thickness, but of the product without packaging (use only for products supplied in retail packaging, must also supply overall size when packaged using code 03). For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "17",
+    "Heading": "Total battery weight",
+    "Note": "Weight of batteries built-in, pre-installed or supplied with the product. Details of the batteries should be provided using &lt;ProductFormFeature&gt;. A per-battery unit weight may be calculated from the number of batteries if required. Use only with ONIX 3.0"
+  },
+  {
+    "Code": "18",
+    "Heading": "Total weight of Lithium",
+    "Note": "Mass or equivalent mass of elemental Lithium within the batteries built-in, pre-installed or supplied with the product (eg a Lithium Iron phosphate battery with 160g of cathode material would have a total of around 7g of Lithium). Details of the batteries must be provided using ProductFormFeature. A per-battery unit mass of Lithium may be calculated from the number of batteries if required. Use only with ONIX 3.0"
+  }
+]

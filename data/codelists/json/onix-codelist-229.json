@@ -1,0 +1,17 @@
+[
+  {
+    "Code": "u",
+    "Heading": "Unknown or unspecified",
+    "Note": "Provides positive indication that the gender is not known or is not specified by the sender for any reason"
+  },
+  {
+    "Code": "f",
+    "Heading": "Female",
+    "Note": ""
+  },
+  {
+    "Code": "m",
+    "Heading": "Male",
+    "Note": ""
+  }
+]

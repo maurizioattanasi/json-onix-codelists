@@ -1,0 +1,47 @@
+[
+  {
+    "Code": "01",
+    "Heading": "General/trade",
+    "Note": "For a non-specialist adult audience. Consider also adding an ONIX Adult audience rating"
+  },
+  {
+    "Code": "02",
+    "Heading": "Children/juvenile",
+    "Note": "For a juvenile audience, not specifically for any educational purpose. An audience range should also be included"
+  },
+  {
+    "Code": "03",
+    "Heading": "Young adult",
+    "Note": "For a teenage audience, not specifically for any educational purpose. An audience range should also be included"
+  },
+  {
+    "Code": "04",
+    "Heading": "Primary and secondary/elementary and high school",
+    "Note": "Kindergarten, pre-school, primary/elementary or secondary/high school education. An audience range should also be included"
+  },
+  {
+    "Code": "05",
+    "Heading": "College/higher education",
+    "Note": "For tertiary education &#8211; universities and colleges of higher education"
+  },
+  {
+    "Code": "06",
+    "Heading": "Professional and scholarly",
+    "Note": "For an expert adult audience, including professional development and academic research"
+  },
+  {
+    "Code": "07",
+    "Heading": "ELT/ESL",
+    "Note": "Intended for use in teaching English as a second, non-native or additional language. Indication of the language level (eg CEFR) should be included where possible. An audience range should also be included if the product is (also) suitable for use in primary and secondary education"
+  },
+  {
+    "Code": "08",
+    "Heading": "Adult education",
+    "Note": "For an adult audience in a formal or semi-formal learning setting, eg vocational training, apprenticeships, or academic or recreational learning for adults"
+  },
+  {
+    "Code": "09",
+    "Heading": "Second language teaching",
+    "Note": "Intended for use in teaching second, non-native or additional languages, for example teaching German to Spanish speakers. Indication of the language level (eg CEFR) should be included where possible. An audience range should also be included if the product is (also) suitable for use in primary and secondary education. Prefer code 07 for products specific to teaching English"
+  }
+]

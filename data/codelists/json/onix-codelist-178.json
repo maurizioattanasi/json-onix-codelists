@@ -1,0 +1,172 @@
+[
+  {
+    "Code": "A103",
+    "Heading": "MP3",
+    "Note": "MPEG 1/2 Audio Layer III file"
+  },
+  {
+    "Code": "A104",
+    "Heading": "WAV",
+    "Note": "Waveform Audio file"
+  },
+  {
+    "Code": "A105",
+    "Heading": "Real Audio",
+    "Note": "Proprietary RealNetworks format"
+  },
+  {
+    "Code": "A106",
+    "Heading": "WMA",
+    "Note": "Windows Media Audio format"
+  },
+  {
+    "Code": "A107",
+    "Heading": "AAC",
+    "Note": "Advanced Audio Coding format"
+  },
+  {
+    "Code": "A108",
+    "Heading": "Ogg/Vorbis",
+    "Note": "Vorbis audio format in the Ogg container"
+  },
+  {
+    "Code": "A111",
+    "Heading": "AIFF",
+    "Note": "Audio Interchange File format"
+  },
+  {
+    "Code": "D101",
+    "Heading": "Real Video",
+    "Note": "Proprietary RealNetworks format. Includes Real Video packaged within a .rm RealMedia container"
+  },
+  {
+    "Code": "D102",
+    "Heading": "Quicktime",
+    "Note": "Quicktime container format (.mov)"
+  },
+  {
+    "Code": "D103",
+    "Heading": "AVI",
+    "Note": "Audio Video Interleave format"
+  },
+  {
+    "Code": "D104",
+    "Heading": "WMV",
+    "Note": "Windows Media Video format"
+  },
+  {
+    "Code": "D105",
+    "Heading": "MPEG-4",
+    "Note": "MPEG-4 container format (.mp4, .m4a)"
+  },
+  {
+    "Code": "D106",
+    "Heading": "FLV",
+    "Note": "Flash Video (.flv, .f4v)"
+  },
+  {
+    "Code": "D107",
+    "Heading": "SWF",
+    "Note": "ShockWave (.swf)"
+  },
+  {
+    "Code": "D108",
+    "Heading": "3GP",
+    "Note": "3GPP container format (.3gp, .3g2)"
+  },
+  {
+    "Code": "D109",
+    "Heading": "WebM",
+    "Note": "WebM container format (includes .mkv)"
+  },
+  {
+    "Code": "D401",
+    "Heading": "PDF",
+    "Note": "Portable Document File (single page image)"
+  },
+  {
+    "Code": "D501",
+    "Heading": "GIF",
+    "Note": "Graphic Interchange File format"
+  },
+  {
+    "Code": "D502",
+    "Heading": "JPEG",
+    "Note": "Joint Photographic Experts Group format"
+  },
+  {
+    "Code": "D503",
+    "Heading": "PNG",
+    "Note": "Portable Network Graphics format"
+  },
+  {
+    "Code": "D504",
+    "Heading": "TIFF",
+    "Note": "Tagged Image File format"
+  },
+  {
+    "Code": "D505",
+    "Heading": "BMP",
+    "Note": "Windows Bitmap format"
+  },
+  {
+    "Code": "D506",
+    "Heading": "JP2",
+    "Note": "JPEG 2000, improved Joint Photographic Experts Group format"
+  },
+  {
+    "Code": "D507",
+    "Heading": "PSD",
+    "Note": "Adobe Photoshop native file format, PSD or PSB"
+  },
+  {
+    "Code": "D508",
+    "Heading": "EPS",
+    "Note": "Image as Postscript or Encapsulated Postscript file (.ps or .eps)"
+  },
+  {
+    "Code": "E101",
+    "Heading": "EPUB",
+    "Note": "The Open Publication Structure / OPS Container Format standard of the International Digital Publishing Forum (IDPF) [File extension .epub]"
+  },
+  {
+    "Code": "E105",
+    "Heading": "HTML",
+    "Note": "HyperText Mark-up Language [File extension .html, .htm]"
+  },
+  {
+    "Code": "E107",
+    "Heading": "PDF",
+    "Note": "Portable Document Format (ISO 32000-1:2008) [File extension .pdf]"
+  },
+  {
+    "Code": "E112",
+    "Heading": "TXT",
+    "Note": "Plain text (either ASCII or UTF-8/16 Unicode)"
+  },
+  {
+    "Code": "E113",
+    "Heading": "XHTML",
+    "Note": "Extensible Hypertext Markup Language [File extension .xhtml, .xht, .xml, .html, .htm]"
+  },
+  {
+    "Code": "E115",
+    "Heading": "XPS",
+    "Note": "XML Paper Specification"
+  },
+  {
+    "Code": "E116",
+    "Heading": "Amazon Kindle",
+    "Note": "A format proprietary to Amazon for use with its Kindle reading devices or software readers [File extensions .azw, .mobi, .prc]"
+  },
+  {
+    "Code": "E139",
+    "Heading": "CEB",
+    "Note": "Founder Apabi&#8217;s proprietary basic e-book format"
+  },
+  {
+    "Code": "E140",
+    "Heading": "CEBX",
+    "Note": "Founder Apabi&#8217;s proprietary XML e-book format"
+  }
+]

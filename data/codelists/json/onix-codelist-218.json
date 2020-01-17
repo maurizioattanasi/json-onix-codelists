@@ -1,0 +1,17 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Human readable",
+    "Note": "Document (eg Word file, PDF or web page) Intended for the lay reader"
+  },
+  {
+    "Code": "02",
+    "Heading": "Professional readable",
+    "Note": "Document (eg Word file, PDF or web page) Intended for the legal specialist reader"
+  },
+  {
+    "Code": "10",
+    "Heading": "ONIX-PL",
+    "Note": ""
+  }
+]

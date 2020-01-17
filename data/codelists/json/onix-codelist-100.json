@@ -1,0 +1,37 @@
+[
+  {
+    "Code": "01",
+    "Heading": "BIC discount group code",
+    "Note": "UK publisher&#8217;s or distributor&#8217;s discount group code in a format specified by BIC to ensure uniqueness (a five-letter prefix allocated by BIC, plus one to three alphanumeric characters &#8211; normally digits &#8211; chosen by the supplier)"
+  },
+  {
+    "Code": "02",
+    "Heading": "Proprietary discount code",
+    "Note": "A publisher&#8217;s or supplier&#8217;s own code which identifies a trade discount category, as specified in &lt;DiscountCodeTypeName&gt;. The actual discount for each code is set by trading partner agreement (applies to goods supplied on standard trade discounting terms)"
+  },
+  {
+    "Code": "03",
+    "Heading": "Boeksoort",
+    "Note": "Terms code used in the Netherlands book trade"
+  },
+  {
+    "Code": "04",
+    "Heading": "German terms code",
+    "Note": "Terms code used in German ONIX applications"
+  },
+  {
+    "Code": "05",
+    "Heading": "Proprietary commission code",
+    "Note": "A publisher&#8217;s or supplier&#8217;s own code which identifies a commission rate category, as specified in &lt;DiscountCodeTypeName&gt;. The actual commission rate for each code is set by trading partner agreement (applies to goods supplied on agency terms)"
+  },
+  {
+    "Code": "06",
+    "Heading": "BIC commission group code",
+    "Note": "UK publisher&#8217;s or distributor&#8217;s commission group code in format specified by BIC to ensure uniqueness. Format is identical to BIC discount group code, but indicates a commission rather than a discount (applies to goods supplied on agency terms)"
+  },
+  {
+    "Code": "07",
+    "Heading": "ISNI-based discount group code",
+    "Note": "ISNI-based discount group scheme devised initially by the German IG ProduktMetadaten, in a format comprised of the supplier&#8217;s 16-digit ISNI, followed by a hyphen and one to three alphanumeric characters &#8211; normally digits &#8211; chosen by the supplier. These characters are the index to a discount percentage in a table shared in advance by the supplier with individual customers. In this way, a supplier may maintain individual product-specific discount arrangements with each customer. For use in ONIX 3.0 only"
+  }
+]

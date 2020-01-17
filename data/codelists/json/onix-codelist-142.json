@@ -1,0 +1,62 @@
+[
+  {
+    "Code": "00",
+    "Heading": "Unknown / unspecified",
+    "Note": "Position unknown or unspecified"
+  },
+  {
+    "Code": "01",
+    "Heading": "Cover 4",
+    "Note": "The back cover of a book"
+  },
+  {
+    "Code": "02",
+    "Heading": "Cover 3",
+    "Note": "The inside back cover of a book"
+  },
+  {
+    "Code": "03",
+    "Heading": "Cover 2",
+    "Note": "The inside front cover of a book"
+  },
+  {
+    "Code": "04",
+    "Heading": "Cover 1",
+    "Note": "The front cover of a book"
+  },
+  {
+    "Code": "05",
+    "Heading": "On spine",
+    "Note": "The spine of a book"
+  },
+  {
+    "Code": "06",
+    "Heading": "On box",
+    "Note": "Used only for boxed products"
+  },
+  {
+    "Code": "07",
+    "Heading": "On tag",
+    "Note": "Used only for products fitted with hanging tags"
+  },
+  {
+    "Code": "08",
+    "Heading": "On bottom",
+    "Note": "Not be used for books unless they are contained within outer packaging"
+  },
+  {
+    "Code": "09",
+    "Heading": "On back",
+    "Note": "Not be used for books unless they are contained within outer packaging"
+  },
+  {
+    "Code": "10",
+    "Heading": "On outer sleeve / back",
+    "Note": "Used only for products packaged in outer sleeves"
+  },
+  {
+    "Code": "11",
+    "Heading": "On removable wrapping",
+    "Note": "Used only for products packaged in shrink-wrap or other removable wrapping"
+  }
+]

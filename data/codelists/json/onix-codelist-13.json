@@ -1,0 +1,57 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Proprietary",
+    "Note": "For example, publisher&#8217;s own series ID. Note that &lt;IDTypeName&gt; is required with proprietary identifiers"
+  },
+  {
+    "Code": "02",
+    "Heading": "ISSN",
+    "Note": "International Standard Serial Number, unhyphenated, 8 digits"
+  },
+  {
+    "Code": "03",
+    "Heading": "German National Bibliography series ID",
+    "Note": "Maintained by the Deutsche Nationalbibliothek"
+  },
+  {
+    "Code": "04",
+    "Heading": "German Books in Print series ID",
+    "Note": "Maintained by VLB"
+  },
+  {
+    "Code": "05",
+    "Heading": "Electre series ID",
+    "Note": "Maintained by Electre Information, France"
+  },
+  {
+    "Code": "06",
+    "Heading": "DOI",
+    "Note": "Digital Object Identifier (variable length and character set)"
+  },
+  {
+    "Code": "15",
+    "Heading": "ISBN-13",
+    "Note": "Use only where the collection (series or set) is available as a single product"
+  },
+  {
+    "Code": "22",
+    "Heading": "URN",
+    "Note": "Uniform Resource Name"
+  },
+  {
+    "Code": "29",
+    "Heading": "BNF Control number",
+    "Note": "French National Bibliography series ID. Identifiant des publications en s&eacute;rie maintenu par la Biblioth&egrave;que Nationale de France"
+  },
+  {
+    "Code": "35",
+    "Heading": "ARK",
+    "Note": "Archival Resource Key, as a URL (including the address of the ARK resolver provided by eg a national library)"
+  },
+  {
+    "Code": "38",
+    "Heading": "ISSN-L",
+    "Note": "International Standard Serial Number &#8216;linking ISSN&#8217;, used when distinct from the serial ISSN. Unhyphenated, 8 digits. For use in ONIX 3.0 only"
+  }
+]

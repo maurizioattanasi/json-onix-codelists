@@ -1,0 +1,42 @@
+[
+  {
+    "Code": "00",
+    "Heading": "Unrated",
+    "Note": ""
+  },
+  {
+    "Code": "01",
+    "Heading": "Any adult audience",
+    "Note": "The publisher states that the product is suitable for any adult audience"
+  },
+  {
+    "Code": "02",
+    "Heading": "Content warning",
+    "Note": "The publisher warns the content may offend parts of the adult audience (for any reason)"
+  },
+  {
+    "Code": "03",
+    "Heading": "Content warning (sex)",
+    "Note": "The publisher warns the product includes content of an explicit sexual nature"
+  },
+  {
+    "Code": "04",
+    "Heading": "Content warning (violence)",
+    "Note": "The publisher warns the product includes content of an extreme violent nature"
+  },
+  {
+    "Code": "05",
+    "Heading": "Content warning (drug-taking)",
+    "Note": "The publisher warns the product includes content involving severe misuse of drugs"
+  },
+  {
+    "Code": "06",
+    "Heading": "Content warning (language)",
+    "Note": "The publisher warns the product includes extreme / offensive / explicit language"
+  },
+  {
+    "Code": "07",
+    "Heading": "Content warning (intolerance)",
+    "Note": "The publisher warns the product includes content involving intolerance or abuse of particular groups (eg religious, ethnic, racial, social)"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "Code": "BLK",
+    "Heading": "Black",
+    "Note": ""
+  },
+  {
+    "Code": "BLU",
+    "Heading": "Blue",
+    "Note": ""
+  },
+  {
+    "Code": "BRN",
+    "Heading": "Brown",
+    "Note": ""
+  },
+  {
+    "Code": "BUR",
+    "Heading": "Burgundy/Maroon",
+    "Note": ""
+  },
+  {
+    "Code": "CEL",
+    "Heading": "Celadon/Pale green",
+    "Note": ""
+  },
+  {
+    "Code": "CRE",
+    "Heading": "Cream",
+    "Note": ""
+  },
+  {
+    "Code": "FCO",
+    "Heading": "Four-color",
+    "Note": "Use &lt;ProductFormFeatureDescription&gt; to add brief details if required"
+  },
+  {
+    "Code": "FCS",
+    "Heading": "Four-color and spot-color",
+    "Note": "Use &lt;ProductFormFeatureDescription&gt; to add brief details if required"
+  },
+  {
+    "Code": "GLD",
+    "Heading": "Gold",
+    "Note": ""
+  },
+  {
+    "Code": "GRN",
+    "Heading": "Green",
+    "Note": ""
+  },
+  {
+    "Code": "GRY",
+    "Heading": "Grey",
+    "Note": ""
+  },
+  {
+    "Code": "MUL",
+    "Heading": "Multicolor",
+    "Note": "Use &lt;ProductFormFeatureDescription&gt; to add brief details if required"
+  },
+  {
+    "Code": "NAV",
+    "Heading": "Navy/Dark blue",
+    "Note": ""
+  },
+  {
+    "Code": "ORG",
+    "Heading": "Orange",
+    "Note": ""
+  },
+  {
+    "Code": "PNK",
+    "Heading": "Pink",
+    "Note": ""
+  },
+  {
+    "Code": "PUR",
+    "Heading": "Purple",
+    "Note": ""
+  },
+  {
+    "Code": "RED",
+    "Heading": "Red",
+    "Note": ""
+  },
+  {
+    "Code": "SKY",
+    "Heading": "Sky/Pale blue",
+    "Note": ""
+  },
+  {
+    "Code": "SLV",
+    "Heading": "Silver",
+    "Note": ""
+  },
+  {
+    "Code": "TAN",
+    "Heading": "Tan/Light brown",
+    "Note": ""
+  },
+  {
+    "Code": "TEA",
+    "Heading": "Teal/Turquoise green",
+    "Note": ""
+  },
+  {
+    "Code": "WHI",
+    "Heading": "White",
+    "Note": ""
+  },
+  {
+    "Code": "YEL",
+    "Heading": "Yellow",
+    "Note": ""
+  },
+  {
+    "Code": "ZZZ",
+    "Heading": "Other",
+    "Note": "Use &lt;ProductFormFeatureDescription&gt; to add brief details if required"
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "Code": "01",
+    "Heading": "WARNING: CHOKING HAZARD &#8211; Small parts | Not for children under 3 yrs.",
+    "Note": "Required on applicable products sold in the US"
+  },
+  {
+    "Code": "02",
+    "Heading": "WARNING: CHOKING HAZARD &#8211; Children under 8 yrs. can choke or suffocate on uninflated or broken balloons. Adult supervision required | Keep uninflated balloons from children. Discard broken balloons at once.",
+    "Note": "Required on applicable products sold in the US"
+  },
+  {
+    "Code": "03",
+    "Heading": "WARNING: CHOKING HAZARD &#8211; This toy is a small ball | Not for children under 3 yrs.",
+    "Note": "Required on applicable products sold in the US"
+  },
+  {
+    "Code": "04",
+    "Heading": "WARNING: CHOKING HAZARD &#8211; Toy contains a small ball | Not for children under 3 yrs.",
+    "Note": "Required on applicable products sold in the US"
+  },
+  {
+    "Code": "05",
+    "Heading": "WARNING: CHOKING HAZARD &#8211; This toy is a marble | Not for children under 3 yrs.",
+    "Note": "Required on applicable products sold in the US"
+  },
+  {
+    "Code": "06",
+    "Heading": "WARNING: CHOKING HAZARD &#8211; Toy contains a marble | Not for children under 3 yrs.",
+    "Note": "Required on applicable products sold in the US"
+  },
+  {
+    "Code": "07",
+    "Heading": "No choking hazard warning necessary",
+    "Note": "To be used when a supplier wishes to make a clear statement that no such warning is applicable to product"
+  },
+  {
+    "Code": "11",
+    "Heading": "WARNING: MAGNET HAZARD &#8211; Product contains (a) small magnet(s)",
+    "Note": "Required on applicable products sold in the US. Should be accompanied by additional text: Swallowed magnets can stick together across intestines causing serious infections and death. Seek immediate medical attention if magnet(s) are swallowed or inhaled"
+  },
+  {
+    "Code": "12",
+    "Heading": "No magnet hazard warning necessary",
+    "Note": "To be used when a supplier wishes to make a clear statement that no such warning is applicable to product"
+  },
+  {
+    "Code": "13",
+    "Heading": "WARNING &#8211; Flashing hazard",
+    "Note": "Product flashes, flickers or includes high-contrast static or moving patterns which may cause discomfort or seizures in people with photosensitive epilepsy"
+  },
+  {
+    "Code": "14",
+    "Heading": "No flashing hazard warning necessary",
+    "Note": "To be used when a supplier wishes to make a clear statement that no such warning is applicable to product"
+  },
+  {
+    "Code": "21",
+    "Heading": "WARNING &#8211; California Proposition 65 carcinogenic, teratogenic or other reproductively harmful chemical hazard",
+    "Note": "Required on applicable products sold in California. Must be accompanied in &lt;ProductFormFeatureDescription&gt; by specific additional text as displayed on product or packaging. For example, &#8220;WARNING: This product can expose you to chemicals including [chemical name], which is known to the State of California to cause cancer. For more information, go to www.P65Warnings.ca.gov&#8221;. Note long-form warnings should be used here, even if a short form warning is used on the product or packaging"
+  },
+  {
+    "Code": "22",
+    "Heading": "No California Proposition 65 hazard warning necessary",
+    "Note": "To be used when a supplier wishes to make a clear statement that no such warning is applicable to product"
+  }
+]

@@ -1,0 +1,547 @@
+[
+  {
+    "Code": "A01",
+    "Heading": "By (author)",
+    "Note": "Author of a textual work"
+  },
+  {
+    "Code": "A02",
+    "Heading": "With",
+    "Note": "With or as told to: &#8216;ghost&#8217; or secondary author of a literary work (for clarity, should not be used for true &#8216;ghost&#8217; authors who are not credited on the book and whose existence is secret)"
+  },
+  {
+    "Code": "A03",
+    "Heading": "Screenplay by",
+    "Note": "Writer of screenplay or script (film or video)"
+  },
+  {
+    "Code": "A04",
+    "Heading": "Libretto by",
+    "Note": "Writer of libretto (opera): see also A31"
+  },
+  {
+    "Code": "A05",
+    "Heading": "Lyrics by",
+    "Note": "Author of lyrics (song): see also A31"
+  },
+  {
+    "Code": "A06",
+    "Heading": "By (composer)",
+    "Note": "Composer of music"
+  },
+  {
+    "Code": "A07",
+    "Heading": "By (artist)",
+    "Note": "Visual artist when named as the primary creator of, eg, a book of reproductions of artworks"
+  },
+  {
+    "Code": "A08",
+    "Heading": "By (photographer)",
+    "Note": "Photographer when named as the primary creator of, eg, a book of photographs"
+  },
+  {
+    "Code": "A09",
+    "Heading": "Created by",
+    "Note": ""
+  },
+  {
+    "Code": "A10",
+    "Heading": "From an idea by",
+    "Note": ""
+  },
+  {
+    "Code": "A11",
+    "Heading": "Designed by",
+    "Note": ""
+  },
+  {
+    "Code": "A12",
+    "Heading": "Illustrated by",
+    "Note": "Artist when named as the creator of artwork which illustrates a text, or the originator (sometimes &#8216;penciller&#8217; for collaborative art) of the artwork of a graphic novel or comic book"
+  },
+  {
+    "Code": "A13",
+    "Heading": "Photographs by",
+    "Note": "Photographer when named as the creator of photographs which illustrate a text"
+  },
+  {
+    "Code": "A14",
+    "Heading": "Text by",
+    "Note": "Author of text which accompanies art reproductions or photographs, or which is part of a graphic novel or comic book"
+  },
+  {
+    "Code": "A15",
+    "Heading": "Preface by",
+    "Note": "Author of preface"
+  },
+  {
+    "Code": "A16",
+    "Heading": "Prologue by",
+    "Note": "Author of prologue"
+  },
+  {
+    "Code": "A17",
+    "Heading": "Summary by",
+    "Note": "Author of summary"
+  },
+  {
+    "Code": "A18",
+    "Heading": "Supplement by",
+    "Note": "Author of supplement"
+  },
+  {
+    "Code": "A19",
+    "Heading": "Afterword by",
+    "Note": "Author of afterword"
+  },
+  {
+    "Code": "A20",
+    "Heading": "Notes by",
+    "Note": "Author of notes or annotations: see also A29"
+  },
+  {
+    "Code": "A21",
+    "Heading": "Commentaries by",
+    "Note": "Author of commentaries on the main text"
+  },
+  {
+    "Code": "A22",
+    "Heading": "Epilogue by",
+    "Note": "Author of epilogue"
+  },
+  {
+    "Code": "A23",
+    "Heading": "Foreword by",
+    "Note": "Author of foreword"
+  },
+  {
+    "Code": "A24",
+    "Heading": "Introduction by",
+    "Note": "Author of introduction: see also A29"
+  },
+  {
+    "Code": "A25",
+    "Heading": "Footnotes by",
+    "Note": "Author/compiler of footnotes"
+  },
+  {
+    "Code": "A26",
+    "Heading": "Memoir by",
+    "Note": "Author of memoir accompanying main text"
+  },
+  {
+    "Code": "A27",
+    "Heading": "Experiments by",
+    "Note": "Person who carried out experiments reported in the text"
+  },
+  {
+    "Code": "A29",
+    "Heading": "Introduction and notes by",
+    "Note": "Author of introduction and notes: see also A20 and A24"
+  },
+  {
+    "Code": "A30",
+    "Heading": "Software written by",
+    "Note": "Writer of computer programs ancillary to the text"
+  },
+  {
+    "Code": "A31",
+    "Heading": "Book and lyrics by",
+    "Note": "Author of the textual content of a musical drama: see also A04 and A05"
+  },
+  {
+    "Code": "A32",
+    "Heading": "Contributions by",
+    "Note": "Author of additional contributions to the text"
+  },
+  {
+    "Code": "A33",
+    "Heading": "Appendix by",
+    "Note": "Author of appendix"
+  },
+  {
+    "Code": "A34",
+    "Heading": "Index by",
+    "Note": "Compiler of index"
+  },
+  {
+    "Code": "A35",
+    "Heading": "Drawings by",
+    "Note": ""
+  },
+  {
+    "Code": "A36",
+    "Heading": "Cover design or artwork by",
+    "Note": "Use also for the cover artist of a graphic novel or comic book if named separately"
+  },
+  {
+    "Code": "A37",
+    "Heading": "Preliminary work by",
+    "Note": "Responsible for preliminary work on which the work is based"
+  },
+  {
+    "Code": "A38",
+    "Heading": "Original author",
+    "Note": "Author of the first edition (usually of a standard work) who is not an author of the current edition"
+  },
+  {
+    "Code": "A39",
+    "Heading": "Maps by",
+    "Note": "Maps drawn or otherwise contributed by"
+  },
+  {
+    "Code": "A40",
+    "Heading": "Inked or colored by",
+    "Note": "Use for secondary creators when separate persons are named as having respectively drawn and inked/colored/finished artwork, eg for a graphic novel or comic book. Use with A12 for &#8216;drawn by&#8217;. Use A40 for &#8216;finished by&#8217;, but prefer more specific codes A46 to A48 instead of A40 unless the more specific secondary roles are inappropriate, unclear or unavailable"
+  },
+  {
+    "Code": "A41",
+    "Heading": "Paper engineering by",
+    "Note": "Designer or paper engineer of die-cuts, press-outs or of pop-ups in a pop-up book, who may be different from the illustrator"
+  },
+  {
+    "Code": "A42",
+    "Heading": "Continued by",
+    "Note": "Use where a standard work is being continued by somebody other than the original author"
+  },
+  {
+    "Code": "A43",
+    "Heading": "Interviewer",
+    "Note": ""
+  },
+  {
+    "Code": "A44",
+    "Heading": "Interviewee",
+    "Note": ""
+  },
+  {
+    "Code": "A45",
+    "Heading": "Comic script by",
+    "Note": "Writer of dialogue, captions in a comic book (following an outline by the primary writer)"
+  },
+  {
+    "Code": "A46",
+    "Heading": "Inker",
+    "Note": "Renders final comic book line art based on work of the illustrator or penciller. Preferred to code A40"
+  },
+  {
+    "Code": "A47",
+    "Heading": "Colorist",
+    "Note": "Provides comic book color art and effects. Preferred to code A40"
+  },
+  {
+    "Code": "A48",
+    "Heading": "Letterer",
+    "Note": "Creates comic book text balloons and other text elements (where this is a distinct role from script writer and/or illustrator)"
+  },
+  {
+    "Code": "A51",
+    "Heading": "Research by",
+    "Note": "Person or organization responsible for performing research on which the work is based. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "A99",
+    "Heading": "Other primary creator",
+    "Note": "Other type of primary creator not specified above"
+  },
+  {
+    "Code": "B01",
+    "Heading": "Edited by",
+    "Note": ""
+  },
+  {
+    "Code": "B02",
+    "Heading": "Revised by",
+    "Note": ""
+  },
+  {
+    "Code": "B03",
+    "Heading": "Retold by",
+    "Note": ""
+  },
+  {
+    "Code": "B04",
+    "Heading": "Abridged by",
+    "Note": ""
+  },
+  {
+    "Code": "B05",
+    "Heading": "Adapted by",
+    "Note": ""
+  },
+  {
+    "Code": "B06",
+    "Heading": "Translated by",
+    "Note": ""
+  },
+  {
+    "Code": "B07",
+    "Heading": "As told by",
+    "Note": ""
+  },
+  {
+    "Code": "B08",
+    "Heading": "Translated with commentary by",
+    "Note": "This code applies where a translator has provided a commentary on issues relating to the translation. If the translator has also provided a commentary on the work itself, codes B06 and A21 should be used"
+  },
+  {
+    "Code": "B09",
+    "Heading": "Series edited by",
+    "Note": "Name of a series editor when the product belongs to a series"
+  },
+  {
+    "Code": "B10",
+    "Heading": "Edited and translated by",
+    "Note": ""
+  },
+  {
+    "Code": "B11",
+    "Heading": "Editor-in-chief",
+    "Note": ""
+  },
+  {
+    "Code": "B12",
+    "Heading": "Guest editor",
+    "Note": ""
+  },
+  {
+    "Code": "B13",
+    "Heading": "Volume editor",
+    "Note": ""
+  },
+  {
+    "Code": "B14",
+    "Heading": "Editorial board member",
+    "Note": ""
+  },
+  {
+    "Code": "B15",
+    "Heading": "Editorial coordination by",
+    "Note": ""
+  },
+  {
+    "Code": "B16",
+    "Heading": "Managing editor",
+    "Note": ""
+  },
+  {
+    "Code": "B17",
+    "Heading": "Founded by",
+    "Note": "Usually the founder editor of a serial publication: Begruendet von"
+  },
+  {
+    "Code": "B18",
+    "Heading": "Prepared for publication by",
+    "Note": ""
+  },
+  {
+    "Code": "B19",
+    "Heading": "Associate editor",
+    "Note": ""
+  },
+  {
+    "Code": "B20",
+    "Heading": "Consultant editor",
+    "Note": "Use also for &#8216;advisory editor&#8217;, &#8216;series advisor&#8217;, &#8216;editorial consultant&#8217; etc"
+  },
+  {
+    "Code": "B21",
+    "Heading": "General editor",
+    "Note": ""
+  },
+  {
+    "Code": "B22",
+    "Heading": "Dramatized by",
+    "Note": ""
+  },
+  {
+    "Code": "B23",
+    "Heading": "General rapporteur",
+    "Note": "In Europe, an expert editor who takes responsibility for the legal content of a collaborative law volume"
+  },
+  {
+    "Code": "B24",
+    "Heading": "Literary editor",
+    "Note": "An editor who is responsible for establishing the text used in an edition of a literary work, where this is recognised as a distinctive role (in Spain, &#8216;editor literario&#8217;)"
+  },
+  {
+    "Code": "B25",
+    "Heading": "Arranged by (music)",
+    "Note": ""
+  },
+  {
+    "Code": "B26",
+    "Heading": "Technical editor",
+    "Note": "Responsible for the technical accuracy and language, may also be involved in coordinating and preparing technical material for publication"
+  },
+  {
+    "Code": "B27",
+    "Heading": "Thesis advisor or supervisor",
+    "Note": ""
+  },
+  {
+    "Code": "B28",
+    "Heading": "Thesis examiner",
+    "Note": ""
+  },
+  {
+    "Code": "B29",
+    "Heading": "Scientific editor",
+    "Note": "Responsible overall for the scientific content of the publication"
+  },
+  {
+    "Code": "B30",
+    "Heading": "Historical advisor",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "B31",
+    "Heading": "Original editor",
+    "Note": "Editor of the first edition (usually of a standard work) who is not an editor of the current edition. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "B99",
+    "Heading": "Other adaptation by",
+    "Note": "Other type of adaptation or editing not specified above"
+  },
+  {
+    "Code": "C01",
+    "Heading": "Compiled by",
+    "Note": "For puzzles, directories, statistics, etc"
+  },
+  {
+    "Code": "C02",
+    "Heading": "Selected by",
+    "Note": "For textual material (eg for an anthology)"
+  },
+  {
+    "Code": "C03",
+    "Heading": "Non-text material selected by",
+    "Note": "Eg for a collection of photographs etc"
+  },
+  {
+    "Code": "C04",
+    "Heading": "Curated by",
+    "Note": "Eg for an exhibition"
+  },
+  {
+    "Code": "C99",
+    "Heading": "Other compilation by",
+    "Note": "Other type of compilation not specified above"
+  },
+  {
+    "Code": "D01",
+    "Heading": "Producer",
+    "Note": ""
+  },
+  {
+    "Code": "D02",
+    "Heading": "Director",
+    "Note": ""
+  },
+  {
+    "Code": "D03",
+    "Heading": "Conductor",
+    "Note": "Conductor of a musical performance"
+  },
+  {
+    "Code": "D04",
+    "Heading": "Choreographer",
+    "Note": "Of a dance performance. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "D99",
+    "Heading": "Other direction by",
+    "Note": "Other type of direction not specified above"
+  },
+  {
+    "Code": "E01",
+    "Heading": "Actor",
+    "Note": "Performer in a dramatized production (including a voice actor in an audio production)"
+  },
+  {
+    "Code": "E02",
+    "Heading": "Dancer",
+    "Note": ""
+  },
+  {
+    "Code": "E03",
+    "Heading": "Narrator",
+    "Note": "Where the narrator is a character in a dramatized production (including a voice actor in an audio production). For the &#8216;narrator&#8217; of a non-dramatized audiobook, see code E07"
+  },
+  {
+    "Code": "E04",
+    "Heading": "Commentator",
+    "Note": ""
+  },
+  {
+    "Code": "E05",
+    "Heading": "Vocal soloist",
+    "Note": "Singer etc"
+  },
+  {
+    "Code": "E06",
+    "Heading": "Instrumental soloist",
+    "Note": ""
+  },
+  {
+    "Code": "E07",
+    "Heading": "Read by",
+    "Note": "Reader of recorded text, as in an audiobook"
+  },
+  {
+    "Code": "E08",
+    "Heading": "Performed by (orchestra, band, ensemble)",
+    "Note": "Name of a musical group in a performing role"
+  },
+  {
+    "Code": "E09",
+    "Heading": "Speaker",
+    "Note": "Of a speech, lecture etc"
+  },
+  {
+    "Code": "E10",
+    "Heading": "Presenter",
+    "Note": "Introduces and links other contributors and material, eg within a documentary"
+  },
+  {
+    "Code": "E99",
+    "Heading": "Performed by",
+    "Note": "Other type of performer not specified above: use for a recorded performance which does not fit a category above, eg a performance by a stand-up comedian"
+  },
+  {
+    "Code": "F01",
+    "Heading": "Filmed/photographed by",
+    "Note": "Cinematographer, etc"
+  },
+  {
+    "Code": "F02",
+    "Heading": "Editor (film or video)",
+    "Note": ""
+  },
+  {
+    "Code": "F99",
+    "Heading": "Other recording by",
+    "Note": "Other type of recording not specified above"
+  },
+  {
+    "Code": "Z01",
+    "Heading": "Assisted by",
+    "Note": "May be associated with any contributor role, and placement should therefore be controlled by contributor sequence numbering"
+  },
+  {
+    "Code": "Z02",
+    "Heading": "Honored/dedicated to",
+    "Note": ""
+  },
+  {
+    "Code": "Z98",
+    "Heading": "(Various roles)",
+    "Note": "For use ONLY with &#8216;et al&#8217; or &#8216;Various&#8217; within &lt;UnnamedPersons&gt;, where the roles of the multiple contributors vary"
+  },
+  {
+    "Code": "Z99",
+    "Heading": "Other",
+    "Note": "Other creative responsibility not falling within A to F above"
+  }
+]

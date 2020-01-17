@@ -1,0 +1,72 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Android",
+    "Note": "An Open Source mobile device operating system originally developed by Google and supported by the Open Handset Alliance"
+  },
+  {
+    "Code": "02",
+    "Heading": "BlackBerry OS",
+    "Note": "A proprietary operating system supplied by Research In Motion for its BlackBerry handheld devices"
+  },
+  {
+    "Code": "03",
+    "Heading": "iOS",
+    "Note": "A proprietary operating system based on Mac OS X supplied by Apple for its iPhone, iPad and iPod Touch handheld devices"
+  },
+  {
+    "Code": "04",
+    "Heading": "Linux",
+    "Note": "An operating system based on the Linux kernel"
+  },
+  {
+    "Code": "05",
+    "Heading": "Mac OS",
+    "Note": "Proprietary &#8216;Classic&#8217; operating system supplied by Apple on Macintosh computers up to 2002. DEPRECATED &#8211; use code 13 for all Mac OS versions"
+  },
+  {
+    "Code": "06",
+    "Heading": "Mac OS X",
+    "Note": "Proprietary &#8216;OS X&#8217; operating system supplied by Apple on Macintosh computers from 2001/2002. DEPRECATED &#8211; use code 13 for all Mac OS versions"
+  },
+  {
+    "Code": "07",
+    "Heading": "Palm OS",
+    "Note": "A proprietary operating system (AKA Garnet OS) originally developed for handheld devices"
+  },
+  {
+    "Code": "08",
+    "Heading": "webOS",
+    "Note": "A proprietry Linux-based operating system for handheld devices, originally developed by Palm (now owned by LG)"
+  },
+  {
+    "Code": "09",
+    "Heading": "Symbian",
+    "Note": "An operating system for hand-held devices, originally developed as a proprietary system, but planned to become wholly Open Source by 2010"
+  },
+  {
+    "Code": "10",
+    "Heading": "Windows",
+    "Note": "A proprietary operating system supplied by Microsoft"
+  },
+  {
+    "Code": "11",
+    "Heading": "Windows CE",
+    "Note": "A proprietary operating system (AKA Windows Embedded Compact, WinCE) supplied by Microsoft for small-scale devices"
+  },
+  {
+    "Code": "12",
+    "Heading": "Windows Mobile",
+    "Note": "A proprietary operating system supplied by Microsoft for mobile devices"
+  },
+  {
+    "Code": "13",
+    "Heading": "Mac OS",
+    "Note": "A proprietary operating system supplied by Apple on Macintosh computers"
+  },
+  {
+    "Code": "14",
+    "Heading": "Windows Phone 7",
+    "Note": "A proprietary operating system supplied by Microsoft for mobile devices, successor to Windows Mobile"
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "Code": "P",
+    "Heading": "Preschool",
+    "Note": "Age typically 0-4 years"
+  },
+  {
+    "Code": "K",
+    "Heading": "Kindergarten",
+    "Note": "Age typically 5 years"
+  },
+  {
+    "Code": "1",
+    "Heading": "First Grade",
+    "Note": "Age typically 6 years"
+  },
+  {
+    "Code": "2",
+    "Heading": "Second Grade",
+    "Note": "Age typically 7 years"
+  },
+  {
+    "Code": "3",
+    "Heading": "Third Grade",
+    "Note": "Age typically 8 years"
+  },
+  {
+    "Code": "4",
+    "Heading": "Fourth Grade",
+    "Note": "Age typically 9 years"
+  },
+  {
+    "Code": "5",
+    "Heading": "Fifth Grade",
+    "Note": "Age typically 10 years"
+  },
+  {
+    "Code": "6",
+    "Heading": "Sixth Grade",
+    "Note": "Age typically 11 years"
+  },
+  {
+    "Code": "7",
+    "Heading": "Seventh Grade",
+    "Note": "Age typically 12 years"
+  },
+  {
+    "Code": "8",
+    "Heading": "Eighth Grade",
+    "Note": "Age typically 13 years"
+  },
+  {
+    "Code": "9",
+    "Heading": "Ninth Grade",
+    "Note": "High School Freshman &#8211; age typically 14 years"
+  },
+  {
+    "Code": "10",
+    "Heading": "Tenth Grade",
+    "Note": "High School Sophomore &#8211; age typically 15 years"
+  },
+  {
+    "Code": "11",
+    "Heading": "Eleventh Grade",
+    "Note": "High School Junior &#8211; age typically 16 years"
+  },
+  {
+    "Code": "12",
+    "Heading": "Twelfth Grade",
+    "Note": "High School Senior &#8211; age typically 17 years"
+  },
+  {
+    "Code": "13",
+    "Heading": "College Freshman",
+    "Note": "Age typically 18 years"
+  },
+  {
+    "Code": "14",
+    "Heading": "College Sophomore",
+    "Note": "Age typically 19 years"
+  },
+  {
+    "Code": "15",
+    "Heading": "College Junior",
+    "Note": "Age typically 20 years"
+  },
+  {
+    "Code": "16",
+    "Heading": "College Senior",
+    "Note": "Age typically 21 years"
+  },
+  {
+    "Code": "17",
+    "Heading": "College Graduate Student",
+    "Note": "Age typically 22+ years"
+  }
+]

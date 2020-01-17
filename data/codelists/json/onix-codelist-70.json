@@ -1,0 +1,12 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Proprietary",
+    "Note": "As specified in &lt;StockQuantityCodeTypeName&gt;"
+  },
+  {
+    "Code": "02",
+    "Heading": "APA stock quantity code",
+    "Note": "Code scheme defined by the Australian Publishers Association"
+  }
+]

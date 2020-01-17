@@ -1,0 +1,137 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Berkshire leather",
+    "Note": "Pigskin"
+  },
+  {
+    "Code": "02",
+    "Heading": "Calfskin",
+    "Note": ""
+  },
+  {
+    "Code": "03",
+    "Heading": "French Morocco",
+    "Note": "Calf split or sheep split"
+  },
+  {
+    "Code": "04",
+    "Heading": "Morocco",
+    "Note": "Goatskin"
+  },
+  {
+    "Code": "05",
+    "Heading": "Bonded buffalo grain",
+    "Note": ""
+  },
+  {
+    "Code": "06",
+    "Heading": "Bonded calf grain",
+    "Note": ""
+  },
+  {
+    "Code": "07",
+    "Heading": "Bonded Cordova",
+    "Note": ""
+  },
+  {
+    "Code": "08",
+    "Heading": "Bonded eelskin",
+    "Note": ""
+  },
+  {
+    "Code": "09",
+    "Heading": "Bonded Ostraleg",
+    "Note": ""
+  },
+  {
+    "Code": "10",
+    "Heading": "Bonded ostrich",
+    "Note": ""
+  },
+  {
+    "Code": "11",
+    "Heading": "Bonded reptile grain",
+    "Note": ""
+  },
+  {
+    "Code": "12",
+    "Heading": "Bonded leather",
+    "Note": ""
+  },
+  {
+    "Code": "13",
+    "Heading": "Cowhide",
+    "Note": ""
+  },
+  {
+    "Code": "14",
+    "Heading": "Eelskin",
+    "Note": ""
+  },
+  {
+    "Code": "15",
+    "Heading": "Kivar",
+    "Note": ""
+  },
+  {
+    "Code": "16",
+    "Heading": "Leatherflex",
+    "Note": "An imitation leather binding material"
+  },
+  {
+    "Code": "17",
+    "Heading": "Moleskin",
+    "Note": ""
+  },
+  {
+    "Code": "18",
+    "Heading": "Softhide leather",
+    "Note": ""
+  },
+  {
+    "Code": "19",
+    "Heading": "Metal",
+    "Note": ""
+  },
+  {
+    "Code": "20",
+    "Heading": "Velvet",
+    "Note": "German &#8216;Samt&#8217;"
+  },
+  {
+    "Code": "21",
+    "Heading": "Mother-of-pearl",
+    "Note": "Spanish &#8216;n&aacute;car&#8217;"
+  },
+  {
+    "Code": "22",
+    "Heading": "Papyrus",
+    "Note": ""
+  },
+  {
+    "Code": "23",
+    "Heading": "G&eacute;ltex",
+    "Note": "An imitation cloth binding material"
+  },
+  {
+    "Code": "24",
+    "Heading": "Guaflex",
+    "Note": "An imitation leather binding material"
+  },
+  {
+    "Code": "25",
+    "Heading": "Imitation leather",
+    "Note": "An imitation made of any non-leather material"
+  },
+  {
+    "Code": "26",
+    "Heading": "Pigskin",
+    "Note": ""
+  },
+  {
+    "Code": "27",
+    "Heading": "Goatskin",
+    "Note": ""
+  }
+]

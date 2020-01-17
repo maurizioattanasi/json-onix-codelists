@@ -1,0 +1,27 @@
+[
+  {
+    "Code": "00",
+    "Heading": "Proprietary",
+    "Note": "As specified in &lt;ReturnsCodeTypeName&gt; (ONIX 3.0 only)"
+  },
+  {
+    "Code": "01",
+    "Heading": "French book trade returns conditions code",
+    "Note": "Maintained by CLIL (Commission Interprofessionnel du Livre). Returns conditions values in &lt;ReturnsCode&gt; should be taken from the CLIL list"
+  },
+  {
+    "Code": "02",
+    "Heading": "BISAC Returnable Indicator code",
+    "Note": "Maintained by BISAC: Returns conditions values in &lt;ReturnsCode&gt; should be taken from List 66"
+  },
+  {
+    "Code": "03",
+    "Heading": "UK book trade returns conditions code",
+    "Note": "NOT CURRENTLY USED &#8211; BIC has decided that it will not maintain a code list for this purpose, since returns conditions are usually at least partly based on the trading relationship"
+  },
+  {
+    "Code": "04",
+    "Heading": "ONIX Returns conditions code",
+    "Note": "Returns conditions values in &lt;ReturnsCode&gt; should be taken from List 204"
+  }
+]

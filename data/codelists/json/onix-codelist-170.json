@@ -1,0 +1,22 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Rising discount",
+    "Note": "Discount applied to all units in a qualifying order. The default if no &lt;DiscountType&gt; is specified"
+  },
+  {
+    "Code": "02",
+    "Heading": "Rising discount (cumulative)",
+    "Note": "Additional discount may be applied retrospectively, based on number of units ordered over a specific period"
+  },
+  {
+    "Code": "03",
+    "Heading": "Progressive discount",
+    "Note": "Discount applied to marginal units in a qualifying order"
+  },
+  {
+    "Code": "04",
+    "Heading": "Progressive discount (cumulative)",
+    "Note": "Previous orders within a specific time period are counted when calculating a progressive discount"
+  }
+]

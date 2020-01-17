@@ -1,0 +1,22 @@
+[
+  {
+    "Code": "N",
+    "Heading": "No, not returnable",
+    "Note": ""
+  },
+  {
+    "Code": "Y",
+    "Heading": "Yes, returnable, full copies only",
+    "Note": ""
+  },
+  {
+    "Code": "S",
+    "Heading": "Yes, returnable, stripped cover",
+    "Note": ""
+  },
+  {
+    "Code": "C",
+    "Heading": "Conditional",
+    "Note": "Contact publisher for requirements and/or authorization"
+  }
+]

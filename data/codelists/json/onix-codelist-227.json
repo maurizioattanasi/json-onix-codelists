@@ -1,0 +1,97 @@
+[
+  {
+    "Code": "P",
+    "Heading": "Preschool",
+    "Note": "Typical age less than 3"
+  },
+  {
+    "Code": "K",
+    "Heading": "Kindergarten",
+    "Note": "Typical age 3&#8211;5"
+  },
+  {
+    "Code": "1",
+    "Heading": "Primary school First grade",
+    "Note": "Typical age 6"
+  },
+  {
+    "Code": "2",
+    "Heading": "Primary school Second grade",
+    "Note": "Typical age 7"
+  },
+  {
+    "Code": "3",
+    "Heading": "Primary school Third grade",
+    "Note": "Typical age 8"
+  },
+  {
+    "Code": "4",
+    "Heading": "Primary school Fourth grade",
+    "Note": "Typical age 9"
+  },
+  {
+    "Code": "5",
+    "Heading": "Primary school Fifth grade",
+    "Note": "Typical age 10"
+  },
+  {
+    "Code": "6",
+    "Heading": "Primary school Sixth grade",
+    "Note": "Typical age 11"
+  },
+  {
+    "Code": "7",
+    "Heading": "Junior secondary school Seventh grade",
+    "Note": "Typical age 12"
+  },
+  {
+    "Code": "8",
+    "Heading": "Junior secondary school Eighth grade",
+    "Note": "Typical age 13"
+  },
+  {
+    "Code": "9",
+    "Heading": "Junior secondary school Ninth grade",
+    "Note": "Typical age 14"
+  },
+  {
+    "Code": "10",
+    "Heading": "Senior secondary school Tenth grade",
+    "Note": "Typical age 15"
+  },
+  {
+    "Code": "11",
+    "Heading": "Senior secondary school Eleventh grade",
+    "Note": "Typical age 16"
+  },
+  {
+    "Code": "12",
+    "Heading": "Senior secondary school Twelfth grade",
+    "Note": "Typical age 17"
+  },
+  {
+    "Code": "13",
+    "Heading": "University first year",
+    "Note": "Typical age 18"
+  },
+  {
+    "Code": "14",
+    "Heading": "University second year",
+    "Note": "Typical age 19"
+  },
+  {
+    "Code": "15",
+    "Heading": "University third year",
+    "Note": "Typical age 20"
+  },
+  {
+    "Code": "16",
+    "Heading": "University fourth year",
+    "Note": "Typical age 21"
+  },
+  {
+    "Code": "17",
+    "Heading": "Graduate level",
+    "Note": "Typical age 22+"
+  }
+]

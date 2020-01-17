@@ -1,0 +1,352 @@
+[
+  {
+    "Code": "ALV",
+    "Heading": "Alberto Vaccari",
+    "Note": "Alberto Vaccari &#8211; Pontificio Istituto Biblico"
+  },
+  {
+    "Code": "AMP",
+    "Heading": "Amplified",
+    "Note": "A translation based on the American Standard Version and showing multiple options for the translation of ancient text. Published in full in 1965. Sponsored by the Lockman Foundation"
+  },
+  {
+    "Code": "ANM",
+    "Heading": "Antonio Martini",
+    "Note": "Most popular Catholic Bible translation in Italian prior to the CEI translation in 1971"
+  },
+  {
+    "Code": "ASV",
+    "Heading": "American Standard",
+    "Note": "A 1901 translation using verbal equivalence techniques with the purpose of Americanizing the REV"
+  },
+  {
+    "Code": "CEB",
+    "Heading": "Common English Bible",
+    "Note": "2011 contemporary English translation of the Bible sponsored by the US-based Christian Resources Development Corporation. The translation includes Old Testament, Apocrypha and New Testament, and is aimed to be accessible to most English readers (minimum 7th grade reading age)"
+  },
+  {
+    "Code": "CEI",
+    "Heading": "Conferenza Episcopale Italiana",
+    "Note": "Italian Episcopal Conference 1971 translation suitable for Italian Catholic liturgy. (Includes minor 1974 revision)"
+  },
+  {
+    "Code": "CEN",
+    "Heading": "Conferenza Episcopale Italiana 2008",
+    "Note": "New translation of the C.E.I. first published in 2008 &#8211; the version most widely used by the Italian Catholic Church"
+  },
+  {
+    "Code": "CEV",
+    "Heading": "Contemporary English",
+    "Note": "A translation completed in 1995 and sponsored by the American Bible Society under the leadership of Barclay Newman"
+  },
+  {
+    "Code": "CNC",
+    "Heading": "Concordata",
+    "Note": "1968 Interfaith version promoted by the Italian Bible Society. Has a Catholic &#8216;imprimateur&#8217;, but its ecumenical approach has Jewish, Protestant and Christian Orthodox approval"
+  },
+  {
+    "Code": "DDI",
+    "Heading": "Diodati",
+    "Note": "Version based on original documents, edited by Giovanni Diodati in 1607, revised by Diodati in 1641 and again in 1894. It is the reference version for many Italian Protestants"
+  },
+  {
+    "Code": "DDN",
+    "Heading": "Nuova Diodati",
+    "Note": "Revision of the Diodati Bible dating to the 1990s, aiming at highest fidelity to original ancient Greek (New Testament) and Hebrew (Old Testament) texts"
+  },
+  {
+    "Code": "DOU",
+    "Heading": "Douay-Rheims",
+    "Note": "An early (1580-1609) English translation from the Latin Vulgate designed for Catholics and performed by George Martin"
+  },
+  {
+    "Code": "EIN",
+    "Heading": "Einheits&uuml;bersetzung",
+    "Note": "A German translation of the Bible for use in Roman Catholic churches"
+  },
+  {
+    "Code": "ESV",
+    "Heading": "English Standard",
+    "Note": "An update of the Revised Standard Version that makes &#8216;modest&#8217; use of gender-free terminology"
+  },
+  {
+    "Code": "FBB",
+    "Heading": "Biblia (1776)",
+    "Note": "Finnish Bible translation"
+  },
+  {
+    "Code": "FRA",
+    "Heading": "Raamattu (1933/1938)",
+    "Note": "Finnish Bible translation"
+  },
+  {
+    "Code": "FRK",
+    "Heading": "Raamattu kansalle",
+    "Note": "Finnish Bible translation"
+  },
+  {
+    "Code": "FRM",
+    "Heading": "Raamattu (1992)",
+    "Note": "Finnish Bible translation"
+  },
+  {
+    "Code": "GDW",
+    "Heading": "God&#8217;s Word",
+    "Note": "A 1995 translation by the World Bible Publishing Company using the English language in a manner to communicate to the late 20th century American"
+  },
+  {
+    "Code": "GEN",
+    "Heading": "Geneva",
+    "Note": "An early (1560) English version of the Bible translated by William Whittingham with strong Protestant leanings"
+  },
+  {
+    "Code": "GNB",
+    "Heading": "Good News",
+    "Note": "A translation sponsored by the American Bible Society. The New Testament was first published (as &#8216;Today&#8217;s English Version&#8217; TEV) in 1966. The Old Testament was completed in 1976, and the whole was published as the &#8216;Good News Bible&#8217;"
+  },
+  {
+    "Code": "GPR",
+    "Heading": "Galbiati, Penna, Rossano &#8211; UTET",
+    "Note": "Version edited by E. Galbiati, A. Penna and P. Rossano, and published by UTET. This version, based on original texts, is rich in notes and has been used as the basis for CEI translation"
+  },
+  {
+    "Code": "GRK",
+    "Heading": "Original Greek",
+    "Note": "New Testament text in an original Greek version"
+  },
+  {
+    "Code": "GRM",
+    "Heading": "Garofano, Rinaldi &#8211; Marietti",
+    "Note": "Richly annotated 1963 Version edited by S. Garofano and S. Rinaldi, and published by Marietti"
+  },
+  {
+    "Code": "HBR",
+    "Heading": "Original Hebrew",
+    "Note": "Old Testament text in an original Hebrew version"
+  },
+  {
+    "Code": "HCS",
+    "Heading": "Holman Christian Standard",
+    "Note": "Published by Broadman and Holman this translation rejects all forms of gender-neutral wording and is written with strong influences from the Southern Baptist perspective of biblical scholarship"
+  },
+  {
+    "Code": "ICB",
+    "Heading": "International Children&#8217;s",
+    "Note": "A translation completed in 1986 targeting readability at the US third grade level"
+  },
+  {
+    "Code": "ILC",
+    "Heading": "Traduzione Interconfessionale in Lingua Corrente",
+    "Note": "Interconfessional translation resulting from 1985 effort by Catholic and Protestant scholars, aimed at delivering an easy-to-understand message"
+  },
+  {
+    "Code": "JER",
+    "Heading": "Jerusalem",
+    "Note": "A translation designed for English speaking Catholics based on the original languages. It is based on French as well as ancient texts and was first published in 1966"
+  },
+  {
+    "Code": "KJV",
+    "Heading": "King James",
+    "Note": "A translation commissioned by King James I of England and first published in 1611"
+  },
+  {
+    "Code": "KJT",
+    "Heading": "21st Century King James",
+    "Note": "A verbal translation led by William Prindele. Published in 1994, it was designed to modernize the language of the King James Version based on Webster&#8217;s New International Dictionary, 2nd edition, unabridged"
+  },
+  {
+    "Code": "LVB",
+    "Heading": "Living Bible",
+    "Note": "A paraphrase translation led by Kenneth N Taylor and first published in 1972"
+  },
+  {
+    "Code": "LZZ",
+    "Heading": "Luzzi",
+    "Note": "1924 translation by Giovanni Luzzi, Professor at the Waldensian Faculty of Theology in Rome, who revised the 17th Century Diodati version"
+  },
+  {
+    "Code": "MSG",
+    "Heading": "Message Bible",
+    "Note": "A paraphrase translation of the New Testament by Eugene Peterson first published in 1993"
+  },
+  {
+    "Code": "NAB",
+    "Heading": "New American",
+    "Note": "A translation aimed at Catholic readers first published in its entirety in 1970. A revised New Testament was issued in 1986 as the 2nd Edition. The 3rd Edtion was published in 1991 with a revision to Psalms. The 4th Edition (also known as the New American Bible Revised Edition) was published in 2011, incorporating revisions to the Old Testament"
+  },
+  {
+    "Code": "NAS",
+    "Heading": "New American Standard",
+    "Note": "A translation commissioned by the Lockman Foundation. The New Testament was published in 1960 followed by the entire Bible in 1971"
+  },
+  {
+    "Code": "NAU",
+    "Heading": "New American Standard, Updated",
+    "Note": "A 1995 translation using more modern language than the NASB"
+  },
+  {
+    "Code": "NBA",
+    "Heading": "Bibelen 1895",
+    "Note": "Norwegian Bible translation"
+  },
+  {
+    "Code": "NBB",
+    "Heading": "Bibelen 1930",
+    "Note": "Norwegian Bible translation"
+  },
+  {
+    "Code": "NBC",
+    "Heading": "Bibelen 1938",
+    "Note": "Norwegian Bible translation"
+  },
+  {
+    "Code": "NBD",
+    "Heading": "Bibelen 1978-85",
+    "Note": "Norwegian Bible translation"
+  },
+  {
+    "Code": "NBE",
+    "Heading": "Bibelen 1978",
+    "Note": "Norwegian Bible translation"
+  },
+  {
+    "Code": "NBF",
+    "Heading": "Bibelen 1985",
+    "Note": "Norwegian Bible translation"
+  },
+  {
+    "Code": "NBG",
+    "Heading": "Bibelen 1988",
+    "Note": "Norwegian Bible translation"
+  },
+  {
+    "Code": "NBH",
+    "Heading": "Bibelen 1978-85/rev. 2005",
+    "Note": "Norwegian Bible translation"
+  },
+  {
+    "Code": "NBI",
+    "Heading": "Bibelen 2011",
+    "Note": "Norwegian Bible translation"
+  },
+  {
+    "Code": "NCV",
+    "Heading": "New Century",
+    "Note": "A translation inspired by the International Children&#8217;s version. First published by World Publishing in 1991"
+  },
+  {
+    "Code": "NEB",
+    "Heading": "New English",
+    "Note": "A translation first issued in 1961 (New Testament) and 1970 (complete Bible) as a result of a proposal at the 1946 General Assembly of the Church of Scotland"
+  },
+  {
+    "Code": "NGO",
+    "Heading": "Bibelen Guds ord",
+    "Note": "Norwegian Bible translation"
+  },
+  {
+    "Code": "NIV",
+    "Heading": "New International",
+    "Note": "A translation underwritten by Biblica (formerly the International Bible Society, and previously the New York Bible Society). The New Testament was published in 1973 followed by the entire Bible in 1978. The NIV text was revised in 1984 and again in 2011"
+  },
+  {
+    "Code": "NIR",
+    "Heading": "New International Reader&#8217;s",
+    "Note": "A 1996 translation designed for people with limited literacy in English and based on the NIV"
+  },
+  {
+    "Code": "NJB",
+    "Heading": "New Jerusalem",
+    "Note": "A revision of the Jerusalem Bible. First published in 1986"
+  },
+  {
+    "Code": "NKJ",
+    "Heading": "New King James",
+    "Note": "A version issued by Thomas Nelson Publishers in 1982-83 designed to update the language of the King James Version while maintaining the phrasing and rhythm and using the same sources as its predecessor"
+  },
+  {
+    "Code": "NNK",
+    "Heading": "Bibelen, nynorsk",
+    "Note": "Norwegian &#8216;nynorsk&#8217; Bible translation"
+  },
+  {
+    "Code": "NLV",
+    "Heading": "New Living",
+    "Note": "A translation sponsored by Tyndale House and first released in 1996. It is considered a revision and updating of the Living Bible"
+  },
+  {
+    "Code": "NRS",
+    "Heading": "New Revised Standard",
+    "Note": "A revision of the Revised Standard based on ancient texts but updating language to American usage of the 1980s"
+  },
+  {
+    "Code": "NTV",
+    "Heading": "Nueva Traduccion Vivienta",
+    "Note": "A Spanish translation from the original Greek and Hebrew, sponsored by Tyndale House"
+  },
+  {
+    "Code": "NVB",
+    "Heading": "Novissima Versione della Bibbia",
+    "Note": "Nuovissima version &#8211; a Catholic-oriented translation in modern Italian, edited by a group including Carlo Martini, Gianfranco Ravasi and Ugo Vanni and first published (in 48 volumes, 1967-1980) by Edizioni San Paolo"
+  },
+  {
+    "Code": "NVD",
+    "Heading": "Nueva Biblia al Dia",
+    "Note": "A Spanish translation from the original Greek and Hebrew, sponsored by the International Bible Society/Sociedad B&iacute;blica Internacional"
+  },
+  {
+    "Code": "NVI",
+    "Heading": "Nueva Version Internacional",
+    "Note": "A Spanish translation underwritten by the International Bible Society"
+  },
+  {
+    "Code": "PHP",
+    "Heading": "New Testament in Modern English (Phillips)",
+    "Note": "An idiomatic translation by J B Phillips, first completed in 1966"
+  },
+  {
+    "Code": "REB",
+    "Heading": "Revised English",
+    "Note": "A 1989 revision of the NEB. A significant effort was made to reduce the British flavor present in the NEB"
+  },
+  {
+    "Code": "REV",
+    "Heading": "Revised Version",
+    "Note": "The first major revision of the King James Version, the Revised Version incorporates insights from early manuscripts discovered between 1611 and 1870, and corrects readings in the KJV which nineteenth-century scholarship deemed mistaken. The New Testament was published in 1881, the Old Testament in 1885, and the Apocrypha in 1895"
+  },
+  {
+    "Code": "RSV",
+    "Heading": "Revised Standard",
+    "Note": "A translation authorized by the National Council of Churches of Christ in the USA. The New Testament was published in 1946 followed by a complete Protestant canon in 1951"
+  },
+  {
+    "Code": "RVL",
+    "Heading": "Reina Valera",
+    "Note": "A Spanish translation based on the original texts"
+  },
+  {
+    "Code": "SBB",
+    "Heading": "Bibel 2000",
+    "Note": "Swedish Bible translation"
+  },
+  {
+    "Code": "SMK",
+    "Heading": "Bibelen, samisk",
+    "Note": "Norwegian &#8216;samisk&#8217; Bible translation"
+  },
+  {
+    "Code": "TEV",
+    "Heading": "Today&#8217;s English",
+    "Note": "A translation of the New Testament sponsored by the American Bible Society and first published in 1966. It was incorporated into the &#8216;Good News Bible&#8217; (GNB) in 1976"
+  },
+  {
+    "Code": "TNI",
+    "Heading": "Today&#8217;s New International",
+    "Note": "An updating of the New International Version. The New Testament was published in 2002, and the entire Bible in 2005. Superseded by the 2011 NIV update"
+  },
+  {
+    "Code": "ZZZ",
+    "Heading": "Other",
+    "Note": "Other translations not otherwise noted"
+  }
+]

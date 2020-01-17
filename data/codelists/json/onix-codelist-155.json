@@ -1,0 +1,52 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Publication date",
+    "Note": "Nominal date of publication (of the content item or supporting resource)"
+  },
+  {
+    "Code": "04",
+    "Heading": "Broadcast date",
+    "Note": "Date when a TV or radio program was / will be broadcast"
+  },
+  {
+    "Code": "14",
+    "Heading": "From date",
+    "Note": "Date from which a content item or supporting resource may be referenced or used. The content is embargoed until this date"
+  },
+  {
+    "Code": "15",
+    "Heading": "Until date",
+    "Note": "Date until which a content item or supporting resource may be referenced or used"
+  },
+  {
+    "Code": "17",
+    "Heading": "Last updated",
+    "Note": "Date when a resource was last changed or updated"
+  },
+  {
+    "Code": "24",
+    "Heading": "From&#8230; until date",
+    "Note": "Combines From date and Until date to define a period (both dates are inclusive). Use with for example dateformat 06"
+  },
+  {
+    "Code": "27",
+    "Heading": "Available from",
+    "Note": "Date from which a supporting resource is available for download. Note that this date also implies that it can be immediately displayed to the intended audience, unless a From date (code 14) is also supplied and is later than the Available from date"
+  },
+  {
+    "Code": "28",
+    "Heading": "Available until",
+    "Note": "Date until which a supporting resource is available for download. Note that this date does not imply it must be removed from display to the intended audience on this date &#8211; for this, use Until date (code 15)"
+  },
+  {
+    "Code": "31",
+    "Heading": "Associated start date",
+    "Note": "Start date referenced by the supporting resource, for example, the &#8216;earliest exam date&#8217; for an official recommendation"
+  },
+  {
+    "Code": "32",
+    "Heading": "Associated end date",
+    "Note": "End date referenced by the supporting resource, for example, the &#8216;latest exam date&#8217; for an official recommendation"
+  }
+]

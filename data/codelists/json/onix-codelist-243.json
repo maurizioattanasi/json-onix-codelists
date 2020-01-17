@@ -1,0 +1,37 @@
+[
+  {
+    "Code": "00",
+    "Heading": "Inapplicable",
+    "Note": "The product is not classed as dangerous goods. The default if information is omitted"
+  },
+  {
+    "Code": "01",
+    "Heading": "GHS",
+    "Note": "Indicates if the product is generally classed as a hazardous substance. &lt;ProductFormFeatureDescription&gt; must contain a Hazard Class [eg &#8220;Irritant (Category 2)&#8221;] using the Globally Harmonized System of Classification and Labelling of Chemicals. The text is usually available on the Safety Data Sheet, along with equivalent GHS Hazard Pictograms, and may also be on the product or packaging. Must be accompanied by a Safety Data Sheet URL (see code 06)"
+  },
+  {
+    "Code": "02",
+    "Heading": "Transport",
+    "Note": "Indicates the product is classed as a hazardous substance for transportation purposes. &lt;ProductFormFeatureDescription&gt; must contain a &#8216;UN number&#8217; (UN plus four digits) specifying the specific chemical hazard, eg UN1203 is gasoline"
+  },
+  {
+    "Code": "03",
+    "Heading": "Storage",
+    "Note": "Indicates the product is classed as a hazardous substance for storage purposes"
+  },
+  {
+    "Code": "04",
+    "Heading": "Waste",
+    "Note": "Indicates the product is classed as a hazardous substance for disposal purposes"
+  },
+  {
+    "Code": "05",
+    "Heading": "Other",
+    "Note": "Indicates the product is classed as a hazardous substance for purposes not covered by other codes. Must be accompanied by a Safety Data Sheet URL (see code 06)"
+  },
+  {
+    "Code": "06",
+    "Heading": "Safety data sheet available",
+    "Note": "(Material) Safety Data Sheet available for the product. &lt;ProductFormFeatureDescription&gt; must contain the URL of documentation"
+  }
+]

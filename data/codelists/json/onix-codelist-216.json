@@ -1,0 +1,47 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Mean daily sale",
+    "Note": "Typically measured over most recent 1 month period"
+  },
+  {
+    "Code": "02",
+    "Heading": "Maximum daily sale",
+    "Note": "Typically measured over most recent 1 month period"
+  },
+  {
+    "Code": "03",
+    "Heading": "Minimum daily sale",
+    "Note": "Typically measured over most recent 1 month period"
+  },
+  {
+    "Code": "04",
+    "Heading": "Mean weekly sale",
+    "Note": "Typically measured over most recent rolling 12 week period"
+  },
+  {
+    "Code": "05",
+    "Heading": "Maximum weekly sale",
+    "Note": "Typically measured over most recent rolling 12 week period"
+  },
+  {
+    "Code": "06",
+    "Heading": "Minimum weekly sale",
+    "Note": "Typically measured over most recent rolling 12 week period"
+  },
+  {
+    "Code": "07",
+    "Heading": "Mean monthly sale",
+    "Note": "Typically measured over most recent rolling 6 month period"
+  },
+  {
+    "Code": "08",
+    "Heading": "Maximum monthly sale",
+    "Note": "Typically measured over the most recent rolling 6 month period"
+  },
+  {
+    "Code": "09",
+    "Heading": "Minimum monthly sale",
+    "Note": "Typically measured over the most recent rolling 6 month period"
+  }
+]

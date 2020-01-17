@@ -1,0 +1,167 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Proprietary",
+    "Note": "Note that &lt;IDTypeName&gt; is required with proprietary identifiers"
+  },
+  {
+    "Code": "02",
+    "Heading": "Proprietary",
+    "Note": "DEPRECATED &#8211; use 01"
+  },
+  {
+    "Code": "03",
+    "Heading": "DNB publisher identifier",
+    "Note": "Deutsche Nationalbibliothek publisher identifier"
+  },
+  {
+    "Code": "04",
+    "Heading": "B&ouml;rsenverein Verkehrsnummer",
+    "Note": ""
+  },
+  {
+    "Code": "05",
+    "Heading": "German ISBN Agency publisher identifier",
+    "Note": ""
+  },
+  {
+    "Code": "06",
+    "Heading": "GLN",
+    "Note": "GS1 global location number (formerly EAN location number)"
+  },
+  {
+    "Code": "07",
+    "Heading": "SAN",
+    "Note": "Book trade Standard Address Number &#8211; US, UK etc"
+  },
+  {
+    "Code": "08",
+    "Heading": "MARC organization code",
+    "Note": "MARC code list for organizations &#8211; see http://www.loc.gov/marc/organizations/orgshome.html"
+  },
+  {
+    "Code": "10",
+    "Heading": "Centraal Boekhuis Relatie ID",
+    "Note": "Trading party identifier used in the Netherlands"
+  },
+  {
+    "Code": "13",
+    "Heading": "Fondscode Boekenbank",
+    "Note": "Flemish publisher code"
+  },
+  {
+    "Code": "15",
+    "Heading": "Y-tunnus",
+    "Note": "Business Identity Code (Finland). See http://www.ytj.fi/ (in Finnish)"
+  },
+  {
+    "Code": "16",
+    "Heading": "ISNI",
+    "Note": "International Standard Name Identifier. A sixteen digit number. Usually presented with spaces or hyphens dividing the number into four groups of four digits, but in ONIX the spaces or hyphens should be omitted. See http://www.isni.org/"
+  },
+  {
+    "Code": "17",
+    "Heading": "PND",
+    "Note": "Personennamendatei &#8211; person name authority file used by Deutsche Nationalbibliothek and in other German-speaking countries. See http://www.dnb.de/standardisierung/normdateien/pnd.htm (German) or http://www.dnb.de/eng/standardisierung/normdateien/pnd.htm (English). DEPRECATED in favor of the GND"
+  },
+  {
+    "Code": "18",
+    "Heading": "LCCN",
+    "Note": "A control number assigned to a Library of Congress Name Authority record"
+  },
+  {
+    "Code": "19",
+    "Heading": "Japanese Publisher identifier",
+    "Note": "Publisher identifier administered by Japanese ISBN Agency"
+  },
+  {
+    "Code": "20",
+    "Heading": "GKD",
+    "Note": "Gemeinsame K&ouml;rperschaftsdatei &#8211; Corporate Body Authority File in the German-speaking countries. See http://www.dnb.de/standardisierung/normdateien/gkd.htm (German) or http://www.dnb.de/eng/standardisierung/normdateien/gkd.htm (English). DEPRECATED in favor of the GND"
+  },
+  {
+    "Code": "21",
+    "Heading": "ORCID",
+    "Note": "Open Researcher and Contributor ID. A sixteen digit number. Usually presented with hyphens dividing the number into four groups of four digits, but in ONIX the hyphens should be omitted. See http://www.orcid.org/"
+  },
+  {
+    "Code": "22",
+    "Heading": "GAPP Publisher Identifier",
+    "Note": "Publisher identifier maintained by the Chinese ISBN Agency (GAPP)"
+  },
+  {
+    "Code": "23",
+    "Heading": "VAT Identity Number",
+    "Note": "Identifier for a business organization for VAT purposes, eg within the EU&#8217;s VIES system. See http://ec.europa.eu/taxation_customs/vies/faqvies.do for EU VAT ID formats, which vary from country to country. Generally these consist of a two-letter country code followed by the 8&#8211;12 digits of the national VAT ID. Some countries include one or two letters within their VAT ID. See http://en.wikipedia.org/wiki/VAT_identification_number for non-EU countries that maintain similar identifiers. Spaces, dashes etc should be omitted"
+  },
+  {
+    "Code": "24",
+    "Heading": "JP Distribution Identifier",
+    "Note": "4-digit business organization identifier controlled by the Japanese Publication Wholesalers Association"
+  },
+  {
+    "Code": "25",
+    "Heading": "GND",
+    "Note": "Gemeinsame Normdatei &#8211; Joint Authority File in the German-speaking countries. See http://www.dnb.de/EN/gnd (English). Combines the PND, SWD and GKD into a single authority file, and should be used in preference"
+  },
+  {
+    "Code": "26",
+    "Heading": "DUNS",
+    "Note": "Dunn and Bradstreet Universal Numbering System, see http://www.dnb.co.uk/dandb-duns-number"
+  },
+  {
+    "Code": "27",
+    "Heading": "Ringgold ID",
+    "Note": "Ringgold organizational identifier, see http://www.ringgold.com/identify.html"
+  },
+  {
+    "Code": "28",
+    "Heading": "Identifiant Editeur Electre",
+    "Note": "French Electre publisher identifier"
+  },
+  {
+    "Code": "29",
+    "Heading": "EIDR Party DOI",
+    "Note": "DOI used in EIDR party registry, for example &#8216;10.5237/C9F6-F41F&#8217; (Sam Raimi). See http://eidr.org"
+  },
+  {
+    "Code": "30",
+    "Heading": "Identifiant Marque Electre",
+    "Note": "French Electre imprint Identifier"
+  },
+  {
+    "Code": "31",
+    "Heading": "VIAF ID",
+    "Note": "Virtual Internet Authority File. &lt;IDValue&gt; should be a number. The URI form of the identifier can be created by prefixing the number with &#8216;https://viaf.org/viaf/&#8217;. See https://viaf.org"
+  },
+  {
+    "Code": "32",
+    "Heading": "FundRef DOI",
+    "Note": "DOI used in CrossRef&#8217;s Open Funder Registry list of academic research funding bodies, for example &#8216;10.13039/100004440&#8217; (Wellcome Trust). See http://www.crossref.org/fundingdata/registry.html"
+  },
+  {
+    "Code": "33",
+    "Heading": "BNE CN",
+    "Note": "Control number assigned to a Name Authority record by the Biblioteca Nacional de Espa&ntilde;a"
+  },
+  {
+    "Code": "34",
+    "Heading": "BNF Control Number",
+    "Note": "Num&eacute;ro de la notice de personne BNF"
+  },
+  {
+    "Code": "35",
+    "Heading": "ARK",
+    "Note": "Archival Resource Key, as a URL (including the address of the ARK resolver provided by eg a national library)"
+  },
+  {
+    "Code": "36",
+    "Heading": "Nasjonalt autoritetsregister",
+    "Note": "Nasjonalt autoritetsregister for navn &#8211; Norwegian national authority file for personal and corporate names. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "37",
+    "Heading": "GRID",
+    "Note": "Global Research Identifier Database ID (see https://www.grid.ac). For use in ONIX 3.0 only"
+  }
+]

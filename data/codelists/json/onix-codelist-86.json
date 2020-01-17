@@ -1,0 +1,27 @@
+[
+  {
+    "Code": "CHR",
+    "Heading": "Chronological",
+    "Note": "A Bible with the text organized in the order in which events are believed to have happened"
+  },
+  {
+    "Code": "CHA",
+    "Heading": "Chain reference",
+    "Note": "A Bible which explores keywords or themes by referring text to preceding or following text"
+  },
+  {
+    "Code": "INT",
+    "Heading": "Interlinear",
+    "Note": "A Bible or other text in which different versions are printed one line above the other, so that the variations can easily be detected"
+  },
+  {
+    "Code": "PAR",
+    "Heading": "Parallel",
+    "Note": "A Bible with two or more versions printed side by side"
+  },
+  {
+    "Code": "STN",
+    "Heading": "Standard",
+    "Note": "A Bible in which the text is presented in the traditional order"
+  }
+]

@@ -1,0 +1,982 @@
+[
+  {
+    "Code": "AED",
+    "Heading": "UAE Dirham",
+    "Note": "United Arab Emirates"
+  },
+  {
+    "Code": "AFA",
+    "Heading": "Afghani",
+    "Note": "Afghanistan. DEPRECATED, replaced by AFN"
+  },
+  {
+    "Code": "AFN",
+    "Heading": "Afghani",
+    "Note": "Afghanistan (prices normally quoted as integers)"
+  },
+  {
+    "Code": "ALL",
+    "Heading": "Lek",
+    "Note": "Albania (prices normally quoted as integers)"
+  },
+  {
+    "Code": "AMD",
+    "Heading": "Armenian Dram",
+    "Note": "Armenia (prices normally quoted as integers)"
+  },
+  {
+    "Code": "ANG",
+    "Heading": "Netherlands Antillian Guilder",
+    "Note": "Cura&ccedil;ao, Sint Maarten"
+  },
+  {
+    "Code": "AOA",
+    "Heading": "Kwanza",
+    "Note": "Angola"
+  },
+  {
+    "Code": "ARS",
+    "Heading": "Argentine Peso",
+    "Note": "Argentina"
+  },
+  {
+    "Code": "ATS",
+    "Heading": "Schilling",
+    "Note": "Austria. Now replaced by the Euro (EUR). Deprecated &#8211; use only for historical prices that pre-date the introduction of the Euro"
+  },
+  {
+    "Code": "AUD",
+    "Heading": "Australian Dollar",
+    "Note": "Australia, Christmas Island, Cocos (Keeling) Islands, Heard Island and McDonald Islands, Kiribati, Nauru, Norfolk Island, Tuvalu"
+  },
+  {
+    "Code": "AWG",
+    "Heading": "Aruban Florin",
+    "Note": "Aruba"
+  },
+  {
+    "Code": "AZN",
+    "Heading": "Azerbaijan Manat",
+    "Note": "Azerbaijan"
+  },
+  {
+    "Code": "BAM",
+    "Heading": "Convertible Marks",
+    "Note": "Bosnia and Herzegovina"
+  },
+  {
+    "Code": "BBD",
+    "Heading": "Barbados Dollar",
+    "Note": "Barbados"
+  },
+  {
+    "Code": "BDT",
+    "Heading": "Taka",
+    "Note": "Bangladesh"
+  },
+  {
+    "Code": "BEF",
+    "Heading": "Belgian Franc",
+    "Note": "Belgium. Now replaced by the Euro (EUR). Deprecated &#8211; use only for historical prices that pre-date the introduction of the Euro"
+  },
+  {
+    "Code": "BGL",
+    "Heading": "Bulgarian Lev",
+    "Note": "DEPRECATED, replaced by BGN"
+  },
+  {
+    "Code": "BGN",
+    "Heading": "Bulgarian Lev",
+    "Note": "Bulgaria"
+  },
+  {
+    "Code": "BHD",
+    "Heading": "Bahraini Dinar",
+    "Note": "Bahrain (prices normally quoted with 3 decimal places)"
+  },
+  {
+    "Code": "BIF",
+    "Heading": "Burundi Franc",
+    "Note": "Burundi (prices normally quoted as integers)"
+  },
+  {
+    "Code": "BMD",
+    "Heading": "Bermudian Dollar",
+    "Note": "Bermuda"
+  },
+  {
+    "Code": "BND",
+    "Heading": "Brunei Dollar",
+    "Note": "Brunei Darussalam"
+  },
+  {
+    "Code": "BOB",
+    "Heading": "Boliviano",
+    "Note": "Bolivia"
+  },
+  {
+    "Code": "BRL",
+    "Heading": "Brazilian Real",
+    "Note": "Brazil"
+  },
+  {
+    "Code": "BSD",
+    "Heading": "Bahamian Dollar",
+    "Note": "Bahamas"
+  },
+  {
+    "Code": "BTN",
+    "Heading": "Ngultrun",
+    "Note": "Bhutan"
+  },
+  {
+    "Code": "BWP",
+    "Heading": "Pula",
+    "Note": "Botswana"
+  },
+  {
+    "Code": "BYR",
+    "Heading": "(Old) Belarussian Ruble",
+    "Note": "Belarus (prices normally quoted as integers). Deprecated &#8211; now replaced by new Belarussian Ruble (BYN): use only for historical prices that pre-date the introduction of the new Belarussian Ruble"
+  },
+  {
+    "Code": "BYN",
+    "Heading": "Belarussian Ruble",
+    "Note": "Belarus"
+  },
+  {
+    "Code": "BZD",
+    "Heading": "Belize Dollar",
+    "Note": "Belize"
+  },
+  {
+    "Code": "CAD",
+    "Heading": "Canadian Dollar",
+    "Note": "Canada"
+  },
+  {
+    "Code": "CDF",
+    "Heading": "Franc Congolais",
+    "Note": "Congo (Democratic Republic of the)"
+  },
+  {
+    "Code": "CHF",
+    "Heading": "Swiss Franc",
+    "Note": "Switzerland, Liechtenstein"
+  },
+  {
+    "Code": "CLP",
+    "Heading": "Chilean Peso",
+    "Note": "Chile (prices normally quoted as integers)"
+  },
+  {
+    "Code": "CNY",
+    "Heading": "Yuan Renminbi",
+    "Note": "China"
+  },
+  {
+    "Code": "COP",
+    "Heading": "Colombian Peso",
+    "Note": "Colombia (prices normally quoted as integers)"
+  },
+  {
+    "Code": "CRC",
+    "Heading": "Costa Rican Colon",
+    "Note": "Costa Rica (prices normally quoted as integers)"
+  },
+  {
+    "Code": "CSD",
+    "Heading": "Serbian Dinar",
+    "Note": "Deprecated, replaced by RSD"
+  },
+  {
+    "Code": "CUC",
+    "Heading": "Cuban Convertible Peso",
+    "Note": "Cuba (alternative currency)"
+  },
+  {
+    "Code": "CUP",
+    "Heading": "Cuban Peso",
+    "Note": "Cuba"
+  },
+  {
+    "Code": "CVE",
+    "Heading": "Cabo Verde Escudo",
+    "Note": "Cabo Verde (prices normally quoted as integers)"
+  },
+  {
+    "Code": "CYP",
+    "Heading": "Cyprus Pound",
+    "Note": "Cyprus. Now replaced by the Euro (EUR). Deprecated &#8211; use only for historical prices that pre-date the introduction of the Euro"
+  },
+  {
+    "Code": "CZK",
+    "Heading": "Czech Koruna",
+    "Note": "Czechia"
+  },
+  {
+    "Code": "DEM",
+    "Heading": "Mark",
+    "Note": "Germany. Now replaced by the Euro (EUR). Deprecated &#8211; use only for historical prices that pre-date the introduction of the Euro"
+  },
+  {
+    "Code": "DJF",
+    "Heading": "Djibouti Franc",
+    "Note": "Djibouti (prices normally quoted as integers)"
+  },
+  {
+    "Code": "DKK",
+    "Heading": "Danish Krone",
+    "Note": "Denmark, Faroe Islands, Greenland"
+  },
+  {
+    "Code": "DOP",
+    "Heading": "Dominican Peso",
+    "Note": "Dominican Republic"
+  },
+  {
+    "Code": "DZD",
+    "Heading": "Algerian Dinar",
+    "Note": "Algeria"
+  },
+  {
+    "Code": "EEK",
+    "Heading": "Kroon",
+    "Note": "Estonia.Now replaced by the Euro (EUR). Deprecated &#8211; use only for historical prices that pre-date the introduction of the Euro"
+  },
+  {
+    "Code": "EGP",
+    "Heading": "Egyptian Pound",
+    "Note": "Egypt"
+  },
+  {
+    "Code": "ERN",
+    "Heading": "Nakfa",
+    "Note": "Eritrea"
+  },
+  {
+    "Code": "ESP",
+    "Heading": "Peseta",
+    "Note": "Spain. Now replaced by the Euro (EUR). Deprecated &#8211; use only for historical prices that pre-date the introduction of the Euro (prices normally quoted as integers)"
+  },
+  {
+    "Code": "ETB",
+    "Heading": "Ethiopian Birr",
+    "Note": "Ethiopia"
+  },
+  {
+    "Code": "EUR",
+    "Heading": "Euro",
+    "Note": "Eurozone: Andorra, Austria, Belgium, Cyprus, Estonia, Finland, France, Fr Guiana, Fr S Territories, Germany, Greece, Guadeloupe, Holy See (Vatican City), Ireland, Italy, Latvia, Lithuania, Luxembourg, Martinique, Malta, Mayotte, Monaco, Montenegro, Netherlands, Portugal, R&eacute;union, St Barthelemy, St Martin, St Pierre and Miquelon, San Marino, Slovakia, Slovenia, Spain"
+  },
+  {
+    "Code": "FIM",
+    "Heading": "Markka",
+    "Note": "Finland. Now replaced by the Euro (EUR). Deprecated &#8211; use only for historical prices that pre-date the introduction of the Euro"
+  },
+  {
+    "Code": "FJD",
+    "Heading": "Fiji Dollar",
+    "Note": "Fiji"
+  },
+  {
+    "Code": "FKP",
+    "Heading": "Falkland Islands Pound",
+    "Note": "Falkland Islands (Malvinas)"
+  },
+  {
+    "Code": "FRF",
+    "Heading": "Franc",
+    "Note": "France. Now replaced by the Euro (EUR). Deprecated &#8211; use only for historical prices that pre-date the introduction of the Euro"
+  },
+  {
+    "Code": "GBP",
+    "Heading": "Pound Sterling",
+    "Note": "United Kingdom, Isle of Man, Channel Islands, South Georgia, South Sandwich Islands, British Indian Ocean Territory (de jure)"
+  },
+  {
+    "Code": "GEL",
+    "Heading": "Lari",
+    "Note": "Georgia"
+  },
+  {
+    "Code": "GHC",
+    "Heading": "Ghana Cedi",
+    "Note": "Deprecated, replaced by GHS"
+  },
+  {
+    "Code": "GHS",
+    "Heading": "Ghana Cedi",
+    "Note": "Ghana"
+  },
+  {
+    "Code": "GIP",
+    "Heading": "Gibraltar Pound",
+    "Note": "Gibraltar"
+  },
+  {
+    "Code": "GMD",
+    "Heading": "Dalasi",
+    "Note": "Gambia"
+  },
+  {
+    "Code": "GNF",
+    "Heading": "Guinean Franc",
+    "Note": "Guinea (prices normally quoted as integers)"
+  },
+  {
+    "Code": "GRD",
+    "Heading": "Drachma",
+    "Note": "Greece. Now replaced by the Euro (EUR). Deprecated &#8211; use only for historical prices that pre-date the introduction of the Euro"
+  },
+  {
+    "Code": "GTQ",
+    "Heading": "Quetzal",
+    "Note": "Guatemala"
+  },
+  {
+    "Code": "GWP",
+    "Heading": "Guinea-Bissau Peso",
+    "Note": "Now replaced by the CFA Franc BCEAO XOF use only for historical prices that pre-date use of the CFA Franc"
+  },
+  {
+    "Code": "GYD",
+    "Heading": "Guyana Dollar",
+    "Note": "Guyana (prices normally quoted as integers)"
+  },
+  {
+    "Code": "HKD",
+    "Heading": "Hong Kong Dollar",
+    "Note": "Hong Kong"
+  },
+  {
+    "Code": "HNL",
+    "Heading": "Lempira",
+    "Note": "Honduras"
+  },
+  {
+    "Code": "HRK",
+    "Heading": "Kuna",
+    "Note": "Croatia"
+  },
+  {
+    "Code": "HTG",
+    "Heading": "Gourde",
+    "Note": "Haiti"
+  },
+  {
+    "Code": "HUF",
+    "Heading": "Forint",
+    "Note": "Hungary (prices normally quoted as integers)"
+  },
+  {
+    "Code": "IDR",
+    "Heading": "Rupiah",
+    "Note": "Indonesia (prices normally quoted as integers)"
+  },
+  {
+    "Code": "IEP",
+    "Heading": "Punt",
+    "Note": "Ireland. Now replaced by the Euro (EUR). Deprecated &#8211; use only for historical prices that pre-date the introduction of the Euro"
+  },
+  {
+    "Code": "ILS",
+    "Heading": "New Israeli Sheqel",
+    "Note": "Israel"
+  },
+  {
+    "Code": "INR",
+    "Heading": "Indian Rupee",
+    "Note": "India, Bhutan (prices normally quoted as integers)"
+  },
+  {
+    "Code": "IQD",
+    "Heading": "Iraqi Dinar",
+    "Note": "Iraq (prices normally quoted as integers)"
+  },
+  {
+    "Code": "IRR",
+    "Heading": "Iranian Rial",
+    "Note": "Iran (Islamic Republic of) (prices normally quoted as integers)"
+  },
+  {
+    "Code": "ISK",
+    "Heading": "Iceland Krona",
+    "Note": "Iceland (prices normally quoted as integers)"
+  },
+  {
+    "Code": "ITL",
+    "Heading": "Lira",
+    "Note": "Italy. Now replaced by the Euro (EUR). Deprecated &#8211; use only for historical prices that pre-date the introduction of the Euro (prices normally quoted as integers)"
+  },
+  {
+    "Code": "JMD",
+    "Heading": "Jamaican Dollar",
+    "Note": "Jamaica"
+  },
+  {
+    "Code": "JOD",
+    "Heading": "Jordanian Dinar",
+    "Note": "Jordan (prices normally quoted with 3 decimal places)"
+  },
+  {
+    "Code": "JPY",
+    "Heading": "Yen",
+    "Note": "Japan (prices normally quoted as integers)"
+  },
+  {
+    "Code": "KES",
+    "Heading": "Kenyan Shilling",
+    "Note": "Kenya"
+  },
+  {
+    "Code": "KGS",
+    "Heading": "Som",
+    "Note": "Kyrgyzstan"
+  },
+  {
+    "Code": "KHR",
+    "Heading": "Riel",
+    "Note": "Cambodia"
+  },
+  {
+    "Code": "KMF",
+    "Heading": "Comorian Franc",
+    "Note": "Comoros (prices normally quoted as integers)"
+  },
+  {
+    "Code": "KPW",
+    "Heading": "North Korean Won",
+    "Note": "Korea (Democratic People&#8217;s Republic of) (prices normally quoted as integers)"
+  },
+  {
+    "Code": "KRW",
+    "Heading": "Won",
+    "Note": "Korea (Republic of) (prices normally quoted as integers)"
+  },
+  {
+    "Code": "KWD",
+    "Heading": "Kuwaiti Dinar",
+    "Note": "Kuwait (prices normally quoted with 3 decimal places)"
+  },
+  {
+    "Code": "KYD",
+    "Heading": "Cayman Islands Dollar",
+    "Note": "Cayman Islands"
+  },
+  {
+    "Code": "KZT",
+    "Heading": "Tenge",
+    "Note": "Kazakstan"
+  },
+  {
+    "Code": "LAK",
+    "Heading": "Lao Kip",
+    "Note": "Lao People&#8217;s Democratic Republic (prices normally quoted as integers)"
+  },
+  {
+    "Code": "LBP",
+    "Heading": "Lebanese Pound",
+    "Note": "Lebanon (prices normally quoted as integers)"
+  },
+  {
+    "Code": "LKR",
+    "Heading": "Sri Lanka Rupee",
+    "Note": "Sri Lanka"
+  },
+  {
+    "Code": "LRD",
+    "Heading": "Liberian Dollar",
+    "Note": "Liberia"
+  },
+  {
+    "Code": "LSL",
+    "Heading": "Loti",
+    "Note": "Lesotho"
+  },
+  {
+    "Code": "LTL",
+    "Heading": "Litus",
+    "Note": "Lithuania. Now replaced by the Euro (EUR). Deprecated &#8211; use only for historical prices that pre-date the introduction of the Euro"
+  },
+  {
+    "Code": "LUF",
+    "Heading": "Luxembourg Franc",
+    "Note": "Luxembourg. Now replaced by the Euro (EUR). Deprecated &#8211; use only for historical prices that pre-date the introduction of the Euro (prices normally quoted as integers)"
+  },
+  {
+    "Code": "LVL",
+    "Heading": "Latvian Lats",
+    "Note": "Latvia. Now replaced by the Euro (EUR). Deprecated &#8211; use only for historical prices that pre-date the introduction of the Euro"
+  },
+  {
+    "Code": "LYD",
+    "Heading": "Libyan Dinar",
+    "Note": "Libyan Arab Jamahiriya (prices normally quoted with 3 decimal places)"
+  },
+  {
+    "Code": "MAD",
+    "Heading": "Moroccan Dirham",
+    "Note": "Morocco, Western Sahara"
+  },
+  {
+    "Code": "MDL",
+    "Heading": "Moldovan Leu",
+    "Note": "Moldova, Republic of"
+  },
+  {
+    "Code": "MGA",
+    "Heading": "Malagasy Ariary",
+    "Note": "Madagascar (prices normally quoted with 0 or 1 decimal place &#8211; 1 iraimbilanja = Ar0.2)"
+  },
+  {
+    "Code": "MGF",
+    "Heading": "Malagasy Franc",
+    "Note": "Now replaced by the Ariary (MGA) (prices normally quoted as integers)"
+  },
+  {
+    "Code": "MKD",
+    "Heading": "Denar",
+    "Note": "North Macedonia (formerly FYR Macedonia)"
+  },
+  {
+    "Code": "MMK",
+    "Heading": "Kyat",
+    "Note": "Myanmar (prices normally quoted as integers)"
+  },
+  {
+    "Code": "MNT",
+    "Heading": "Tugrik",
+    "Note": "Mongolia (prices normally quoted as integers)"
+  },
+  {
+    "Code": "MOP",
+    "Heading": "Pataca",
+    "Note": "Macau"
+  },
+  {
+    "Code": "MRO",
+    "Heading": "(Old) Ouguiya",
+    "Note": "Mauritania (prices normally quoted with 0 or 1 decimal place &#8211; 1 khoums = UM0.2). Was interchangeable with MRU (New) Ouguiya at rate of 10:1 until June 2018. DEPRECATED, use MRU instead"
+  },
+  {
+    "Code": "MRU",
+    "Heading": "Ouguiya",
+    "Note": "Mauritania (prices normally quoted with 0 or 1 decimal place &#8211; 1 khoums = UM0.2). Replaced MRO (old) Ouguiya at rate of 10:1 in June 2018. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "MTL",
+    "Heading": "Maltese Lira",
+    "Note": "Malta. Now replaced by the Euro (EUR). Deprecated &#8211; use only for historical prices that pre-date the introduction of the Euro"
+  },
+  {
+    "Code": "MUR",
+    "Heading": "Mauritius Rupee",
+    "Note": "Mauritius (prices normally quoted as integers)"
+  },
+  {
+    "Code": "MVR",
+    "Heading": "Rufiyaa",
+    "Note": "Maldives"
+  },
+  {
+    "Code": "MWK",
+    "Heading": "Malawi Kwacha",
+    "Note": "Malawi"
+  },
+  {
+    "Code": "MXN",
+    "Heading": "Mexican Peso",
+    "Note": "Mexico"
+  },
+  {
+    "Code": "MYR",
+    "Heading": "Malaysian Ringgit",
+    "Note": "Malaysia"
+  },
+  {
+    "Code": "MZN",
+    "Heading": "Mozambique Metical",
+    "Note": "Mozambique"
+  },
+  {
+    "Code": "NAD",
+    "Heading": "Namibia Dollar",
+    "Note": "Namibia"
+  },
+  {
+    "Code": "NGN",
+    "Heading": "Naira",
+    "Note": "Nigeria"
+  },
+  {
+    "Code": "NIO",
+    "Heading": "Cordoba Oro",
+    "Note": "Nicaragua"
+  },
+  {
+    "Code": "NLG",
+    "Heading": "Guilder",
+    "Note": "Netherlands. Now replaced by the Euro (EUR). Deprecated &#8211; use only for historical prices that pre-date the introduction of the Euro"
+  },
+  {
+    "Code": "NOK",
+    "Heading": "Norwegian Krone",
+    "Note": "Norway, Bouvet Island, Svalbard and Jan Mayen"
+  },
+  {
+    "Code": "NPR",
+    "Heading": "Nepalese Rupee",
+    "Note": "Nepal"
+  },
+  {
+    "Code": "NZD",
+    "Heading": "New Zealand Dollar",
+    "Note": "New Zealand, Cook Islands, Niue, Pitcairn, Tokelau"
+  },
+  {
+    "Code": "OMR",
+    "Heading": "Rial Omani",
+    "Note": "Oman (prices normally quoted with 3 decimal places)"
+  },
+  {
+    "Code": "PAB",
+    "Heading": "Balboa",
+    "Note": "Panama"
+  },
+  {
+    "Code": "PEN",
+    "Heading": "Sol",
+    "Note": "Peru (formerly Nuevo Sol)"
+  },
+  {
+    "Code": "PGK",
+    "Heading": "Kina",
+    "Note": "Papua New Guinea"
+  },
+  {
+    "Code": "PHP",
+    "Heading": "Philippine Peso",
+    "Note": "Philippines"
+  },
+  {
+    "Code": "PKR",
+    "Heading": "Pakistan Rupee",
+    "Note": "Pakistan (prices normally quoted as integers)"
+  },
+  {
+    "Code": "PLN",
+    "Heading": "Z&#322;oty",
+    "Note": "Poland"
+  },
+  {
+    "Code": "PTE",
+    "Heading": "Escudo",
+    "Note": "Portugal. Now replaced by the Euro (EUR). Deprecated &#8211; use only for historical prices that pre-date the introduction of the Euro"
+  },
+  {
+    "Code": "PYG",
+    "Heading": "Guarani",
+    "Note": "Paraguay (prices normally quoted as integers)"
+  },
+  {
+    "Code": "QAR",
+    "Heading": "Qatari Rial",
+    "Note": "Qatar"
+  },
+  {
+    "Code": "ROL",
+    "Heading": "Romanian Old Leu",
+    "Note": "Deprecated, replaced by RON"
+  },
+  {
+    "Code": "RON",
+    "Heading": "Romanian Leu",
+    "Note": "Romania"
+  },
+  {
+    "Code": "RSD",
+    "Heading": "Serbian Dinar",
+    "Note": "Serbia (prices normally quoted as integers)"
+  },
+  {
+    "Code": "RUB",
+    "Heading": "Russian Ruble",
+    "Note": "Russian Federation"
+  },
+  {
+    "Code": "RUR",
+    "Heading": "Russian Ruble",
+    "Note": "DEPRECATED, replaced by RUB"
+  },
+  {
+    "Code": "RWF",
+    "Heading": "Rwanda Franc",
+    "Note": "Rwanda (prices normally quoted as integers)"
+  },
+  {
+    "Code": "SAR",
+    "Heading": "Saudi Riyal",
+    "Note": "Saudi Arabia"
+  },
+  {
+    "Code": "SBD",
+    "Heading": "Solomon Islands Dollar",
+    "Note": "Solomon Islands"
+  },
+  {
+    "Code": "SCR",
+    "Heading": "Seychelles Rupee",
+    "Note": "Seychelles"
+  },
+  {
+    "Code": "SDD",
+    "Heading": "Sudanese Dinar",
+    "Note": "Now replaced by the Sudanese Pound (SDG)"
+  },
+  {
+    "Code": "SDG",
+    "Heading": "Sudanese Pound",
+    "Note": "Sudan"
+  },
+  {
+    "Code": "SEK",
+    "Heading": "Swedish Krona",
+    "Note": "Sweden"
+  },
+  {
+    "Code": "SGD",
+    "Heading": "Singapore Dollar",
+    "Note": "Singapore"
+  },
+  {
+    "Code": "SHP",
+    "Heading": "Saint Helena Pound",
+    "Note": "Saint Helena"
+  },
+  {
+    "Code": "SIT",
+    "Heading": "Tolar",
+    "Note": "Slovenia. Now replaced by the Euro (EUR). Deprecated &#8211; use only for historical prices that pre-date the introduction of the Euro"
+  },
+  {
+    "Code": "SKK",
+    "Heading": "Slovak Koruna",
+    "Note": "Slovakia. Now replaced by the Euro (EUR). Deprecated &#8211; use only for historical prices that pre-date the introduction of the Euro"
+  },
+  {
+    "Code": "SLL",
+    "Heading": "Leone",
+    "Note": "Sierra Leone (prices normally quoted as integers)"
+  },
+  {
+    "Code": "SOS",
+    "Heading": "Somali Shilling",
+    "Note": "Somalia (prices normally quoted as integers)"
+  },
+  {
+    "Code": "SRD",
+    "Heading": "Surinam Dollar",
+    "Note": "Suriname"
+  },
+  {
+    "Code": "SRG",
+    "Heading": "Suriname Guilder",
+    "Note": "DEPRECATED, replaced by SRD"
+  },
+  {
+    "Code": "STD",
+    "Heading": "(Old) Dobra",
+    "Note": "S&atilde;o Tome and Principe (prices normally quoted as integers). Was interchangeable with STN (New) Dobra at rate of 1000:1 until June 2018. DEPRECATED, use STN instead"
+  },
+  {
+    "Code": "STN",
+    "Heading": "Dobra",
+    "Note": "S&atilde;o Tome and Principe. Replaced STD (old) Dobra at rate of 1000:1 in June 2018. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "SVC",
+    "Heading": "El Salvador Colon",
+    "Note": "El Salvador"
+  },
+  {
+    "Code": "SYP",
+    "Heading": "Syrian Pound",
+    "Note": "Syrian Arab Republic (prices normally quoted as integers)"
+  },
+  {
+    "Code": "SZL",
+    "Heading": "Lilangeni",
+    "Note": "Eswatini (formerly known as Swaziland)"
+  },
+  {
+    "Code": "THB",
+    "Heading": "Baht",
+    "Note": "Thailand"
+  },
+  {
+    "Code": "TJS",
+    "Heading": "Somoni",
+    "Note": "Tajikistan"
+  },
+  {
+    "Code": "TMM",
+    "Heading": "Turkmenistan Manat",
+    "Note": "Deprecated, replaced by TMT (prices normally quoted as integers)"
+  },
+  {
+    "Code": "TMT",
+    "Heading": "Turkmenistan New Manat",
+    "Note": "Turkmenistan"
+  },
+  {
+    "Code": "TND",
+    "Heading": "Tunisian Dinar",
+    "Note": "Tunisia (prices normally quoted with 3 decimal places)"
+  },
+  {
+    "Code": "TOP",
+    "Heading": "Pa&#8217;anga",
+    "Note": "Tonga"
+  },
+  {
+    "Code": "TPE",
+    "Heading": "Timor Escudo",
+    "Note": "Deprecated. Timor-Leste now uses the US Dollar"
+  },
+  {
+    "Code": "TRL",
+    "Heading": "Turkish Lira (old)",
+    "Note": "Deprecated, replaced by TRY (prices normally quoted as integers)"
+  },
+  {
+    "Code": "TRY",
+    "Heading": "Turkish Lira",
+    "Note": "Turkey, from 1 January 2005"
+  },
+  {
+    "Code": "TTD",
+    "Heading": "Trinidad and Tobago Dollar",
+    "Note": "Trinidad and Tobago"
+  },
+  {
+    "Code": "TWD",
+    "Heading": "New Taiwan Dollar",
+    "Note": "Taiwan (Province of China)"
+  },
+  {
+    "Code": "TZS",
+    "Heading": "Tanzanian Shilling",
+    "Note": "Tanzania (United Republic of) (prices normally quoted as integers)"
+  },
+  {
+    "Code": "UAH",
+    "Heading": "Hryvnia",
+    "Note": "Ukraine"
+  },
+  {
+    "Code": "UGX",
+    "Heading": "Uganda Shilling",
+    "Note": "Uganda (prices normally quoted as integers)"
+  },
+  {
+    "Code": "USD",
+    "Heading": "US Dollar",
+    "Note": "United States, American Samoa, Bonaire, Sint Eustatius and Saba, British Indian Ocean Territory, Ecuador, El Salvador, Guam, Haiti, Marshall Is, Micronesia (Federated States of), Northern Mariana Is, Palau, Panama, Puerto Rico, Timor-Leste, Turks and Caicos Is, US Minor Outlying Is, Virgin Is (British), Virgin Is (US)"
+  },
+  {
+    "Code": "UYU",
+    "Heading": "Peso Uruguayo",
+    "Note": "Uruguay"
+  },
+  {
+    "Code": "UZS",
+    "Heading": "Uzbekistan Sum",
+    "Note": "Uzbekistan (prices normally quoted as integers)"
+  },
+  {
+    "Code": "VEB",
+    "Heading": "Bol&iacute;var",
+    "Note": "Deprecated, replaced by VEF"
+  },
+  {
+    "Code": "VEF",
+    "Heading": "Bol&iacute;var",
+    "Note": "Venezuela (formerly Bol&iacute;var fuerte). Deprecated, replaced by VES"
+  },
+  {
+    "Code": "VES",
+    "Heading": "Bol&iacute;var Soberano",
+    "Note": "Venezuela (replaced VEF from August 2018 at rate of 100,000:1). For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "VND",
+    "Heading": "Dong",
+    "Note": "Viet Nam (prices normally quoted as integers)"
+  },
+  {
+    "Code": "VUV",
+    "Heading": "Vatu",
+    "Note": "Vanuatu (prices normally quoted as integers)"
+  },
+  {
+    "Code": "WST",
+    "Heading": "Tala",
+    "Note": "Samoa"
+  },
+  {
+    "Code": "XAF",
+    "Heading": "CFA Franc BEAC",
+    "Note": "Cameroon, Central African Republic, Chad, Congo, Equatorial Guinea, Gabon (prices normally quoted as integers)"
+  },
+  {
+    "Code": "XCD",
+    "Heading": "East Caribbean Dollar",
+    "Note": "Anguilla, Antigua and Barbuda, Dominica, Grenada, Montserrat, Saint Kitts and Nevis, Saint Lucia, Saint Vincent and the Grenadines"
+  },
+  {
+    "Code": "XOF",
+    "Heading": "CFA Franc BCEAO",
+    "Note": "Benin, Burkina Faso, C&ocirc;te D&#8217;Ivoire, Guinea-Bissau, Mali, Niger, Senegal, Togo (prices normally quoted as integers)"
+  },
+  {
+    "Code": "XPF",
+    "Heading": "CFP Franc",
+    "Note": "French Polynesia, New Caledonia, Wallis and Futuna (prices normally quoted as integers)"
+  },
+  {
+    "Code": "YER",
+    "Heading": "Yemeni Rial",
+    "Note": "Yemen (prices normally quoted as integers)"
+  },
+  {
+    "Code": "YUM",
+    "Heading": "Yugoslavian Dinar",
+    "Note": "DEPRECATED, replaced by CSD"
+  },
+  {
+    "Code": "ZAR",
+    "Heading": "Rand",
+    "Note": "South Africa, Namibia, Lesotho"
+  },
+  {
+    "Code": "ZMK",
+    "Heading": "Kwacha",
+    "Note": "Zambia. Deprecated, replaced with ZMW (prices normally quoted as integers)"
+  },
+  {
+    "Code": "ZMW",
+    "Heading": "Zambian Kwacha",
+    "Note": "Zambia"
+  },
+  {
+    "Code": "ZWD",
+    "Heading": "Zimbabwe Dollar",
+    "Note": "Deprecated, replaced with ZWL (prices normally quoted as integers)"
+  },
+  {
+    "Code": "ZWL",
+    "Heading": "Zimbabwe Dollar",
+    "Note": "Zimbabwe"
+  }
+]

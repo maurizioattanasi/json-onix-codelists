@@ -1,0 +1,52 @@
+[
+  {
+    "Code": "00",
+    "Heading": "No conditions",
+    "Note": "Allows positive indication that there are no conditions (the default if &lt;PriceCondition&gt; is omitted)"
+  },
+  {
+    "Code": "01",
+    "Heading": "Includes updates",
+    "Note": "Purchase at this price includes specified updates"
+  },
+  {
+    "Code": "02",
+    "Heading": "Must also purchase updates",
+    "Note": "Purchase at this price requires commitment to purchase specified updates, not included in price"
+  },
+  {
+    "Code": "03",
+    "Heading": "Updates available",
+    "Note": "Updates may be purchased separately, no minimum commitment required"
+  },
+  {
+    "Code": "04",
+    "Heading": "Linked subsequent purchase price",
+    "Note": "Purchase at this price requires commitment to purchase specified other product, not included in price"
+  },
+  {
+    "Code": "05",
+    "Heading": "Linked prior purchase price",
+    "Note": "Purchase at this price requires prior purchase of other product"
+  },
+  {
+    "Code": "06",
+    "Heading": "Linked price",
+    "Note": "Purchase at this price requires simultaneous purchase of other product"
+  },
+  {
+    "Code": "10",
+    "Heading": "Rental duration",
+    "Note": "The duration of the rental to which the price applies. Deprecated, use &lt;PriceConstraint&gt; instead"
+  },
+  {
+    "Code": "11",
+    "Heading": "Rental to purchase",
+    "Note": "Purchase at this price requires prior rental of the product. &lt;PriceConditionQuantity&gt; gives minimum prior rental period, and &lt;ProductIdentifier&gt; may be used if rental uses a different product identifier"
+  },
+  {
+    "Code": "12",
+    "Heading": "Rental extension",
+    "Note": "Upgrade to longer rental duration. &lt;PriceConditionQuantity&gt; gives minimum prior rental duration, and &lt;ProductIdentifier&gt; may be used if rental uses a different product identifier. Separate price constraint with time limited licence duration (code 07) specifies the new combined rental duration"
+  }
+]

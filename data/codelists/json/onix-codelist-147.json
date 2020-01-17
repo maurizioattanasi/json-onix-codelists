@@ -1,0 +1,152 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Copies",
+    "Note": "Maximum number of copies that may be made of a permitted extract"
+  },
+  {
+    "Code": "02",
+    "Heading": "Characters",
+    "Note": "Maximum number of characters in a permitted extract for a specified usage"
+  },
+  {
+    "Code": "03",
+    "Heading": "Words",
+    "Note": "Maximum number of words in a permitted extract for a specified usage"
+  },
+  {
+    "Code": "04",
+    "Heading": "Pages",
+    "Note": "Maximum number of pages in a permitted extract for a specified usage"
+  },
+  {
+    "Code": "05",
+    "Heading": "Percentage",
+    "Note": "Maximum percentage of total content in a permitted extract for a specified usage"
+  },
+  {
+    "Code": "06",
+    "Heading": "Devices",
+    "Note": "Maximum number of devices in &#8216;share group&#8217;"
+  },
+  {
+    "Code": "07",
+    "Heading": "Concurrent users",
+    "Note": "Maximum number of concurrent users. NB where the number of concurrent users is specifically not limited, set the number of concurrent users to zero"
+  },
+  {
+    "Code": "15",
+    "Heading": "Users",
+    "Note": "Maximum number of licenced individual users, independent of concurrency of use"
+  },
+  {
+    "Code": "19",
+    "Heading": "Concurrent classes",
+    "Note": "A &#8216;class&#8217; is a group of learners attending a specific course or lesson and generally taught as a group"
+  },
+  {
+    "Code": "20",
+    "Heading": "Classes",
+    "Note": "Maximum number of classes of learners, independent of concurrency of use"
+  },
+  {
+    "Code": "08",
+    "Heading": "Percentage per time period",
+    "Note": "Maximum percentage of total content which may be used in a specified usage per time period; the time period being specified as another &lt;EpubUsageLimit&gt; Quantity"
+  },
+  {
+    "Code": "09",
+    "Heading": "Days",
+    "Note": "Maximum time period in days (beginning from product purchase or activation)"
+  },
+  {
+    "Code": "13",
+    "Heading": "Weeks",
+    "Note": "Maximum time period in weeks"
+  },
+  {
+    "Code": "14",
+    "Heading": "Months",
+    "Note": "Maximum time period in months"
+  },
+  {
+    "Code": "16",
+    "Heading": "Hours minutes and seconds",
+    "Note": "Maximum about of time in hours, minutes and seconds allowed in a permitted extract for a specified usage, in the format HHHMMSS (7 digits, with leading zeros if necessary)"
+  },
+  {
+    "Code": "27",
+    "Heading": "Days (fixed start)",
+    "Note": "Maximum time period in days (beginning from the product publication date). In effect, this defines a fixed end date for the license independent of the purchase or activation date"
+  },
+  {
+    "Code": "28",
+    "Heading": "Weeks (fixed start)",
+    "Note": "Maximum time period in weeks"
+  },
+  {
+    "Code": "29",
+    "Heading": "Months (fixed start)",
+    "Note": "Maximum time period in months"
+  },
+  {
+    "Code": "10",
+    "Heading": "Times",
+    "Note": "Maximum number of times a specified usage event may occur (in the lifetime of the product)"
+  },
+  {
+    "Code": "22",
+    "Heading": "Times per day",
+    "Note": "Maximum frequency a specified usage event may occur (per day)"
+  },
+  {
+    "Code": "23",
+    "Heading": "Times per month",
+    "Note": "Maximum frequency a specified usage event may occur (per month)"
+  },
+  {
+    "Code": "24",
+    "Heading": "Times per year",
+    "Note": "Maximum frequency a specified usage event may occur (per year)"
+  },
+  {
+    "Code": "21",
+    "Heading": "Dots per inch",
+    "Note": "Maximum resolution of printed or copy/pasted extracts"
+  },
+  {
+    "Code": "26",
+    "Heading": "Dots per cm",
+    "Note": "Maximum resolution of printed or copy/pasted extracts"
+  },
+  {
+    "Code": "11",
+    "Heading": "Allowed usage start page",
+    "Note": "Page number where allowed usage begins. &lt;Quantity&gt; should contain an absolute page number, counting the cover as page 1. (This type of page numbering should not be used where the e-publication has no fixed pagination). Use with (max number of) Pages, Percentage of content, or End page to specify pages allowed in Preview"
+  },
+  {
+    "Code": "12",
+    "Heading": "Allowed usage end page",
+    "Note": "Page number at which allowed usage ends. &lt;Quantity&gt; should contain an absolute page number, counting the cover as page 1. (This type of page numbering should not be used where the e-publication has no fixed pagination). Use with Start page to specify pages allowed in a preview"
+  },
+  {
+    "Code": "17",
+    "Heading": "Allowed usage start time",
+    "Note": "Time at which allowed usage begins. &lt;Quantity&gt; should contain an absolute time, counting from the beginning of an audio or video product, in the format HHHMMSS or HHHMMSScc. Use with Time, Percentage of content, or End time to specify time-based extract allowed in Preview"
+  },
+  {
+    "Code": "18",
+    "Heading": "Allowed usage end time",
+    "Note": "Time at which allowed usage ends. &lt;Quantity&gt; should contain an absolute time, counting from the beginning of an audio or video product, in the format HHHMMSS or HHHMMSScc. Use with Start time to specify time-based extract allowed in Preview"
+  },
+  {
+    "Code": "98",
+    "Heading": "Valid from",
+    "Note": "The date from which the usage constraint applies. &lt;Quantity&gt; is in the format YYYYMMDD"
+  },
+  {
+    "Code": "99",
+    "Heading": "Valid to",
+    "Note": "The date until which the usage constraint applies. &lt;Quantity&gt; is in the format YYYYMMDD"
+  }
+]

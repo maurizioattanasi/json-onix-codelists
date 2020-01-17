@@ -1,0 +1,32 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Application",
+    "Note": "An executable together with data on which it operates"
+  },
+  {
+    "Code": "02",
+    "Heading": "Audio",
+    "Note": "A sound recording"
+  },
+  {
+    "Code": "03",
+    "Heading": "Image",
+    "Note": "A still image"
+  },
+  {
+    "Code": "04",
+    "Heading": "Text",
+    "Note": "Readable text, with or without associated images etc"
+  },
+  {
+    "Code": "05",
+    "Heading": "Video",
+    "Note": "Moving images, with or without accompanying sound"
+  },
+  {
+    "Code": "06",
+    "Heading": "Multi-mode",
+    "Note": "A website or other supporting resource delivering content in a variety of modes"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Preview",
+    "Note": "Preview before purchase. Allows a retail customer, account holder or patron to view a proportion of the book before purchase. Also applies to borrowers making use of &#8216;acquisition on demand&#8217; models in libraries, and to &#8216;subscription&#8217; models where the purchase is made on behalf of the reader"
+  },
+  {
+    "Code": "02",
+    "Heading": "Print",
+    "Note": "Print paper copy of extract"
+  },
+  {
+    "Code": "03",
+    "Heading": "Copy / paste",
+    "Note": "Make digital copy of extract"
+  },
+  {
+    "Code": "04",
+    "Heading": "Share",
+    "Note": "Share product across multiple concurrent devices. Allows a retail customer, account holder or patron to read the book across multiple devices linked to the same account. Also applies to readers in library borrowing and &#8216;subscription&#8217; models"
+  },
+  {
+    "Code": "05",
+    "Heading": "Text to speech",
+    "Note": "&#8216;Read aloud&#8217; with text to speech functionality"
+  },
+  {
+    "Code": "06",
+    "Heading": "Lend",
+    "Note": "Lendable by the purchaser to other device owner or account holder or patron, eg &#8216;Lend-to-a-friend&#8217;, library lending (where the library product has a separate &lt;ProductIdentifier&gt; from the consumer product). The &#8216;primary&#8217; copy becomes unusable while the secondary copy is &#8216;on loan&#8217; unless a number of concurrent borrowers is also specified"
+  },
+  {
+    "Code": "07",
+    "Heading": "Time-limited license",
+    "Note": "E-publication license is time limited. Use with 02 from List 146 and either a time period in days, weeks or months, or a Valid until date in &lt;EpubUsageLimit&gt;. The purchased copy becomes unusable when the license expires"
+  },
+  {
+    "Code": "08",
+    "Heading": "Loan renewal",
+    "Note": "Maximum number of consecutive loans or loan extensions (eg from a library) to a single device owner or account holder. Note that a limit of 1 indicates that a loan cannot be renewed or extended"
+  },
+  {
+    "Code": "09",
+    "Heading": "Multi-user license",
+    "Note": "E-publication license is multi-user. Maximum number of concurrent users licensed to use the product should be given in &lt;EpubUsageLimit&gt;"
+  },
+  {
+    "Code": "10",
+    "Heading": "Preview on premises",
+    "Note": "Preview locally before purchase. Allows a retail customer, account holder or patron to view a proportion of the book (or the whole book, if no proportion is specified) before purchase, but ONLY while located physically in the retailer&#8217;s store (eg while logged on to the store or library wifi). Also applies to patrons making use of &#8216;acquisition on demand&#8217; models in libraries"
+  }
+]

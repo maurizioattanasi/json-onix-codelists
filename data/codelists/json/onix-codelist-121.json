@@ -1,0 +1,947 @@
+[
+  {
+    "Code": "Adlm",
+    "Heading": "Adlam",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "Afak",
+    "Heading": "Afaka",
+    "Note": "Script is not supported by Unicode"
+  },
+  {
+    "Code": "Aghb",
+    "Heading": "Caucasian Albanian",
+    "Note": "Ancient/historic script. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "Ahom",
+    "Heading": "Ahom, Tai Ahom",
+    "Note": "Ancient/historic script. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "Arab",
+    "Heading": "Arabic",
+    "Note": ""
+  },
+  {
+    "Code": "Aran",
+    "Heading": "Arabic (Nastaliq variant)",
+    "Note": "Typographic variant of Arabic. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "Armi",
+    "Heading": "Imperial Aramaic",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Armn",
+    "Heading": "Armenian",
+    "Note": ""
+  },
+  {
+    "Code": "Avst",
+    "Heading": "Avestan",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Bali",
+    "Heading": "Balinese",
+    "Note": ""
+  },
+  {
+    "Code": "Bamu",
+    "Heading": "Bamun",
+    "Note": ""
+  },
+  {
+    "Code": "Bass",
+    "Heading": "Bassa Vah",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Batk",
+    "Heading": "Batak",
+    "Note": ""
+  },
+  {
+    "Code": "Beng",
+    "Heading": "Bengali (Bangla)",
+    "Note": ""
+  },
+  {
+    "Code": "Bhks",
+    "Heading": "Bhaiksuki",
+    "Note": "Ancient/historic script. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "Blis",
+    "Heading": "Blissymbols",
+    "Note": "Script is not supported by Unicode"
+  },
+  {
+    "Code": "Bopo",
+    "Heading": "Bopomofo",
+    "Note": ""
+  },
+  {
+    "Code": "Brah",
+    "Heading": "Brahmi",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Brai",
+    "Heading": "Braille",
+    "Note": ""
+  },
+  {
+    "Code": "Bugi",
+    "Heading": "Buginese",
+    "Note": ""
+  },
+  {
+    "Code": "Buhd",
+    "Heading": "Buhid",
+    "Note": ""
+  },
+  {
+    "Code": "Cakm",
+    "Heading": "Chakma",
+    "Note": ""
+  },
+  {
+    "Code": "Cans",
+    "Heading": "Unified Canadian Aboriginal Syllabics",
+    "Note": ""
+  },
+  {
+    "Code": "Cari",
+    "Heading": "Carian",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Cham",
+    "Heading": "Cham",
+    "Note": ""
+  },
+  {
+    "Code": "Cher",
+    "Heading": "Cherokee",
+    "Note": ""
+  },
+  {
+    "Code": "Cirt",
+    "Heading": "Cirth",
+    "Note": "Script is not supported by Unicode"
+  },
+  {
+    "Code": "Copt",
+    "Heading": "Coptic",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Cprt",
+    "Heading": "Cypriot",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Cyrl",
+    "Heading": "Cyrillic",
+    "Note": ""
+  },
+  {
+    "Code": "Cyrs",
+    "Heading": "Cyrillic (Old Church Slavonic variant)",
+    "Note": "Ancient/historic, typographic variant of Cyrillic"
+  },
+  {
+    "Code": "Deva",
+    "Heading": "Devanagari (Nagari)",
+    "Note": ""
+  },
+  {
+    "Code": "Dogr",
+    "Heading": "Dogra",
+    "Note": "Script is not supported by Unicode. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "Dsrt",
+    "Heading": "Deseret (Mormon)",
+    "Note": ""
+  },
+  {
+    "Code": "Dupl",
+    "Heading": "Duployan shorthand, Duployan stenography",
+    "Note": ""
+  },
+  {
+    "Code": "Egyd",
+    "Heading": "Egyptian demotic",
+    "Note": "Script is not supported by Unicode"
+  },
+  {
+    "Code": "Egyh",
+    "Heading": "Egyptian hieratic",
+    "Note": "Script is not supported by Unicode"
+  },
+  {
+    "Code": "Egyp",
+    "Heading": "Egyptian hieroglyphs",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Elba",
+    "Heading": "Elbasan",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Ethi",
+    "Heading": "Ethiopic (Ge&#8216;ez)",
+    "Note": ""
+  },
+  {
+    "Code": "Geok",
+    "Heading": "Khutsuri (Asomtavruli and Khutsuri)",
+    "Note": "Georgian in Unicode"
+  },
+  {
+    "Code": "Geor",
+    "Heading": "Georgian (Mkhedruli and Mtavruli)",
+    "Note": ""
+  },
+  {
+    "Code": "Glag",
+    "Heading": "Glagolitic",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Gong",
+    "Heading": "Gunjala Gondi",
+    "Note": "Script is not supported by Unicode. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "Gonm",
+    "Heading": "Masaram Gondi",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "Goth",
+    "Heading": "Gothic",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Gran",
+    "Heading": "Grantha",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Grek",
+    "Heading": "Greek",
+    "Note": ""
+  },
+  {
+    "Code": "Gujr",
+    "Heading": "Gujarati",
+    "Note": ""
+  },
+  {
+    "Code": "Guru",
+    "Heading": "Gurmukhi",
+    "Note": ""
+  },
+  {
+    "Code": "Hanb",
+    "Heading": "Han with Bopomofo",
+    "Note": "See Hani, Bopo. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "Hang",
+    "Heading": "Hangul (Hang&#365;l, Hangeul)",
+    "Note": ""
+  },
+  {
+    "Code": "Hani",
+    "Heading": "Han (Hanzi, Kanji, Hanja)",
+    "Note": ""
+  },
+  {
+    "Code": "Hano",
+    "Heading": "Hanunoo (Hanun&oacute;o)",
+    "Note": ""
+  },
+  {
+    "Code": "Hans",
+    "Heading": "Han (Simplified variant)",
+    "Note": "Subset of Hani"
+  },
+  {
+    "Code": "Hant",
+    "Heading": "Han (Traditional variant)",
+    "Note": "Subset of Hani"
+  },
+  {
+    "Code": "Hatr",
+    "Heading": "Hatran",
+    "Note": "Ancient/historic script. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "Hebr",
+    "Heading": "Hebrew",
+    "Note": ""
+  },
+  {
+    "Code": "Hira",
+    "Heading": "Hiragana",
+    "Note": ""
+  },
+  {
+    "Code": "Hluw",
+    "Heading": "Anatolian Hieroglyphs (Luwian Hieroglyphs, Hittite Hieroglyphs)",
+    "Note": "Ancient/historic script. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "Hmng",
+    "Heading": "Pahawh Hmong",
+    "Note": ""
+  },
+  {
+    "Code": "Hrkt",
+    "Heading": "Japanese syllabaries (alias for Hiragana + Katakana)",
+    "Note": "See Hira, Kana"
+  },
+  {
+    "Code": "Hung",
+    "Heading": "Old Hungarian (Hungarian Runic)",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Inds",
+    "Heading": "Indus (Harappan)",
+    "Note": "Script is not supported by Unicode"
+  },
+  {
+    "Code": "Ital",
+    "Heading": "Old Italic (Etruscan, Oscan, etc.)",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Jamo",
+    "Heading": "Jamo (alias for Jamo subset of Hangul)",
+    "Note": "Subset of Hang. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "Java",
+    "Heading": "Javanese",
+    "Note": ""
+  },
+  {
+    "Code": "Jpan",
+    "Heading": "Japanese (alias for Han + Hiragana + Katakana)",
+    "Note": "See Hani, Hira and Kana"
+  },
+  {
+    "Code": "Jurc",
+    "Heading": "Jurchen",
+    "Note": "Script is not supported by Unicode"
+  },
+  {
+    "Code": "Kali",
+    "Heading": "Kayah Li",
+    "Note": ""
+  },
+  {
+    "Code": "Kana",
+    "Heading": "Katakana",
+    "Note": ""
+  },
+  {
+    "Code": "Khar",
+    "Heading": "Kharoshthi",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Khmr",
+    "Heading": "Khmer",
+    "Note": ""
+  },
+  {
+    "Code": "Khoj",
+    "Heading": "Khojki",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Kitl",
+    "Heading": "Khitan large script",
+    "Note": "Script is not supported by Unicode. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "Kits",
+    "Heading": "Khitan small script",
+    "Note": "Script is not supported by Unicode. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "Knda",
+    "Heading": "Kannada",
+    "Note": ""
+  },
+  {
+    "Code": "Kore",
+    "Heading": "Korean (alias for Hangul + Han)",
+    "Note": "See Hani and Hang"
+  },
+  {
+    "Code": "Kpel",
+    "Heading": "Kpelle",
+    "Note": "Script is not supported by Unicode"
+  },
+  {
+    "Code": "Kthi",
+    "Heading": "Kaithi",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Lana",
+    "Heading": "Tai Tham (Lanna)",
+    "Note": ""
+  },
+  {
+    "Code": "Laoo",
+    "Heading": "Lao",
+    "Note": ""
+  },
+  {
+    "Code": "Latf",
+    "Heading": "Latin (Fraktur variant)",
+    "Note": "Typographic variant of Latin"
+  },
+  {
+    "Code": "Latg",
+    "Heading": "Latin (Gaelic variant)",
+    "Note": "Typographic variant of Latin"
+  },
+  {
+    "Code": "Latn",
+    "Heading": "Latin",
+    "Note": ""
+  },
+  {
+    "Code": "Leke",
+    "Heading": "Leke",
+    "Note": "Script is not supported by Unicode. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "Lepc",
+    "Heading": "Lepcha (R&oacute;ng)",
+    "Note": ""
+  },
+  {
+    "Code": "Limb",
+    "Heading": "Limbu",
+    "Note": ""
+  },
+  {
+    "Code": "Lina",
+    "Heading": "Linear A",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Linb",
+    "Heading": "Linear B",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Lisu",
+    "Heading": "Lisu (Fraser)",
+    "Note": ""
+  },
+  {
+    "Code": "Loma",
+    "Heading": "Loma",
+    "Note": "Script is not supported by Unicode"
+  },
+  {
+    "Code": "Lyci",
+    "Heading": "Lycian",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Lydi",
+    "Heading": "Lydian",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Mahj",
+    "Heading": "Mahajani",
+    "Note": "Ancient/historic script. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "Maka",
+    "Heading": "Makasar",
+    "Note": "Script is not supported by Unicode. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "Mand",
+    "Heading": "Mandaic, Mandaean",
+    "Note": ""
+  },
+  {
+    "Code": "Mani",
+    "Heading": "Manichaean",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Marc",
+    "Heading": "Marchen",
+    "Note": "Ancient/historic script. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "Maya",
+    "Heading": "Mayan hieroglyphs",
+    "Note": "Script is not supported by Unicode"
+  },
+  {
+    "Code": "Medf",
+    "Heading": "Medefaidrin (Oberi Okaime, Oberi &#390;kaim&#603;)",
+    "Note": "Script is not supported by Unicode. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "Mend",
+    "Heading": "Mende Kikakui",
+    "Note": ""
+  },
+  {
+    "Code": "Merc",
+    "Heading": "Meroitic Cursive",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Mero",
+    "Heading": "Meroitic Hieroglyphs",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Mlym",
+    "Heading": "Malayalam",
+    "Note": ""
+  },
+  {
+    "Code": "Modi",
+    "Heading": "Modi, Mo&#7693;&#299;",
+    "Note": "Ancient/historic script. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "Mong",
+    "Heading": "Mongolian",
+    "Note": "Includes Clear, Manchu scripts"
+  },
+  {
+    "Code": "Moon",
+    "Heading": "Moon (Moon code, Moon script, Moon type)",
+    "Note": "Script is not supported by Unicode"
+  },
+  {
+    "Code": "Mroo",
+    "Heading": "Mro, Mru",
+    "Note": ""
+  },
+  {
+    "Code": "Mtei",
+    "Heading": "Meitei Mayek (Meithei, Meetei)",
+    "Note": ""
+  },
+  {
+    "Code": "Mult",
+    "Heading": "Multani",
+    "Note": "Ancient/historic script. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "Mymr",
+    "Heading": "Myanmar (Burmese)",
+    "Note": ""
+  },
+  {
+    "Code": "Narb",
+    "Heading": "Old North Arabian (Ancient North Arabian)",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Nbat",
+    "Heading": "Nabatean",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Newa",
+    "Heading": "Newa, Newar, Newari, Nep&#257;la lipi",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "Nkgb",
+    "Heading": "Nakhi Geba (&#8217;Na-&#8217;Khi &sup2;Gg&#335;-&sup1;baw, Naxi Geba)",
+    "Note": "Script is not supported by Unicode"
+  },
+  {
+    "Code": "Nkoo",
+    "Heading": "N&#8217;Ko",
+    "Note": ""
+  },
+  {
+    "Code": "Nshu",
+    "Heading": "N&uuml;shu",
+    "Note": ""
+  },
+  {
+    "Code": "Ogam",
+    "Heading": "Ogham",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Olck",
+    "Heading": "Ol Chiki (Ol Cemet&#8217;, Ol, Santali)",
+    "Note": ""
+  },
+  {
+    "Code": "Orkh",
+    "Heading": "Old Turkic, Orkhon Runic",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Orya",
+    "Heading": "Oriya (Odia)",
+    "Note": ""
+  },
+  {
+    "Code": "Osge",
+    "Heading": "Osage",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "Osma",
+    "Heading": "Osmanya",
+    "Note": ""
+  },
+  {
+    "Code": "Palm",
+    "Heading": "Palmyrene",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Pauc",
+    "Heading": "Pau Cin Hau",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "Perm",
+    "Heading": "Old Permic",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Phag",
+    "Heading": "Phags-pa",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Phli",
+    "Heading": "Inscriptional Pahlavi",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Phlp",
+    "Heading": "Psalter Pahlavi",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Phlv",
+    "Heading": "Book Pahlavi",
+    "Note": "Script is not supported by Unicode"
+  },
+  {
+    "Code": "Phnx",
+    "Heading": "Phoenician",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Plrd",
+    "Heading": "Miao (Pollard)",
+    "Note": ""
+  },
+  {
+    "Code": "Piqd",
+    "Heading": "Klingon (KLI plqaD)",
+    "Note": "Script is not supported by Unicode. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "Prti",
+    "Heading": "Inscriptional Parthian",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Qaaa",
+    "Heading": "Reserved for private use (start)",
+    "Note": ""
+  },
+  {
+    "Code": "Qabx",
+    "Heading": "Reserved for private use (end)",
+    "Note": ""
+  },
+  {
+    "Code": "Rjng",
+    "Heading": "Rejang (Redjang, Kaganga)",
+    "Note": ""
+  },
+  {
+    "Code": "Roro",
+    "Heading": "Rongorongo",
+    "Note": "Script is not supported by Unicode"
+  },
+  {
+    "Code": "Runr",
+    "Heading": "Runic",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Samr",
+    "Heading": "Samaritan",
+    "Note": ""
+  },
+  {
+    "Code": "Sara",
+    "Heading": "Sarati",
+    "Note": "Script is not supported by Unicode"
+  },
+  {
+    "Code": "Sarb",
+    "Heading": "Old South Arabian",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Saur",
+    "Heading": "Saurashtra",
+    "Note": ""
+  },
+  {
+    "Code": "Sgnw",
+    "Heading": "SignWriting",
+    "Note": ""
+  },
+  {
+    "Code": "Shaw",
+    "Heading": "Shavian (Shaw)",
+    "Note": ""
+  },
+  {
+    "Code": "Shrd",
+    "Heading": "Sharada, &#346;&#257;rad&#257;",
+    "Note": ""
+  },
+  {
+    "Code": "Sidd",
+    "Heading": "Siddham, Siddha&#7747;, Siddham&#257;t&#7771;k&#257;",
+    "Note": "Ancient/historic script. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "Sind",
+    "Heading": "Khudawadi, Sindhi",
+    "Note": ""
+  },
+  {
+    "Code": "Sinh",
+    "Heading": "Sinhala",
+    "Note": ""
+  },
+  {
+    "Code": "Sora",
+    "Heading": "Sora Sompeng",
+    "Note": ""
+  },
+  {
+    "Code": "Soyo",
+    "Heading": "Soyombo",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "Sund",
+    "Heading": "Sundanese",
+    "Note": ""
+  },
+  {
+    "Code": "Sylo",
+    "Heading": "Syloti Nagri",
+    "Note": ""
+  },
+  {
+    "Code": "Syrc",
+    "Heading": "Syriac",
+    "Note": ""
+  },
+  {
+    "Code": "Syre",
+    "Heading": "Syriac (Estrangelo variant)",
+    "Note": "Typographic variant of Syriac"
+  },
+  {
+    "Code": "Syrj",
+    "Heading": "Syriac (Western variant)",
+    "Note": "Typographic variant of Syriac"
+  },
+  {
+    "Code": "Syrn",
+    "Heading": "Syriac (Eastern variant)",
+    "Note": "Typographic variant of Syriac"
+  },
+  {
+    "Code": "Tagb",
+    "Heading": "Tagbanwa",
+    "Note": ""
+  },
+  {
+    "Code": "Takr",
+    "Heading": "Takri, &#7788;&#257;kr&#299;, &#7788;&#257;&#7749;kr&#299;",
+    "Note": ""
+  },
+  {
+    "Code": "Tale",
+    "Heading": "Tai Le",
+    "Note": ""
+  },
+  {
+    "Code": "Talu",
+    "Heading": "New Tai Lue",
+    "Note": ""
+  },
+  {
+    "Code": "Taml",
+    "Heading": "Tamil",
+    "Note": ""
+  },
+  {
+    "Code": "Tang",
+    "Heading": "Tangut",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Tavt",
+    "Heading": "Tai Viet",
+    "Note": ""
+  },
+  {
+    "Code": "Telu",
+    "Heading": "Telugu",
+    "Note": ""
+  },
+  {
+    "Code": "Teng",
+    "Heading": "Tengwar",
+    "Note": "Script is not supported by Unicode"
+  },
+  {
+    "Code": "Tfng",
+    "Heading": "Tifinagh (Berber)",
+    "Note": ""
+  },
+  {
+    "Code": "Tglg",
+    "Heading": "Tagalog (Baybayin, Alibata)",
+    "Note": ""
+  },
+  {
+    "Code": "Thaa",
+    "Heading": "Thaana",
+    "Note": ""
+  },
+  {
+    "Code": "Thai",
+    "Heading": "Thai",
+    "Note": ""
+  },
+  {
+    "Code": "Tibt",
+    "Heading": "Tibetan",
+    "Note": ""
+  },
+  {
+    "Code": "Tirh",
+    "Heading": "Tirhuta",
+    "Note": ""
+  },
+  {
+    "Code": "Ugar",
+    "Heading": "Ugaritic",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Vaii",
+    "Heading": "Vai",
+    "Note": ""
+  },
+  {
+    "Code": "Visp",
+    "Heading": "Visible Speech",
+    "Note": "Script is not supported by Unicode"
+  },
+  {
+    "Code": "Wara",
+    "Heading": "Warang Citi (Varang Kshiti)",
+    "Note": ""
+  },
+  {
+    "Code": "Wole",
+    "Heading": "Woleai",
+    "Note": "Script is not supported by Unicode"
+  },
+  {
+    "Code": "Xpeo",
+    "Heading": "Old Persian",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Xsux",
+    "Heading": "Cuneiform, Sumero-Akkadian",
+    "Note": "Ancient/historic script"
+  },
+  {
+    "Code": "Yiii",
+    "Heading": "Yi",
+    "Note": ""
+  },
+  {
+    "Code": "Zanb",
+    "Heading": "Zanabazar Square (Zanabazarin D&ouml;rb&ouml;ljin Useg, Xewtee D&ouml;rb&ouml;ljin Bicig, Horizontal Square Script)",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "Zinh",
+    "Heading": "Code for inherited script",
+    "Note": ""
+  },
+  {
+    "Code": "Zmth",
+    "Heading": "Mathematical notation",
+    "Note": "Not a script in Unicode"
+  },
+  {
+    "Code": "Zsye",
+    "Heading": "Symbols (Emoji variant)",
+    "Note": "Not a script in Unicode. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "Zsym",
+    "Heading": "Symbols",
+    "Note": "Not a script in Unicode"
+  },
+  {
+    "Code": "Zxxx",
+    "Heading": "Code for unwritten documents",
+    "Note": "Not a script in Unicode"
+  },
+  {
+    "Code": "Zyyy",
+    "Heading": "Code for undetermined script",
+    "Note": ""
+  },
+  {
+    "Code": "Zzzz",
+    "Heading": "Code for uncoded script",
+    "Note": ""
+  }
+]

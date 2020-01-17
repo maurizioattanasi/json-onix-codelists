@@ -1,0 +1,37 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Supplier&#8217;s sales classification",
+    "Note": "A rating applied by a supplier (typically a wholesaler) to indicate its assessment of the expected or actual sales performance of a product"
+  },
+  {
+    "Code": "02",
+    "Heading": "Supplier&#8217;s bonus eligibility",
+    "Note": "A supplier&#8217;s coding of the eligibility of a product for a bonus scheme on overall sales"
+  },
+  {
+    "Code": "03",
+    "Heading": "Publisher&#8217;s sales classification",
+    "Note": "A rating applied by the publisher to indicate a sales category (eg backlist/frontlist, core stock etc). Use only when the publisher is not the &#8216;supplier&#8217;"
+  },
+  {
+    "Code": "04",
+    "Heading": "Supplier&#8217;s pricing restriction classification",
+    "Note": "A classification applied by a supplier to a product sold on Agency terms, to indicate that retail price restrictions are applicable"
+  },
+  {
+    "Code": "05",
+    "Heading": "Supplier&#8217;s sales expectation",
+    "Note": "Code is the ISBN of another book that had sales (both in terms of copy numbers and customer profile) comparable to that the distributor or supplier estimates for the product. &lt;SupplierCodeValue&gt; must be an ISBN-13 or GTIN-13"
+  },
+  {
+    "Code": "06",
+    "Heading": "Publisher&#8217;s sales expectation",
+    "Note": "Code is the ISBN of another book that had sales (both in terms of copy numbers and customer profile) comparable to that the publisher estimates for the product. &lt;SupplierCodeValue&gt; must be an ISBN-13 or GTIN-13"
+  },
+  {
+    "Code": "07",
+    "Heading": "Supplier’s order routing eligibility",
+    "Note": "Code indicates whether an order can be placed with the supplier indirectly via an intermediary system. The code name type indicates the specific intermediate order aggregation/routing platform and the code indicates the eligibility"
+  }
+]

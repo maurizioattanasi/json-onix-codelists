@@ -1,0 +1,47 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Early notification",
+    "Note": "Use for a complete record issued earlier than approximately six months before publication"
+  },
+  {
+    "Code": "02",
+    "Heading": "Advance notification (confirmed)",
+    "Note": "Use for a complete record issued to confirm advance information approximately six months before publication; or for a complete record issued after that date and before information has been confirmed from the book-in-hand"
+  },
+  {
+    "Code": "03",
+    "Heading": "Notification confirmed on publication",
+    "Note": "Use for a complete record issued to confirm advance information at or just before actual publication date, usually from the book-in-hand, or for a complete record issued at any later date"
+  },
+  {
+    "Code": "04",
+    "Heading": "Update (partial)",
+    "Note": "In ONIX 3.0 only, use when sending a &#8216;block update&#8217; record. A block update implies using the supplied block(s) to update the existing record for the product, replacing only the blocks included in the block update, and leaving other blocks unchanged &#8211; for example, replacing old information from Blocks 4 and 6 with the newly-received data while retailing information from Blocks 1&#8211;3 and 5 untouched. In previous ONIX releases, and for ONIX 3.0 using other notification types, updating is by replacing the complete record with the newly-received data"
+  },
+  {
+    "Code": "05",
+    "Heading": "Delete",
+    "Note": "Use when sending an instruction to delete a record which was previously issued. Note that a Delete instruction should NOT be used when a product is cancelled, put out of print, or otherwise withdrawn from sale: this should be handled as a change of Publishing status, leaving the receiver to decide whether to retain or delete the record. A Delete instruction is used ONLY when there is a particular reason to withdraw a record completely, eg because it was issued in error"
+  },
+  {
+    "Code": "08",
+    "Heading": "Notice of sale",
+    "Note": "Notice of sale of a product, from one publisher to another: sent by the publisher disposing of the product"
+  },
+  {
+    "Code": "09",
+    "Heading": "Notice of acquisition",
+    "Note": "Notice of acquisition of a product, by one publisher from another: sent by the acquiring publisher"
+  },
+  {
+    "Code": "88",
+    "Heading": "Test update (Partial)",
+    "Note": "ONIX 3.0 only. Record may be processed for test purposes, but data should be discarded when testing is complete. Sender must ensure the &lt;RecordReference&gt; matches a previously-sent Test record"
+  },
+  {
+    "Code": "89",
+    "Heading": "Test record",
+    "Note": "Record may be processed for test purposes, but data should be discarded when testing is complete. Sender must ensure the &lt;RecordReference&gt; does not match any previously-sent live product record"
+  }
+]

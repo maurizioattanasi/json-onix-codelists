@@ -1,0 +1,97 @@
+[
+  {
+    "Code": "11",
+    "Heading": "US school grade range",
+    "Note": "Values for &lt;AudienceRangeValue&gt; are specified in List 77"
+  },
+  {
+    "Code": "12",
+    "Heading": "UK school grade",
+    "Note": "Values are defined by BIC for England and Wales, Scotland and N Ireland"
+  },
+  {
+    "Code": "15",
+    "Heading": "Reading speed, words per minute",
+    "Note": "Values in &lt;AudienceRangeValue&gt; must be integers"
+  },
+  {
+    "Code": "16",
+    "Heading": "Interest age, months",
+    "Note": "For use up to 36 months only: values in &lt;AudienceRangeValue&gt; must be integers"
+  },
+  {
+    "Code": "17",
+    "Heading": "Interest age, years",
+    "Note": "Values in &lt;AudienceRangeValue&gt; must be integers"
+  },
+  {
+    "Code": "18",
+    "Heading": "Reading age, years",
+    "Note": "Values in &lt;AudienceRangeValue&gt; must be integers"
+  },
+  {
+    "Code": "19",
+    "Heading": "Spanish school grade",
+    "Note": "Spain: combined grade and region code, maintained by the Ministerio de Educaci&oacute;n"
+  },
+  {
+    "Code": "20",
+    "Heading": "Skoletrinn",
+    "Note": "Norwegian educational level for primary and secondary education"
+  },
+  {
+    "Code": "21",
+    "Heading": "Niv&aring;",
+    "Note": "Swedish educational qualifier (code)"
+  },
+  {
+    "Code": "22",
+    "Heading": "Italian school grade",
+    "Note": ""
+  },
+  {
+    "Code": "23",
+    "Heading": "Schulform",
+    "Note": "DEPRECATED &#8211; assigned in error: see List 29"
+  },
+  {
+    "Code": "24",
+    "Heading": "Bundesland",
+    "Note": "DEPRECATED &#8211; assigned in error: see List 29"
+  },
+  {
+    "Code": "25",
+    "Heading": "Ausbildungsberuf",
+    "Note": "DEPRECATED &#8211; assigned in error: see List 29"
+  },
+  {
+    "Code": "26",
+    "Heading": "Canadian school grade range",
+    "Note": "Values for &lt;AudienceRangeValue&gt; are specified in List 77"
+  },
+  {
+    "Code": "27",
+    "Heading": "Finnish school grade range",
+    "Note": ""
+  },
+  {
+    "Code": "28",
+    "Heading": "Finnish Upper secondary school course",
+    "Note": "Lukion kurssi"
+  },
+  {
+    "Code": "29",
+    "Heading": "Chinese School Grade range",
+    "Note": "Values are P, K, 1&#8211;17 (including college-level audiences), see List 227"
+  },
+  {
+    "Code": "30",
+    "Heading": "Nomenclature niveaux",
+    "Note": "French educational level classification scolomfr-voc-022. See https://www.reseau-canope.fr/scolomfr/accueil.html"
+  },
+  {
+    "Code": "31",
+    "Heading": "Brazil Education level",
+    "Note": "N&iacute;vel de Educa&ccedil;&atilde;o do Brasil, see List 238. For use in ONIX 3.0 only"
+  }
+]

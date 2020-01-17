@@ -1,0 +1,82 @@
+[
+  {
+    "Code": "00",
+    "Heading": "Unspecified",
+    "Note": "Default"
+  },
+  {
+    "Code": "01",
+    "Heading": "Publisher to retailers",
+    "Note": "Publisher as supplier to retail trade outlets"
+  },
+  {
+    "Code": "02",
+    "Heading": "Publisher&#8217;s exclusive distributor to retailers",
+    "Note": ""
+  },
+  {
+    "Code": "03",
+    "Heading": "Publisher&#8217;s non-exclusive distributor to retailers",
+    "Note": ""
+  },
+  {
+    "Code": "04",
+    "Heading": "Wholesaler",
+    "Note": "Wholesaler supplying retail trade outlets"
+  },
+  {
+    "Code": "05",
+    "Heading": "Sales agent",
+    "Note": "DEPRECATED &#8211; use &lt;MarketRepresentation&gt; (ONIX 2.1) or &lt;MarketPublishingDetail&gt; (ONIX 3.0) to specify a sales agent"
+  },
+  {
+    "Code": "06",
+    "Heading": "Publisher&#8217;s distributor to retailers",
+    "Note": "In a specified supply territory. Use only where exclusive/non-exclusive status is not known. Prefer 02 or 03 as appropriate, where possible"
+  },
+  {
+    "Code": "07",
+    "Heading": "POD supplier",
+    "Note": "Where a POD product is supplied to retailers and/or consumers direct from a POD source"
+  },
+  {
+    "Code": "08",
+    "Heading": "Retailer",
+    "Note": ""
+  },
+  {
+    "Code": "09",
+    "Heading": "Publisher to end-customers",
+    "Note": "Publisher as supplier direct to consumers and/or institutional customers"
+  },
+  {
+    "Code": "10",
+    "Heading": "Exclusive distributor to end-customers",
+    "Note": "Intermediary as exclusive distributor direct to consumers and/or institutional customers"
+  },
+  {
+    "Code": "11",
+    "Heading": "Non-exclusive distributor to end-customers",
+    "Note": "Intermediary as non-exclusive distributor direct to consumers and/or institutional customers"
+  },
+  {
+    "Code": "12",
+    "Heading": "Distributor to end-customers",
+    "Note": "Use only where exclusive/non-exclusive status is not known. Prefer 10 or 11 as appropriate, where possible"
+  },
+  {
+    "Code": "13",
+    "Heading": "Exclusive distributor to retailers and end-customers",
+    "Note": "Intermediary as exclusive distributor to retailers and direct to consumers and/or institutional customers. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "14",
+    "Heading": "Non-exclusive distributor to retailers and end-customers",
+    "Note": "Intermediary as non-exclusive distributor to retailers and direct to consumers and/or institutional customers. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "15",
+    "Heading": "Distributor to retailers and end-customers",
+    "Note": "Use only where exclusive/non-exclusive status is not known. Prefer codes 13 or 14 as appropriate whenever possible. For use in ONIX 3.0 only"
+  }
+]

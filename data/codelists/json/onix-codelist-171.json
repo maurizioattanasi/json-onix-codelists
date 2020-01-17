@@ -1,0 +1,17 @@
+[
+  {
+    "Code": "01",
+    "Heading": "VAT",
+    "Note": "Value-added tax (TVA, IVA, MwSt etc)"
+  },
+  {
+    "Code": "02",
+    "Heading": "GST",
+    "Note": "General sales tax"
+  },
+  {
+    "Code": "03",
+    "Heading": "ECO",
+    "Note": "&#8216;Green&#8217; or eco-tax, levied to encourage responsible production or disposal, used only where this is identified separately from value-added or sales taxes"
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "Code": "00",
+    "Heading": "Unrestricted",
+    "Note": "Any audience"
+  },
+  {
+    "Code": "01",
+    "Heading": "Restricted",
+    "Note": "Distribution by agreement between the parties to the ONIX exchange (this value is provided to cover applications where ONIX content includes material which is not for general distribution)"
+  },
+  {
+    "Code": "02",
+    "Heading": "Booktrade",
+    "Note": "Distributors, bookstores, publisher&#8217;s own staff etc"
+  },
+  {
+    "Code": "03",
+    "Heading": "End-customers",
+    "Note": ""
+  },
+  {
+    "Code": "04",
+    "Heading": "Librarians",
+    "Note": ""
+  },
+  {
+    "Code": "05",
+    "Heading": "Teachers",
+    "Note": ""
+  },
+  {
+    "Code": "06",
+    "Heading": "Students",
+    "Note": ""
+  },
+  {
+    "Code": "07",
+    "Heading": "Press",
+    "Note": "Press or other media"
+  },
+  {
+    "Code": "08",
+    "Heading": "Shopping comparison service",
+    "Note": "Where a specially formatted description is required for this audience"
+  },
+  {
+    "Code": "09",
+    "Heading": "Search engine index",
+    "Note": "Text not intended for display, but may be used (in addition to any less restricted text) for indexing and search"
+  }
+]

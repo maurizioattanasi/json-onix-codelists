@@ -1,0 +1,12 @@
+[
+  {
+    "Code": "A",
+    "Heading": "Announced",
+    "Note": ""
+  },
+  {
+    "Code": "C",
+    "Heading": "Cancelled",
+    "Note": "Abandoned after having previously been announced"
+  }
+]

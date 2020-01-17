@@ -1,0 +1,62 @@
+[
+  {
+    "Code": "0",
+    "Heading": "All regions",
+    "Note": "DVD or Blu-Ray"
+  },
+  {
+    "Code": "1",
+    "Heading": "DVD region 1",
+    "Note": "US, US Territories, Canada"
+  },
+  {
+    "Code": "2",
+    "Heading": "DVD region 2",
+    "Note": "Japan, Europe, South Africa and Middle East (including Egypt)"
+  },
+  {
+    "Code": "3",
+    "Heading": "DVD region 3",
+    "Note": "Southeast Asia, Hong Kong, Macau, South Korea, and Taiwan"
+  },
+  {
+    "Code": "4",
+    "Heading": "DVD region 4",
+    "Note": "Australia, New Zealand, Pacific Islands, Central America, Mexico, South America and the Caribbean"
+  },
+  {
+    "Code": "5",
+    "Heading": "DVD region 5",
+    "Note": "Eastern Europe (former Soviet Union), Indian subcontinent, Africa, North Korea and Mongolia"
+  },
+  {
+    "Code": "6",
+    "Heading": "DVD region 6",
+    "Note": "People&#8217;s Republic of China (except Macau and Hong Kong)"
+  },
+  {
+    "Code": "7",
+    "Heading": "DVD region 7",
+    "Note": "Reserved for future use"
+  },
+  {
+    "Code": "8",
+    "Heading": "DVD region 8",
+    "Note": "International venues: aircraft, cruise ships etc"
+  },
+  {
+    "Code": "A",
+    "Heading": "Blu-Ray region A",
+    "Note": "North America, Central America, South America, Japan, Taiwan, North Korea, South Korea, Hong Kong, and Southeast Asia"
+  },
+  {
+    "Code": "B",
+    "Heading": "Blu-Ray region B",
+    "Note": "Most of Europe, Greenland, French territories, Middle East, Africa, Australia, and New Zealand, plus all of Oceania"
+  },
+  {
+    "Code": "C",
+    "Heading": "Blu-Ray region C",
+    "Note": "India, Bangladesh, Nepal, Mainland China, Pakistan, Russia, Ukraine, Belarus, Central, and South Asia"
+  }
+]

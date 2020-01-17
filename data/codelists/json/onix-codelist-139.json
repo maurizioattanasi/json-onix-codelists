@@ -1,0 +1,857 @@
+[
+  {
+    "Code": "SYM",
+    "Heading": "24Symbols",
+    "Note": ""
+  },
+  {
+    "Code": "ACM",
+    "Heading": "A C Moore",
+    "Note": ""
+  },
+  {
+    "Code": "AAP",
+    "Heading": "AandP",
+    "Note": "Academic and Professional Book Center (HK)"
+  },
+  {
+    "Code": "ADL",
+    "Heading": "Adlibris",
+    "Note": ""
+  },
+  {
+    "Code": "ACB",
+    "Heading": "Akademibokhandeln",
+    "Note": ""
+  },
+  {
+    "Code": "AKK",
+    "Heading": "Akateeminen Kirjakauppa",
+    "Note": ""
+  },
+  {
+    "Code": "ALB",
+    "Heading": "Albertson&#8217;s",
+    "Note": ""
+  },
+  {
+    "Code": "ALT",
+    "Heading": "AlmaTalent",
+    "Note": ""
+  },
+  {
+    "Code": "AMZ",
+    "Heading": "Amazon",
+    "Note": ""
+  },
+  {
+    "Code": "ANR",
+    "Heading": "Angus and Robertson",
+    "Note": ""
+  },
+  {
+    "Code": "ANB",
+    "Heading": "Anobii",
+    "Note": ""
+  },
+  {
+    "Code": "APA",
+    "Heading": "Apabi",
+    "Note": ""
+  },
+  {
+    "Code": "APC",
+    "Heading": "Apple",
+    "Note": ""
+  },
+  {
+    "Code": "ASD",
+    "Heading": "Asda",
+    "Note": ""
+  },
+  {
+    "Code": "ASB",
+    "Heading": "Asia Books",
+    "Note": ""
+  },
+  {
+    "Code": "AUD",
+    "Heading": "Audible",
+    "Note": ""
+  },
+  {
+    "Code": "AUC",
+    "Heading": "Audiobooks.com",
+    "Note": ""
+  },
+  {
+    "Code": "ATK",
+    "Heading": "Audioteka",
+    "Note": ""
+  },
+  {
+    "Code": "BDL",
+    "Heading": "B Dalton",
+    "Note": "Deprecated"
+  },
+  {
+    "Code": "BNO",
+    "Heading": "Barnes and Noble",
+    "Note": ""
+  },
+  {
+    "Code": "BDZ",
+    "Heading": "BDBuzz",
+    "Note": "www.bdbuzz.net, for use in ONIX 3.0 only"
+  },
+  {
+    "Code": "BBB",
+    "Heading": "Bed Bath and Beyond",
+    "Note": ""
+  },
+  {
+    "Code": "BST",
+    "Heading": "Best Buy",
+    "Note": ""
+  },
+  {
+    "Code": "MMM",
+    "Heading": "Bibliotheca",
+    "Note": "Formerly 3M Cloud Library"
+  },
+  {
+    "Code": "BIL",
+    "Heading": "Bilbary",
+    "Note": "Deprecated"
+  },
+  {
+    "Code": "BLG",
+    "Heading": "Billigbook",
+    "Note": ""
+  },
+  {
+    "Code": "BJW",
+    "Heading": "BJ&#8217;s Wholesale Club",
+    "Note": ""
+  },
+  {
+    "Code": "BLA",
+    "Heading": "Blackstone Audio",
+    "Note": "Deprecated"
+  },
+  {
+    "Code": "BLK",
+    "Heading": "Blackwell&#8217;s",
+    "Note": ""
+  },
+  {
+    "Code": "GOS",
+    "Heading": "Blinkbox",
+    "Note": "Formerly GoSpoken/Mobcast. Deprecated"
+  },
+  {
+    "Code": "BKU",
+    "Heading": "Bokus",
+    "Note": ""
+  },
+  {
+    "Code": "BLD",
+    "Heading": "Bolinda",
+    "Note": "www.bolinda.com, for use in ONIX 3.0 only"
+  },
+  {
+    "Code": "BCA",
+    "Heading": "Book Club Associates",
+    "Note": ""
+  },
+  {
+    "Code": "BOO",
+    "Heading": "Bookbeat",
+    "Note": ""
+  },
+  {
+    "Code": "BSH",
+    "Heading": "Bookish",
+    "Note": ""
+  },
+  {
+    "Code": "BKP",
+    "Heading": "Bookpeople",
+    "Note": ""
+  },
+  {
+    "Code": "BRB",
+    "Heading": "Books Etc",
+    "Note": "Deprecated"
+  },
+  {
+    "Code": "BKM",
+    "Heading": "Books-A-Million",
+    "Note": ""
+  },
+  {
+    "Code": "BKS",
+    "Heading": "Bookshout",
+    "Note": ""
+  },
+  {
+    "Code": "BTP",
+    "Heading": "Booktopia",
+    "Note": ""
+  },
+  {
+    "Code": "BKY",
+    "Heading": "Booky.fi",
+    "Note": ""
+  },
+  {
+    "Code": "BRD",
+    "Heading": "Borders",
+    "Note": "Deprecated"
+  },
+  {
+    "Code": "BRT",
+    "Heading": "British Bookshops",
+    "Note": "Deprecated"
+  },
+  {
+    "Code": "CDL",
+    "Heading": "Casa del Libro",
+    "Note": ""
+  },
+  {
+    "Code": "CDN",
+    "Heading": "CDON.com",
+    "Note": ""
+  },
+  {
+    "Code": "CEB",
+    "Heading": "Ceebo",
+    "Note": ""
+  },
+  {
+    "Code": "CHD",
+    "Heading": "Christianbook.com",
+    "Note": ""
+  },
+  {
+    "Code": "CYM",
+    "Heading": "Citymarket",
+    "Note": ""
+  },
+  {
+    "Code": "CMX",
+    "Heading": "Comixology",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "COP",
+    "Heading": "Copia",
+    "Note": "Deprecated"
+  },
+  {
+    "Code": "CST",
+    "Heading": "Costco",
+    "Note": ""
+  },
+  {
+    "Code": "CRB",
+    "Heading": "Crate and Barrel",
+    "Note": ""
+  },
+  {
+    "Code": "CVS",
+    "Heading": "CVS Drug Stores",
+    "Note": ""
+  },
+  {
+    "Code": "CVM",
+    "Heading": "CVS Mediatheques",
+    "Note": "www.cvs-mediatheques.com"
+  },
+  {
+    "Code": "CYB",
+    "Heading": "Cyberlibris",
+    "Note": ""
+  },
+  {
+    "Code": "DEM",
+    "Heading": "De Marque",
+    "Note": ""
+  },
+  {
+    "Code": "DSG",
+    "Heading": "Dick&#8217;s Sporting Goods",
+    "Note": ""
+  },
+  {
+    "Code": "DIL",
+    "Heading": "Dilicom",
+    "Note": ""
+  },
+  {
+    "Code": "DYM",
+    "Heading": "Dymocks",
+    "Note": ""
+  },
+  {
+    "Code": "EPA",
+    "Heading": "E-Pagine",
+    "Note": ""
+  },
+  {
+    "Code": "ERD",
+    "Heading": "E-Reads",
+    "Note": ""
+  },
+  {
+    "Code": "ELC",
+    "Heading": "Early Learning Centre",
+    "Note": ""
+  },
+  {
+    "Code": "ESN",
+    "Heading": "Eason",
+    "Note": ""
+  },
+  {
+    "Code": "EBC",
+    "Heading": "Ebooks Corp",
+    "Note": "www.ebooks.com"
+  },
+  {
+    "Code": "ECH",
+    "Heading": "eChristian",
+    "Note": "Deprecated"
+  },
+  {
+    "Code": "ECI",
+    "Heading": "El Corte Ingl&eacute;s",
+    "Note": ""
+  },
+  {
+    "Code": "ELE",
+    "Heading": "Electre",
+    "Note": ""
+  },
+  {
+    "Code": "ELB",
+    "Heading": "Elib.se",
+    "Note": ""
+  },
+  {
+    "Code": "ELL",
+    "Heading": "Ellibs.com",
+    "Note": ""
+  },
+  {
+    "Code": "ELS",
+    "Heading": "Elisa",
+    "Note": ""
+  },
+  {
+    "Code": "EMP",
+    "Heading": "Empik",
+    "Note": ""
+  },
+  {
+    "Code": "ENH",
+    "Heading": "English Heritage",
+    "Note": ""
+  },
+  {
+    "Code": "EPC",
+    "Heading": "Epic!",
+    "Note": "www.getepic.com"
+  },
+  {
+    "Code": "FDB",
+    "Heading": "FeedBooks",
+    "Note": ""
+  },
+  {
+    "Code": "FIN",
+    "Heading": "Findaway",
+    "Note": ""
+  },
+  {
+    "Code": "FSP",
+    "Heading": "Fishpond",
+    "Note": ""
+  },
+  {
+    "Code": "FLP",
+    "Heading": "FlipKart",
+    "Note": ""
+  },
+  {
+    "Code": "FNC",
+    "Heading": "Fnac",
+    "Note": ""
+  },
+  {
+    "Code": "FOL",
+    "Heading": "Follett",
+    "Note": ""
+  },
+  {
+    "Code": "FRY",
+    "Heading": "Fry&#8217;s Electronics",
+    "Note": ""
+  },
+  {
+    "Code": "GMS",
+    "Heading": "Gamestop",
+    "Note": ""
+  },
+  {
+    "Code": "GLO",
+    "Heading": "Glose",
+    "Note": ""
+  },
+  {
+    "Code": "GOO",
+    "Heading": "Google Books",
+    "Note": ""
+  },
+  {
+    "Code": "HST",
+    "Heading": "Hastings Entertainment",
+    "Note": "Deprecated"
+  },
+  {
+    "Code": "HMV",
+    "Heading": "HMV",
+    "Note": ""
+  },
+  {
+    "Code": "HMD",
+    "Heading": "Home Depot",
+    "Note": ""
+  },
+  {
+    "Code": "IMM",
+    "Heading": "Immat&eacute;riel.fr",
+    "Note": ""
+  },
+  {
+    "Code": "IND",
+    "Heading": "Indigo-Chapters",
+    "Note": ""
+  },
+  {
+    "Code": "IBS",
+    "Heading": "Internet Bookshop Italia",
+    "Note": "www.ibs.it, for use in ONIX 3.0 only"
+  },
+  {
+    "Code": "IZN",
+    "Heading": "Izneo",
+    "Note": ""
+  },
+  {
+    "Code": "JBH",
+    "Heading": "JB Hifi",
+    "Note": ""
+  },
+  {
+    "Code": "JSM",
+    "Heading": "John Smith and Son",
+    "Note": ""
+  },
+  {
+    "Code": "KMT",
+    "Heading": "K-Mart",
+    "Note": ""
+  },
+  {
+    "Code": "KID",
+    "Heading": "Kirja&amp;Idea",
+    "Note": ""
+  },
+  {
+    "Code": "KPV",
+    "Heading": "Kirjastopalvelu",
+    "Note": ""
+  },
+  {
+    "Code": "KNB",
+    "Heading": "KNFB/Blio",
+    "Note": ""
+  },
+  {
+    "Code": "KNO",
+    "Heading": "Kno Inc",
+    "Note": "Deprecate"
+  },
+  {
+    "Code": "KBO",
+    "Heading": "Kobo",
+    "Note": ""
+  },
+  {
+    "Code": "KOO",
+    "Heading": "Koorong",
+    "Note": ""
+  },
+  {
+    "Code": "KOR",
+    "Heading": "Kortext",
+    "Note": ""
+  },
+  {
+    "Code": "KRG",
+    "Heading": "Kroger",
+    "Note": ""
+  },
+  {
+    "Code": "LTP",
+    "Heading": "Lehtipiste",
+    "Note": ""
+  },
+  {
+    "Code": "LWE",
+    "Heading": "Lowe&#8217;s",
+    "Note": ""
+  },
+  {
+    "Code": "MAC",
+    "Heading": "Mackin",
+    "Note": ""
+  },
+  {
+    "Code": "MAG",
+    "Heading": "Magzter",
+    "Note": ""
+  },
+  {
+    "Code": "MKS",
+    "Heading": "Marks and Spencer",
+    "Note": ""
+  },
+  {
+    "Code": "MAT",
+    "Heading": "Matras",
+    "Note": ""
+  },
+  {
+    "Code": "MMS",
+    "Heading": "Media Markt/Saturn",
+    "Note": "Also known as Media World"
+  },
+  {
+    "Code": "ADP",
+    "Heading": "Messageries ADP",
+    "Note": ""
+  },
+  {
+    "Code": "MCR",
+    "Heading": "Microcenter",
+    "Note": ""
+  },
+  {
+    "Code": "MSF",
+    "Heading": "Microsoft",
+    "Note": "For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "MOF",
+    "Heading": "Mofibo",
+    "Note": ""
+  },
+  {
+    "Code": "MRR",
+    "Heading": "Morrisons",
+    "Note": ""
+  },
+  {
+    "Code": "MTC",
+    "Heading": "Mothercare",
+    "Note": ""
+  },
+  {
+    "Code": "MYB",
+    "Heading": "MyBoox",
+    "Note": "Deprecated"
+  },
+  {
+    "Code": "MYI",
+    "Heading": "MyiLibrary",
+    "Note": ""
+  },
+  {
+    "Code": "NTR",
+    "Heading": "National Trust",
+    "Note": ""
+  },
+  {
+    "Code": "NXT",
+    "Heading": "Nextory",
+    "Note": ""
+  },
+  {
+    "Code": "NUM",
+    "Heading": "Numilog",
+    "Note": ""
+  },
+  {
+    "Code": "OFD",
+    "Heading": "Office Depot",
+    "Note": ""
+  },
+  {
+    "Code": "OFM",
+    "Heading": "Office Max",
+    "Note": ""
+  },
+  {
+    "Code": "OLF",
+    "Heading": "OLF",
+    "Note": ""
+  },
+  {
+    "Code": "OVD",
+    "Heading": "OverDrive",
+    "Note": ""
+  },
+  {
+    "Code": "OYS",
+    "Heading": "Oyster",
+    "Note": "Deprecated"
+  },
+  {
+    "Code": "PST",
+    "Heading": "Past Times",
+    "Note": "Deprecated"
+  },
+  {
+    "Code": "PTS",
+    "Heading": "Pet Smart",
+    "Note": ""
+  },
+  {
+    "Code": "PTC",
+    "Heading": "Petco",
+    "Note": ""
+  },
+  {
+    "Code": "PLY",
+    "Heading": "Play.com",
+    "Note": ""
+  },
+  {
+    "Code": "POK",
+    "Heading": "Pokkaritukku",
+    "Note": ""
+  },
+  {
+    "Code": "PTB",
+    "Heading": "Pottery Barn",
+    "Note": ""
+  },
+  {
+    "Code": "RDB",
+    "Heading": "Readbooks",
+    "Note": "Deprecated"
+  },
+  {
+    "Code": "RCL",
+    "Heading": "ReadCloud",
+    "Note": ""
+  },
+  {
+    "Code": "RST",
+    "Heading": "Restoration Hardware",
+    "Note": ""
+  },
+  {
+    "Code": "RET",
+    "Heading": "Rethink",
+    "Note": ""
+  },
+  {
+    "Code": "RTZ",
+    "Heading": "Ritz Camera",
+    "Note": ""
+  },
+  {
+    "Code": "RMB",
+    "Heading": "RM Books",
+    "Note": "Deprecated"
+  },
+  {
+    "Code": "RBD",
+    "Heading": "Rosebud",
+    "Note": ""
+  },
+  {
+    "Code": "SGR",
+    "Heading": "S Group",
+    "Note": ""
+  },
+  {
+    "Code": "SAF",
+    "Heading": "Safari",
+    "Note": ""
+  },
+  {
+    "Code": "SFW",
+    "Heading": "Safeway",
+    "Note": ""
+  },
+  {
+    "Code": "SNS",
+    "Heading": "Sainsbury&#8217;s",
+    "Note": ""
+  },
+  {
+    "Code": "SCR",
+    "Heading": "Scribd",
+    "Note": ""
+  },
+  {
+    "Code": "SLF",
+    "Heading": "Selfridges",
+    "Note": ""
+  },
+  {
+    "Code": "SEQ",
+    "Heading": "Sequencity",
+    "Note": ""
+  },
+  {
+    "Code": "SBT",
+    "Heading": "Shanghai Book Traders",
+    "Note": ""
+  },
+  {
+    "Code": "SKB",
+    "Heading": "Skoobe",
+    "Note": ""
+  },
+  {
+    "Code": "SMW",
+    "Heading": "SmashWords",
+    "Note": ""
+  },
+  {
+    "Code": "SNY",
+    "Heading": "Sony",
+    "Note": ""
+  },
+  {
+    "Code": "STP",
+    "Heading": "Staples",
+    "Note": ""
+  },
+  {
+    "Code": "STT",
+    "Heading": "Storytel",
+    "Note": ""
+  },
+  {
+    "Code": "SKK",
+    "Heading": "Suomalainen Kirjakauppa",
+    "Note": ""
+  },
+  {
+    "Code": "SSK",
+    "Heading": "Suuri Suomalainen Kirjakerho",
+    "Note": ""
+  },
+  {
+    "Code": "TRG",
+    "Heading": "Target",
+    "Note": ""
+  },
+  {
+    "Code": "TES",
+    "Heading": "Tesco",
+    "Note": ""
+  },
+  {
+    "Code": "TEA",
+    "Heading": "The Ebook Alternative",
+    "Note": ""
+  },
+  {
+    "Code": "TOL",
+    "Heading": "Tolino",
+    "Note": ""
+  },
+  {
+    "Code": "TSR",
+    "Heading": "Toys &#8217;R&#8217; Us",
+    "Note": ""
+  },
+  {
+    "Code": "TSO",
+    "Heading": "TSO (The Stationery Office)",
+    "Note": ""
+  },
+  {
+    "Code": "TXR",
+    "Heading": "Txtr",
+    "Note": "Deprecated"
+  },
+  {
+    "Code": "UBH",
+    "Heading": "Ugglan Bokhandel",
+    "Note": ""
+  },
+  {
+    "Code": "VRG",
+    "Heading": "Virgin Megastores",
+    "Note": "Deprecated"
+  },
+  {
+    "Code": "WHS",
+    "Heading": "W H Smith",
+    "Note": ""
+  },
+  {
+    "Code": "WTR",
+    "Heading": "Waitrose",
+    "Note": ""
+  },
+  {
+    "Code": "WLM",
+    "Heading": "Wal-Mart",
+    "Note": ""
+  },
+  {
+    "Code": "WST",
+    "Heading": "Waterstone&#8217;s",
+    "Note": ""
+  },
+  {
+    "Code": "WHT",
+    "Heading": "Whitcoul&#8217;s",
+    "Note": ""
+  },
+  {
+    "Code": "WLS",
+    "Heading": "Williams Sonoma",
+    "Note": ""
+  },
+  {
+    "Code": "WLW",
+    "Heading": "Woolworths",
+    "Note": ""
+  },
+  {
+    "Code": "YOU",
+    "Heading": "Youboox",
+    "Note": "youboox.fr"
+  },
+  {
+    "Code": "ZVV",
+    "Heading": "Zavvi",
+    "Note": "Formerly Virgin Megastores (UK)"
+  },
+  {
+    "Code": "ZZZ",
+    "Heading": "Other",
+    "Note": "Include retailer name in &lt;SalesOutletName&gt;"
+  }
+]

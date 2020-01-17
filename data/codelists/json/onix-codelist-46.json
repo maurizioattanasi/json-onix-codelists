@@ -1,0 +1,47 @@
+[
+  {
+    "Code": "00",
+    "Heading": "Sales rights unknown or unstated for any reason",
+    "Note": "May only be used with the ONIX 3 &lt;ROWSalesRightsType&gt; element"
+  },
+  {
+    "Code": "01",
+    "Heading": "For sale with exclusive rights in the specified countries or territories",
+    "Note": ""
+  },
+  {
+    "Code": "02",
+    "Heading": "For sale with non-exclusive rights in the specified countries or territories",
+    "Note": ""
+  },
+  {
+    "Code": "03",
+    "Heading": "Not for sale in the specified countries or territories (reason unspecified)",
+    "Note": ""
+  },
+  {
+    "Code": "04",
+    "Heading": "Not for sale in the specified countries (but publisher holds exclusive rights in those countries or territories)",
+    "Note": ""
+  },
+  {
+    "Code": "05",
+    "Heading": "Not for sale in the specified countries (publisher holds non-exclusive rights in those countries or territories)",
+    "Note": ""
+  },
+  {
+    "Code": "06",
+    "Heading": "Not for sale in the specified countries (because publisher does not hold rights in those countries or territories)",
+    "Note": ""
+  },
+  {
+    "Code": "07",
+    "Heading": "For sale with exclusive rights in the specified countries or territories (sales restriction applies)",
+    "Note": "Only for use with ONIX 3. Deprecated"
+  },
+  {
+    "Code": "08",
+    "Heading": "For sale with non-exclusive rights in the specified countries or territories (sales restriction applies)",
+    "Note": "Only for use with ONIX 3. Deprecated"
+  }
+]

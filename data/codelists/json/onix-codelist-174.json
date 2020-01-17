@@ -1,0 +1,12 @@
+[
+  {
+    "Code": "01",
+    "Heading": "No",
+    "Note": "Price not printed on product"
+  },
+  {
+    "Code": "02",
+    "Heading": "Yes",
+    "Note": "Price printed on product"
+  }
+]

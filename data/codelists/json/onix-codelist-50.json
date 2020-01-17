@@ -1,0 +1,42 @@
+[
+  {
+    "Code": "cm",
+    "Heading": "Centimeters",
+    "Note": "Millimeters are the preferred metric unit of length"
+  },
+  {
+    "Code": "gr",
+    "Heading": "Grams",
+    "Note": ""
+  },
+  {
+    "Code": "in",
+    "Heading": "Inches (US)",
+    "Note": ""
+  },
+  {
+    "Code": "kg",
+    "Heading": "Kilograms",
+    "Note": "Grams are the preferred metric unit of weight"
+  },
+  {
+    "Code": "lb",
+    "Heading": "Pounds (US)",
+    "Note": ""
+  },
+  {
+    "Code": "mm",
+    "Heading": "Millimeters",
+    "Note": ""
+  },
+  {
+    "Code": "oz",
+    "Heading": "Ounces (US)",
+    "Note": ""
+  },
+  {
+    "Code": "px",
+    "Heading": "Pixels",
+    "Note": ""
+  }
+]

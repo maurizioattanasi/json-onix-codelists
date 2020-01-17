@@ -1,0 +1,37 @@
+[
+  {
+    "Code": "00",
+    "Heading": "Unspecified",
+    "Note": ""
+  },
+  {
+    "Code": "01",
+    "Heading": "Pseudonym",
+    "Note": "May be used to give a well-known pseudonym, where the primary name is a &#8216;real&#8217; name"
+  },
+  {
+    "Code": "02",
+    "Heading": "Authority-controlled name",
+    "Note": ""
+  },
+  {
+    "Code": "03",
+    "Heading": "Earlier name",
+    "Note": "Use only within &lt;AlternativeName&gt;"
+  },
+  {
+    "Code": "04",
+    "Heading": "&#8216;Real&#8217; name",
+    "Note": "May be used to identify a well-known real name, where the primary name is a pseudonym"
+  },
+  {
+    "Code": "05",
+    "Heading": "Transliterated form of primary name",
+    "Note": "Use only within &lt;AlternativeName&gt;, when the primary name type is unspecified"
+  },
+  {
+    "Code": "06",
+    "Heading": "Later name",
+    "Note": "Use only within &lt;AlternativeName&gt;"
+  }
+]

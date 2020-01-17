@@ -1,0 +1,22 @@
+[
+  {
+    "Code": "05",
+    "Heading": "Exclusive sales agent",
+    "Note": "Publisher&#8217;s exclusive sales agent in a specified territory"
+  },
+  {
+    "Code": "06",
+    "Heading": "Non-exclusive sales agent",
+    "Note": "Publisher&#8217;s non-exclusive sales agent in a specified territory"
+  },
+  {
+    "Code": "07",
+    "Heading": "Local publisher",
+    "Note": "Publisher for a specified territory"
+  },
+  {
+    "Code": "08",
+    "Heading": "Sales agent",
+    "Note": "Publisher&#8217;s sales agent in a specific territory. Use only where exclusive / non-exclusive status is not known. Prefer 05 or 06 as appropriate, where possible"
+  }
+]

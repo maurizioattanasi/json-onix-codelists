@@ -1,0 +1,97 @@
+[
+  {
+    "Code": "00",
+    "Heading": "YYYYMMDD",
+    "Note": "Common Era year, month and day (default for most dates)"
+  },
+  {
+    "Code": "01",
+    "Heading": "YYYYMM",
+    "Note": "Year and month"
+  },
+  {
+    "Code": "02",
+    "Heading": "YYYYWW",
+    "Note": "Year and week number"
+  },
+  {
+    "Code": "03",
+    "Heading": "YYYYQ",
+    "Note": "Year and quarter (Q = 1, 2, 3, 4, with 1 = Jan to Mar)"
+  },
+  {
+    "Code": "04",
+    "Heading": "YYYYS",
+    "Note": "Year and season (S = 1, 2, 3, 4, with 1 = &#8216;Spring&#8217;)"
+  },
+  {
+    "Code": "05",
+    "Heading": "YYYY",
+    "Note": "Year (default for some dates)"
+  },
+  {
+    "Code": "06",
+    "Heading": "YYYYMMDDYYYYMMDD",
+    "Note": "Spread of exact dates"
+  },
+  {
+    "Code": "07",
+    "Heading": "YYYYMMYYYYMM",
+    "Note": "Spread of months"
+  },
+  {
+    "Code": "08",
+    "Heading": "YYYYWWYYYYWW",
+    "Note": "Spread of week numbers"
+  },
+  {
+    "Code": "09",
+    "Heading": "YYYYQYYYYQ",
+    "Note": "Spread of quarters"
+  },
+  {
+    "Code": "10",
+    "Heading": "YYYYSYYYYS",
+    "Note": "Spread of seasons"
+  },
+  {
+    "Code": "11",
+    "Heading": "YYYYYYYY",
+    "Note": "Spread of years"
+  },
+  {
+    "Code": "12",
+    "Heading": "Text string",
+    "Note": "For complex, approximate or uncertain dates, or dates BCE"
+  },
+  {
+    "Code": "13",
+    "Heading": "YYYYMMDDThhmm",
+    "Note": "Exact time. Use ONLY when exact times with hour/minute precision are relevant. By default, time is local. Alternatively, the time may be suffixed with an optional &#8216;Z&#8217; for UTC times, or with &#8216;+&#8217; or &#8216;-&#8217; and an hhmm timezone offset from UTC. Times without a timezone are &#8216;rolling&#8217; local times, times qualified with a timezone (using Z, + or -) specify a particular instant in time"
+  },
+  {
+    "Code": "14",
+    "Heading": "YYYYMMDDThhmmss",
+    "Note": "Exact time. Use ONLY when exact times with second precision are relevant. By default, time is local. Alternatively, the time may be suffixed with an optional &#8216;Z&#8217; for UTC times, or with &#8216;+&#8217; or &#8216;-&#8217; and an hhmm timezone offset from UTC. Times without a timezone are &#8216;rolling&#8217; local times, times qualified with a timezone (using Z, + or -) specify a particular instant in time"
+  },
+  {
+    "Code": "20",
+    "Heading": "YYYYMMDD (H)",
+    "Note": "Year month day (Hijri calendar)"
+  },
+  {
+    "Code": "21",
+    "Heading": "YYYYMM (H)",
+    "Note": "Year and month (Hijri calendar)"
+  },
+  {
+    "Code": "25",
+    "Heading": "YYYY (H)",
+    "Note": "Year (Hijri calendar)"
+  },
+  {
+    "Code": "32",
+    "Heading": "Text string (H)",
+    "Note": "For complex, approximate or uncertain dates (Hijri calendar), text would usually be in Arabic script"
+  }
+]

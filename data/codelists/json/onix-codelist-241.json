@@ -1,0 +1,37 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Proprietary",
+    "Note": "For example, a publisher&#8217;s own identifier. Note that &lt;IDTypeName&gt; is required with proprietary identifiers"
+  },
+  {
+    "Code": "03",
+    "Heading": "GTIN-13",
+    "Note": "Formerly known as the EAN-13 (unhyphenated)"
+  },
+  {
+    "Code": "06",
+    "Heading": "DOI",
+    "Note": "Digital Object Identifier (variable length and character set beginning &#8216;10.&#8217;, and without https://doi.org/ or the older http://dx.doi.org/)"
+  },
+  {
+    "Code": "12",
+    "Heading": "IMDB",
+    "Note": "Motion picture work identifier from the International Movie Database"
+  },
+  {
+    "Code": "18",
+    "Heading": "ISRC",
+    "Note": "International Standard Recording Code, 5 alphanumeric characters plus 7 digits"
+  },
+  {
+    "Code": "19",
+    "Heading": "ISAN",
+    "Note": "International Standard Audiovisual Number (17 or 26 characters &#8211; 16 or 24 hexadecimal digits, plus one or two alphanumeric check characters, and without spaces or hyphens)"
+  },
+  {
+    "Code": "31",
+    "Heading": "EIDR DOI",
+    "Note": "Entertainment Identifier Registry DOI"
+  }
+]

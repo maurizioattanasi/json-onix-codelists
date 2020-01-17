@@ -1,0 +1,117 @@
+[
+  {
+    "Code": "AW",
+    "Heading": "Award",
+    "Note": "A Bible (or selected Biblical text) designed for presentation from a religious organization"
+  },
+  {
+    "Code": "BB",
+    "Heading": "Baby",
+    "Note": "A Bible (or selected Biblical text) designed to be a gift to commemorate a child&#8217;s birth"
+  },
+  {
+    "Code": "BR",
+    "Heading": "Bride",
+    "Note": "A special gift Bible (or selected Biblical text) designed for the bride on her wedding day. Usually white"
+  },
+  {
+    "Code": "CF",
+    "Heading": "Confirmation",
+    "Note": "A Bible (or selected Biblical text) designed to be used in the confirmation reading or as a gift to a confirmand"
+  },
+  {
+    "Code": "CH",
+    "Heading": "Children&#8217;s",
+    "Note": "A text Bible (or selected Biblical text) designed in presentation and readability for a child"
+  },
+  {
+    "Code": "CM",
+    "Heading": "Compact",
+    "Note": "A small Bible (or selected Biblical text) with a trim height of five inches or less"
+  },
+  {
+    "Code": "CR",
+    "Heading": "Cross-reference",
+    "Note": "A Bible (or selected Biblical text) which includes text conveying cross-references to related scripture passages"
+  },
+  {
+    "Code": "DR",
+    "Heading": "Daily readings",
+    "Note": "A Bible (or selected Biblical text) laid out to provide readings for each day of the year"
+  },
+  {
+    "Code": "DV",
+    "Heading": "Devotional",
+    "Note": "A Bible (or selected Biblical text) containing devotional content together with the scripture"
+  },
+  {
+    "Code": "FM",
+    "Heading": "Family",
+    "Note": "A Bible (or selected Biblical text) containing family record pages and/or additional study material for family devotion"
+  },
+  {
+    "Code": "GT",
+    "Heading": "General/Text",
+    "Note": "A standard Bible (or selected Biblical text) of any version with no distinguishing characteristics beyond the canonical text"
+  },
+  {
+    "Code": "GF",
+    "Heading": "Gift",
+    "Note": "A Bible (or selected Biblical text) designed for gift or presentation, often including a presentation page"
+  },
+  {
+    "Code": "LP",
+    "Heading": "Lectern/Pulpit",
+    "Note": "A large Bible (or selected Biblical text) with large print designed for use in reading scriptures in public worship from either the pulpit or lectern"
+  },
+  {
+    "Code": "MN",
+    "Heading": "Men&#8217;s",
+    "Note": "A Bible (or selected Biblical text) especially designed with helps and study guides oriented to the adult male"
+  },
+  {
+    "Code": "PS",
+    "Heading": "Primary school",
+    "Note": "A Bible (or selected Biblical text) designed for use in primary school"
+  },
+  {
+    "Code": "PW",
+    "Heading": "Pew",
+    "Note": "Usually inexpensive but sturdy, a Bible (or selected Biblical text) designed for use in church pews"
+  },
+  {
+    "Code": "SC",
+    "Heading": "Scholarly",
+    "Note": "A Bible (or selected Biblical text) including texts in Greek and/or Hebrew and designed for scholarly study"
+  },
+  {
+    "Code": "SL",
+    "Heading": "Slimline",
+    "Note": ""
+  },
+  {
+    "Code": "ST",
+    "Heading": "Student",
+    "Note": "A Bible (or selected Biblical text) with study articles and helps especially for use in the classroom"
+  },
+  {
+    "Code": "SU",
+    "Heading": "Study",
+    "Note": "A Bible (or selected Biblical text) with many extra features, e.g. book introductions, dictionary, concordance, references, maps, etc., to help readers better understand the scripture"
+  },
+  {
+    "Code": "WG",
+    "Heading": "Wedding gift",
+    "Note": "A special gift Bible (or selected Biblical text) designed as a gift to the couple on their wedding day"
+  },
+  {
+    "Code": "WM",
+    "Heading": "Women&#8217;s",
+    "Note": "A devotional or study Bible (or selected Biblical text) with helps targeted at the adult woman"
+  },
+  {
+    "Code": "YT",
+    "Heading": "Youth",
+    "Note": "A Bible (or selected Biblical text) containing special study and devotional helps designed specifically for the needs of teenagers"
+  }
+]

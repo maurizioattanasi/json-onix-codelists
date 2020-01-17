@@ -1,0 +1,157 @@
+[
+  {
+    "Code": "00",
+    "Heading": "Unspecified, see description",
+    "Note": "See description in the &lt;IllustrationTypeDescription&gt; element"
+  },
+  {
+    "Code": "01",
+    "Heading": "Illustrations, black and white",
+    "Note": ""
+  },
+  {
+    "Code": "02",
+    "Heading": "Illustrations, color",
+    "Note": ""
+  },
+  {
+    "Code": "03",
+    "Heading": "Halftones, black and white",
+    "Note": "Including black and white photographs"
+  },
+  {
+    "Code": "04",
+    "Heading": "Halftones, color",
+    "Note": "Including color photographs"
+  },
+  {
+    "Code": "05",
+    "Heading": "Line drawings, black and white",
+    "Note": ""
+  },
+  {
+    "Code": "06",
+    "Heading": "Line drawings, color",
+    "Note": ""
+  },
+  {
+    "Code": "07",
+    "Heading": "Tables, black and white",
+    "Note": ""
+  },
+  {
+    "Code": "08",
+    "Heading": "Tables, color",
+    "Note": ""
+  },
+  {
+    "Code": "09",
+    "Heading": "Illustrations, unspecified",
+    "Note": ""
+  },
+  {
+    "Code": "10",
+    "Heading": "Halftones, unspecified",
+    "Note": "Including photographs"
+  },
+  {
+    "Code": "11",
+    "Heading": "Tables, unspecified",
+    "Note": ""
+  },
+  {
+    "Code": "12",
+    "Heading": "Line drawings, unspecified",
+    "Note": ""
+  },
+  {
+    "Code": "13",
+    "Heading": "Halftones, duotone",
+    "Note": ""
+  },
+  {
+    "Code": "14",
+    "Heading": "Maps",
+    "Note": ""
+  },
+  {
+    "Code": "15",
+    "Heading": "Frontispiece",
+    "Note": ""
+  },
+  {
+    "Code": "16",
+    "Heading": "Diagrams",
+    "Note": ""
+  },
+  {
+    "Code": "17",
+    "Heading": "Figures",
+    "Note": ""
+  },
+  {
+    "Code": "18",
+    "Heading": "Charts",
+    "Note": ""
+  },
+  {
+    "Code": "19",
+    "Heading": "Recorded music items",
+    "Note": "Recorded music extracts or examples, or complete recorded work(s), accompanying textual or other content"
+  },
+  {
+    "Code": "20",
+    "Heading": "Printed music items",
+    "Note": "Printed music extracts or examples, or complete music score(s), accompanying textual or other content"
+  },
+  {
+    "Code": "21",
+    "Heading": "Graphs",
+    "Note": "To be used in the mathematical sense of a diagram that represents numerical values plotted against an origin and axes, cf codes 16 and 18"
+  },
+  {
+    "Code": "22",
+    "Heading": "Plates, unspecified",
+    "Note": "&#8216;Plates&#8217; means illustrations that are on separate pages bound into the body of a book"
+  },
+  {
+    "Code": "23",
+    "Heading": "Plates, black and white",
+    "Note": "&#8216;Plates&#8217; means illustrations that are on separate pages bound into the body of a book"
+  },
+  {
+    "Code": "24",
+    "Heading": "Plates, color",
+    "Note": "&#8216;Plates&#8217; means illustrations that are on separate pages bound into the body of a book"
+  },
+  {
+    "Code": "25",
+    "Heading": "Index",
+    "Note": ""
+  },
+  {
+    "Code": "26",
+    "Heading": "Bibliography",
+    "Note": ""
+  },
+  {
+    "Code": "27",
+    "Heading": "Inset maps",
+    "Note": "Larger-scale inset maps of places or features of interest included in a map product"
+  },
+  {
+    "Code": "28",
+    "Heading": "GPS grids",
+    "Note": "GPS grids included in a map product"
+  },
+  {
+    "Code": "29",
+    "Heading": "Glossary",
+    "Note": ""
+  },
+  {
+    "Code": "30",
+    "Heading": "Table of contents",
+    "Note": "For use in ONIX 3.0 only"
+  }
+]

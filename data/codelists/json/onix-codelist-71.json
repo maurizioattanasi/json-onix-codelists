@@ -1,0 +1,87 @@
+[
+  {
+    "Code": "00",
+    "Heading": "Unspecified &#8211; see text",
+    "Note": "Restriction must be described in &lt;SalesRestrictionDetail&gt; (ONIX 2.1) or &lt;SalesRestrictionNote&gt; (ONIX 3.0)"
+  },
+  {
+    "Code": "01",
+    "Heading": "Retailer exclusive / own brand",
+    "Note": "For sale only through designated retailer. Retailer must be identified or named in an instance of the &lt;SalesOutlet&gt; composite. Use only when it is not possible to assign the more explicit code 04 or 05"
+  },
+  {
+    "Code": "02",
+    "Heading": "Office supplies edition",
+    "Note": "For editions sold only though office supplies wholesalers. Retailer(s) and/or distributor(s) may be identified or named in an instance of the &lt;SalesOutlet&gt; composite"
+  },
+  {
+    "Code": "03",
+    "Heading": "Internal publisher use only: do not list",
+    "Note": "For an ISBN that is assigned for a publisher&#8217;s internal purposes"
+  },
+  {
+    "Code": "04",
+    "Heading": "Retailer exclusive",
+    "Note": "For sale only through designated retailer, though not under retailer&#8217;s own brand/imprint. Retailer must be identified or named in an instance of the &lt;SalesOutlet&gt; composite"
+  },
+  {
+    "Code": "05",
+    "Heading": "Retailer own brand",
+    "Note": "For sale only through designated retailer under retailer&#8217;s own brand/imprint. Retailer must be identified or named in an instance of the &lt;SalesOutlet&gt; composite"
+  },
+  {
+    "Code": "06",
+    "Heading": "Library edition",
+    "Note": "For sale to libraries only; not for sale through retail trade"
+  },
+  {
+    "Code": "07",
+    "Heading": "Schools only edition",
+    "Note": "For sale directly to schools only; not for sale through retail trade"
+  },
+  {
+    "Code": "08",
+    "Heading": "Indiziert",
+    "Note": "Indexed for the German market &#8211; in Deutschland indiziert"
+  },
+  {
+    "Code": "09",
+    "Heading": "Not for sale to libraries",
+    "Note": "Expected to apply in particular to digital products for consumer sale where the publisher does not permit the product to be supplied to libraries who provide an ebook loan service"
+  },
+  {
+    "Code": "10",
+    "Heading": "News outlet edition",
+    "Note": "For editions sold only through newsstands/newsagents"
+  },
+  {
+    "Code": "11",
+    "Heading": "Retailer exception",
+    "Note": "Not for sale through designated retailer. Retailer must be identified or named in an instance of the &lt;SalesOutlet&gt; composite"
+  },
+  {
+    "Code": "12",
+    "Heading": "Not for sale to subscription services",
+    "Note": "Not for sale to organisations or services offering consumers subscription access to a library of books"
+  },
+  {
+    "Code": "13",
+    "Heading": "Subscription services only",
+    "Note": "Restricted to organisations or services offering consumers subscription access to a library of books"
+  },
+  {
+    "Code": "14",
+    "Heading": "Not for retail online",
+    "Note": "Exclusive to bricks-and-mortar retail outlets"
+  },
+  {
+    "Code": "15",
+    "Heading": "Online retail only",
+    "Note": "Exclusive to online retail outlets"
+  },
+  {
+    "Code": "99",
+    "Heading": "No restrictions on sales",
+    "Note": "Positive indication that no sales restrictions apply, for example to indicate the product may be sold both online and in bricks-and mortar retail, or to subscription services and non-subscription customers. For use in ONIX 3.0 only"
+  }
+]

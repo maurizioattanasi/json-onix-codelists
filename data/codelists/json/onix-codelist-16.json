@@ -1,0 +1,42 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Proprietary",
+    "Note": "Note that &lt;IDTypeName&gt; is required with proprietary identifiers"
+  },
+  {
+    "Code": "02",
+    "Heading": "ISBN-10",
+    "Note": "10-character ISBN of manifestation of work, when this is the only work identifier available &#8211; now DEPRECATED in ONIX for Books, except where providing historical information for compatibility with legacy systems. It should only be used in relation to products published before 2007 &#8211; when ISBN-13 superseded it &#8211; and should never be used as the ONLY identifier (it should always be accompanied by the correct GTIN-13 / ISBN-13 of the manifestation of the work)"
+  },
+  {
+    "Code": "06",
+    "Heading": "DOI",
+    "Note": "Digital Object Identifier (variable length and character set)"
+  },
+  {
+    "Code": "11",
+    "Heading": "ISTC",
+    "Note": "International Standard Text Code (16 characters: numerals and letters A-F, unhyphenated)"
+  },
+  {
+    "Code": "15",
+    "Heading": "ISBN-13",
+    "Note": "13-character ISBN of manifestation of work, when this is the only work identifier available (13 digits, without spaces or hyphens)"
+  },
+  {
+    "Code": "18",
+    "Heading": "ISRC",
+    "Note": "International Standard Recording Code"
+  },
+  {
+    "Code": "32",
+    "Heading": "GLIMIR",
+    "Note": "Global Library Manifestation Identifier, OCLC&#8217;s &#8216;manifestation cluster&#8217; ID"
+  },
+  {
+    "Code": "33",
+    "Heading": "OWI",
+    "Note": "OCLC Work Identifier"
+  }
+]

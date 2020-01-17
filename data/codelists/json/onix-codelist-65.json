@@ -1,0 +1,152 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Cancelled",
+    "Note": "Cancelled: product was announced, and subsequently abandoned by the publisher. No expected availability date should be included in &lt;SupplyDate&gt;"
+  },
+  {
+    "Code": "09",
+    "Heading": "Not yet available, postponed indefinitely",
+    "Note": "Not yet available from the supplier, and the publisher indicates that it has been postponed indefinitely. Should be used in preference to code 10 where the publisher has indicated that a previously-announced publication date is no longer correct, and no new date has yet been announced. No expected availability date should be included in &lt;SupplyDate&gt;. For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "10",
+    "Heading": "Not yet available",
+    "Note": "Not yet available (requires expected date, either as &lt;ExpectedShipDate&gt; (ONIX 2.1) or as &lt;SupplyDate&gt; with &lt;SupplyDateRole&gt; coded &#8216;08&#8217; (ONIX 3.0), except in exceptional circumstances where no date is known)"
+  },
+  {
+    "Code": "11",
+    "Heading": "Awaiting stock",
+    "Note": "Not yet available, but will be a stock item when available (requires expected date, either as &lt;ExpectedShipDate&gt; (ONIX 2.1) or as &lt;SupplyDate&gt; with &lt;SupplyDateRole&gt; coded &#8216;08&#8217; (ONIX 3.0), except in exceptional circumstances where no date is known). Used particularly for imports which have been published in the country of origin but have not yet arrived in the importing country"
+  },
+  {
+    "Code": "12",
+    "Heading": "Not yet available, will be POD",
+    "Note": "Not yet available, to be published as print-on-demand only (requires expected date, either as &lt;ExpectedShipDate&gt; (ONIX 2.1) or as &lt;SupplyDate&gt; with &lt;SupplyDateRole&gt; coded &#8216;08&#8217; (ONIX 3.0), except in exceptional circumstances where no date is known). May apply either to a POD successor to an existing conventional edition, when the successor will be published under a different ISBN (normally because different trade terms apply); or to a title that is being published as a POD original"
+  },
+  {
+    "Code": "20",
+    "Heading": "Available",
+    "Note": "Available from us (form of availability unspecified)"
+  },
+  {
+    "Code": "21",
+    "Heading": "In stock",
+    "Note": "Available from us as a stock item"
+  },
+  {
+    "Code": "22",
+    "Heading": "To order",
+    "Note": "Available from the supplier as a non-stock item, by special order. Where possible, an &lt;OrderTime&gt; should be included"
+  },
+  {
+    "Code": "23",
+    "Heading": "POD",
+    "Note": "Available from the supplier by print-on-demand. If the fulfillment delay is likely to be more than 24 hours, an &lt;OrderTime&gt; should be included"
+  },
+  {
+    "Code": "30",
+    "Heading": "Temporarily unavailable",
+    "Note": "Temporarily unavailable: temporarily unavailable from us (reason unspecified) (requires expected date, either as &lt;ExpectedShipDate&gt; (ONIX 2.1) or as &lt;SupplyDate&gt; with &lt;SupplyDateRole&gt; coded &#8216;08&#8217; (ONIX 3.0), except in exceptional circumstances where no date is known)"
+  },
+  {
+    "Code": "31",
+    "Heading": "Out of stock",
+    "Note": "Stock item, temporarily out of stock (requires expected date, either as &lt;ExpectedShipDate&gt; (ONIX 2.1) or as &lt;SupplyDate&gt; with &lt;SupplyDateRole&gt; coded &#8216;08&#8217; (ONIX 3.0), except in exceptional circumstances where no date is known)"
+  },
+  {
+    "Code": "32",
+    "Heading": "Reprinting",
+    "Note": "Temporarily unavailable, reprinting (requires expected date, either as &lt;ExpectedShipDate&gt; (ONIX 2.1) or as &lt;SupplyDate&gt; with &lt;SupplyDateRole&gt; coded &#8216;08&#8217; (ONIX 3.0), except in exceptional circumstances where no date is known)"
+  },
+  {
+    "Code": "33",
+    "Heading": "Awaiting reissue",
+    "Note": "Temporarily unavailable, awaiting reissue (requires expected date, either as &lt;ExpectedShipDate&gt; (ONIX 2.1) or as &lt;SupplyDate&gt; with &lt;SupplyDateRole&gt; coded &#8216;08&#8217; (ONIX 3.0), except in exceptional circumstances where no date is known)"
+  },
+  {
+    "Code": "34",
+    "Heading": "Temporarily withdrawn from sale",
+    "Note": "May be for quality or technical reasons. Requires expected availability date, either as &lt;ExpectedShipDate&gt; (ONIX 2.1) or as &lt;SupplyDate&gt; with &lt;SupplyDateRole&gt; coded &#8216;08&#8217; (ONIX 3.0), except in exceptional circumstances where no date is known"
+  },
+  {
+    "Code": "40",
+    "Heading": "Not available (reason unspecified)",
+    "Note": "Not available from us (for any reason)"
+  },
+  {
+    "Code": "41",
+    "Heading": "Not available, replaced by new product",
+    "Note": "This product is unavailable, but a successor product or edition is or will be available from us (identify successor in &lt;RelatedProduct&gt;)"
+  },
+  {
+    "Code": "42",
+    "Heading": "Not available, other format available",
+    "Note": "This product is unavailable, but the same content is or will be available from us in an alternative format (identify other format product in &lt;RelatedProduct&gt;)"
+  },
+  {
+    "Code": "43",
+    "Heading": "No longer supplied by us",
+    "Note": "Identify new supplier in &lt;NewSupplier&gt; if possible"
+  },
+  {
+    "Code": "44",
+    "Heading": "Apply direct",
+    "Note": "Not available to trade, apply direct to publisher"
+  },
+  {
+    "Code": "45",
+    "Heading": "Not sold separately",
+    "Note": "Individual copies of the product are not available from the supplier, but packs of copies are available, and individual copies of the product may typically be sold at retail. Must be bought as part of a set or trade pack (identify set or pack in &lt;RelatedProduct&gt; using code 02)"
+  },
+  {
+    "Code": "46",
+    "Heading": "Withdrawn from sale",
+    "Note": "May be for legal reasons or to avoid giving offence"
+  },
+  {
+    "Code": "47",
+    "Heading": "Remaindered",
+    "Note": "Remaindered"
+  },
+  {
+    "Code": "48",
+    "Heading": "Not available, replaced by POD",
+    "Note": "Out of print, but a print-on-demand edition is or will be available under a different ISBN. Use only when the POD successor has a different ISBN, normally because different trade terms apply"
+  },
+  {
+    "Code": "49",
+    "Heading": "Recalled",
+    "Note": "Recalled for reasons of consumer safety"
+  },
+  {
+    "Code": "50",
+    "Heading": "Not sold as set",
+    "Note": "When a collection that is not sold as a set nevertheless has its own ONIX record"
+  },
+  {
+    "Code": "51",
+    "Heading": "Not available, publisher indicates OP",
+    "Note": "This product is unavailable from the supplier, no successor product or alternative format is available or planned. Use this code only when the publisher has indicated the product is out of print"
+  },
+  {
+    "Code": "52",
+    "Heading": "Not available, publisher no longer sells product in this market",
+    "Note": "This product is unavailable from the supplier in this market, no successor product or alternative format is available or planned. Use this code when a publisher has indicated the product is permanently unavailable (in this market) while remaining available elsewhere"
+  },
+  {
+    "Code": "97",
+    "Heading": "No recent update received",
+    "Note": "Sender has not received any recent update for this product from the publisher/supplier (for use when the sender is a data aggregator): the definition of &#8216;recent&#8217; must be specified by the aggregator, or by agreement between parties to an exchange"
+  },
+  {
+    "Code": "98",
+    "Heading": "No longer receiving updates",
+    "Note": "Sender is no longer receiving any updates from the publisher/supplier of this product (for use when the sender is a data aggregator)"
+  },
+  {
+    "Code": "99",
+    "Heading": "Contact supplier",
+    "Note": "Availability not known to sender"
+  }
+]

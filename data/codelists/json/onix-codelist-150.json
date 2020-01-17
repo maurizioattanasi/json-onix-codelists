@@ -1,0 +1,697 @@
+[
+  {
+    "Code": "00",
+    "Heading": "Undefined",
+    "Note": ""
+  },
+  {
+    "Code": "AA",
+    "Heading": "Audio",
+    "Note": "Audio recording &#8211; detail unspecified"
+  },
+  {
+    "Code": "AB",
+    "Heading": "Audio cassette",
+    "Note": "Audio cassette (analogue)"
+  },
+  {
+    "Code": "AC",
+    "Heading": "CD-Audio",
+    "Note": "Audio compact disc: use for &#8216;Red book&#8217; discs (conventional audio CD) and SACD, and use coding in &lt;ProductFormDetail&gt; to specify the format, if required"
+  },
+  {
+    "Code": "AD",
+    "Heading": "DAT",
+    "Note": "Digital audio tape cassette"
+  },
+  {
+    "Code": "AE",
+    "Heading": "Audio disc",
+    "Note": "Audio disc (excluding CD-Audio): use for &#8216;Yellow book&#8217; (CD-Rom-style) discs, including for example mp3 CDs, and use coding in &lt;ProductFormDetail&gt; to specify the format of the data on the disc"
+  },
+  {
+    "Code": "AF",
+    "Heading": "Audio tape",
+    "Note": "Audio tape (analogue open reel tape)"
+  },
+  {
+    "Code": "AG",
+    "Heading": "MiniDisc",
+    "Note": "Sony MiniDisc format"
+  },
+  {
+    "Code": "AH",
+    "Heading": "CD-Extra",
+    "Note": "Audio compact disc with part CD-ROM content, also termed CD-Plus or Enhanced-CD: use for &#8216;Blue book&#8217; and &#8216;Yellow/Red book&#8217; two-session discs"
+  },
+  {
+    "Code": "AI",
+    "Heading": "DVD Audio",
+    "Note": ""
+  },
+  {
+    "Code": "AJ",
+    "Heading": "Downloadable audio file",
+    "Note": "Digital audio recording downloadable to the purchaser&#8217;s own device(s)"
+  },
+  {
+    "Code": "AK",
+    "Heading": "Pre-recorded digital audio player",
+    "Note": "For example, Playaway audiobook and player: use coding in &lt;ProductFormDetail&gt; to specify the recording format, if required"
+  },
+  {
+    "Code": "AL",
+    "Heading": "Pre-recorded SD card",
+    "Note": "For example, Audiofy audiobook chip"
+  },
+  {
+    "Code": "AM",
+    "Heading": "LP",
+    "Note": "Vinyl disc (analogue)."
+  },
+  {
+    "Code": "AN",
+    "Heading": "Downloadable and online audio file",
+    "Note": "Digital audio recording available both by download to the purchaser&#8217;s own device(s) and by online (eg streamed) access"
+  },
+  {
+    "Code": "AO",
+    "Heading": "Online audio file",
+    "Note": "Digital audio recording available online (eg streamed), not downloadable to the purchaser&#8217;s own device(s)"
+  },
+  {
+    "Code": "AZ",
+    "Heading": "Other audio format",
+    "Note": "Other audio format not specified by AB to AM"
+  },
+  {
+    "Code": "BA",
+    "Heading": "Book",
+    "Note": "Book &#8211; detail unspecified"
+  },
+  {
+    "Code": "BB",
+    "Heading": "Hardback",
+    "Note": "Hardback or cased book"
+  },
+  {
+    "Code": "BC",
+    "Heading": "Paperback / softback",
+    "Note": "Paperback or other softback book"
+  },
+  {
+    "Code": "BD",
+    "Heading": "Loose-leaf",
+    "Note": "Loose-leaf book"
+  },
+  {
+    "Code": "BE",
+    "Heading": "Spiral bound",
+    "Note": "Spiral, comb or coil bound book"
+  },
+  {
+    "Code": "BF",
+    "Heading": "Pamphlet",
+    "Note": "Pamphlet, stapled; use for German &#8216;geheftet&#8217;. Includes low-extent wire-stitched books bound without a distinct spine (eg many comic books)"
+  },
+  {
+    "Code": "BG",
+    "Heading": "Leather / fine binding",
+    "Note": "Use &lt;ProductFormDetail&gt; to provide additional description"
+  },
+  {
+    "Code": "BH",
+    "Heading": "Board book",
+    "Note": "Child&#8217;s book with all pages printed on board"
+  },
+  {
+    "Code": "BI",
+    "Heading": "Rag book",
+    "Note": "Child&#8217;s book with all pages printed on textile"
+  },
+  {
+    "Code": "BJ",
+    "Heading": "Bath book",
+    "Note": "Child&#8217;s book printed on waterproof material"
+  },
+  {
+    "Code": "BK",
+    "Heading": "Novelty book",
+    "Note": "A book whose novelty consists wholly or partly in a format which cannot be described by any other available code &#8211; a &#8216;conventional&#8217; format code is always to be preferred; one or more Product Form Detail codes, eg from the B2nn group, should be used whenever possible to provide additional description"
+  },
+  {
+    "Code": "BL",
+    "Heading": "Slide bound",
+    "Note": "Slide bound book"
+  },
+  {
+    "Code": "BM",
+    "Heading": "Big book",
+    "Note": "Extra-large format for teaching etc; this format and terminology may be specifically UK; required as a top-level differentiator"
+  },
+  {
+    "Code": "BN",
+    "Heading": "Part-work (fasc&iacute;culo)",
+    "Note": "A part-work issued with its own ISBN and intended to be collected and bound into a complete book"
+  },
+  {
+    "Code": "BO",
+    "Heading": "Fold-out book or chart",
+    "Note": "Concertina-folded booklet or chart, designed to fold to pocket or regular page size, and usually bound within distinct board or card covers: use for German &#8216;Leporello&#8217;"
+  },
+  {
+    "Code": "BP",
+    "Heading": "Foam book",
+    "Note": "A children&#8217;s book whose cover and pages are made of foam"
+  },
+  {
+    "Code": "BZ",
+    "Heading": "Other book format",
+    "Note": "Other book format or binding not specified by BB to BP"
+  },
+  {
+    "Code": "CA",
+    "Heading": "Sheet map",
+    "Note": "Sheet map &#8211; detail unspecified"
+  },
+  {
+    "Code": "CB",
+    "Heading": "Sheet map, folded",
+    "Note": ""
+  },
+  {
+    "Code": "CC",
+    "Heading": "Sheet map, flat",
+    "Note": ""
+  },
+  {
+    "Code": "CD",
+    "Heading": "Sheet map, rolled",
+    "Note": "See &lt;ProductPackaging&gt; and Codelist 80 for &#8216;rolled in tube&#8217;"
+  },
+  {
+    "Code": "CE",
+    "Heading": "Globe",
+    "Note": "Globe or planisphere"
+  },
+  {
+    "Code": "CZ",
+    "Heading": "Other cartographic",
+    "Note": "Other cartographic format not specified by CB to CE"
+  },
+  {
+    "Code": "DA",
+    "Heading": "Digital (on physical carrier)",
+    "Note": "Digital content delivered on a physical carrier (detail unspecified)"
+  },
+  {
+    "Code": "DB",
+    "Heading": "CD-ROM",
+    "Note": ""
+  },
+  {
+    "Code": "DC",
+    "Heading": "CD-I",
+    "Note": "CD interactive: use for &#8216;Green book&#8217; discs"
+  },
+  {
+    "Code": "DE",
+    "Heading": "Game cartridge",
+    "Note": ""
+  },
+  {
+    "Code": "DF",
+    "Heading": "Diskette",
+    "Note": "AKA &#8216;floppy disc&#8217;"
+  },
+  {
+    "Code": "DI",
+    "Heading": "DVD-ROM",
+    "Note": ""
+  },
+  {
+    "Code": "DJ",
+    "Heading": "Secure Digital (SD) Memory Card",
+    "Note": ""
+  },
+  {
+    "Code": "DK",
+    "Heading": "Compact Flash Memory Card",
+    "Note": ""
+  },
+  {
+    "Code": "DL",
+    "Heading": "Memory Stick Memory Card",
+    "Note": ""
+  },
+  {
+    "Code": "DM",
+    "Heading": "USB Flash Drive",
+    "Note": ""
+  },
+  {
+    "Code": "DN",
+    "Heading": "Double-sided CD/DVD",
+    "Note": "Double-sided disc, one side Audio CD/CD-ROM, other side DVD"
+  },
+  {
+    "Code": "DZ",
+    "Heading": "Other digital carrier",
+    "Note": "Other carrier of digital content not specified by DB to DN"
+  },
+  {
+    "Code": "EA",
+    "Heading": "Digital (delivered electronically)",
+    "Note": "Digital content delivered electronically (delivery method unspecified)"
+  },
+  {
+    "Code": "EB",
+    "Heading": "Digital download and online",
+    "Note": "Digital content available both by download and by online access"
+  },
+  {
+    "Code": "EC",
+    "Heading": "Digital online",
+    "Note": "Digital content accessed online only"
+  },
+  {
+    "Code": "ED",
+    "Heading": "Digital download",
+    "Note": "Digital content delivered by download only"
+  },
+  {
+    "Code": "FA",
+    "Heading": "Film or transparency",
+    "Note": "Film or transparency &#8211; detail unspecified"
+  },
+  {
+    "Code": "FC",
+    "Heading": "Slides",
+    "Note": "Photographic transparencies mounted for projection"
+  },
+  {
+    "Code": "FD",
+    "Heading": "OHP transparencies",
+    "Note": "Transparencies for overhead projector"
+  },
+  {
+    "Code": "FE",
+    "Heading": "Filmstrip",
+    "Note": "Photographic transparencies, unmounted but cut into short multi-frame strips"
+  },
+  {
+    "Code": "FF",
+    "Heading": "Film",
+    "Note": "Continuous movie film as opposed to filmstrip"
+  },
+  {
+    "Code": "FZ",
+    "Heading": "Other film or transparency format",
+    "Note": "Other film or transparency format not specified by FB to FF"
+  },
+  {
+    "Code": "LA",
+    "Heading": "Digital product license",
+    "Note": "Digital product license (delivery method not encoded)"
+  },
+  {
+    "Code": "LB",
+    "Heading": "Digital product license key",
+    "Note": "Digital product license delivered through the retail supply chain as a physical &#8216;key&#8217;, typically a card or booklet containing a code enabling the purchaser to download the associated product"
+  },
+  {
+    "Code": "LC",
+    "Heading": "Digital product license code",
+    "Note": "Digital product license delivered by email or other electronic distribution, typically providing a code enabling the purchaser to activate, upgrade or extend the license supplied with the associated product"
+  },
+  {
+    "Code": "MA",
+    "Heading": "Microform",
+    "Note": "Microform &#8211; detail unspecified"
+  },
+  {
+    "Code": "MB",
+    "Heading": "Microfiche",
+    "Note": ""
+  },
+  {
+    "Code": "MC",
+    "Heading": "Microfilm",
+    "Note": "Roll microfilm"
+  },
+  {
+    "Code": "MZ",
+    "Heading": "Other microform",
+    "Note": "Other microform not specified by MB or MC"
+  },
+  {
+    "Code": "PA",
+    "Heading": "Miscellaneous print",
+    "Note": "Miscellaneous printed material &#8211; detail unspecified"
+  },
+  {
+    "Code": "PB",
+    "Heading": "Address book",
+    "Note": "May use &lt;ProductFormDetail&gt; codes P201 to P204 to specify binding"
+  },
+  {
+    "Code": "PC",
+    "Heading": "Calendar",
+    "Note": ""
+  },
+  {
+    "Code": "PD",
+    "Heading": "Cards",
+    "Note": "Cards, flash cards (eg for teaching reading)"
+  },
+  {
+    "Code": "PE",
+    "Heading": "Copymasters",
+    "Note": "Copymasters, photocopiable sheets"
+  },
+  {
+    "Code": "PF",
+    "Heading": "Diary",
+    "Note": "May use &lt;ProductFormDetail&gt; codes P201 to P204 to specify binding"
+  },
+  {
+    "Code": "PG",
+    "Heading": "Frieze",
+    "Note": "Narrow strip-shaped printed sheet used mostly for education or children&#8217;s products (eg depicting alphabet, number line, procession of illustrated characters etc). Usually intended for horizontal display"
+  },
+  {
+    "Code": "PH",
+    "Heading": "Kit",
+    "Note": "Parts for post-purchase assembly"
+  },
+  {
+    "Code": "PI",
+    "Heading": "Sheet music",
+    "Note": ""
+  },
+  {
+    "Code": "PJ",
+    "Heading": "Postcard book or pack",
+    "Note": ""
+  },
+  {
+    "Code": "PK",
+    "Heading": "Poster",
+    "Note": "Poster for retail sale &#8211; see also XF"
+  },
+  {
+    "Code": "PL",
+    "Heading": "Record book",
+    "Note": "Record book (eg &#8216;birthday book&#8217;, &#8216;baby book&#8217;): binding unspecified; may use &lt;ProductFormDetail&gt; codes P201 to P204 to specify binding"
+  },
+  {
+    "Code": "PM",
+    "Heading": "Wallet or folder",
+    "Note": "Wallet or folder (containing loose sheets etc): it is preferable to code the contents and treat &#8216;wallet&#8217; as packaging in &lt;ProductPackaging&gt; with Codelist 80, but if this is not possible the product as a whole may be coded as a &#8216;wallet&#8217;"
+  },
+  {
+    "Code": "PN",
+    "Heading": "Pictures or photographs",
+    "Note": ""
+  },
+  {
+    "Code": "PO",
+    "Heading": "Wallchart",
+    "Note": ""
+  },
+  {
+    "Code": "PP",
+    "Heading": "Stickers",
+    "Note": ""
+  },
+  {
+    "Code": "PQ",
+    "Heading": "Plate (l&aacute;mina)",
+    "Note": "A book-sized (as opposed to poster-sized) sheet, usually in color or high quality print"
+  },
+  {
+    "Code": "PR",
+    "Heading": "Notebook / blank book",
+    "Note": "A book with all pages blank for the buyer&#8217;s own use; may use &lt;ProductFormDetail&gt; codes P201 to P204 to specify binding"
+  },
+  {
+    "Code": "PS",
+    "Heading": "Organizer",
+    "Note": "May use &lt;ProductFormDetail&gt; codes P201 to P204 to specify binding"
+  },
+  {
+    "Code": "PT",
+    "Heading": "Bookmark",
+    "Note": ""
+  },
+  {
+    "Code": "PU",
+    "Heading": "Leaflet",
+    "Note": "Folded but unbound"
+  },
+  {
+    "Code": "PZ",
+    "Heading": "Other printed item",
+    "Note": "Other printed item not specified by PB to PQ"
+  },
+  {
+    "Code": "SA",
+    "Heading": "Multiple-component retail product",
+    "Note": "Presentation unspecified: format of product components must be given in &lt;ProductPart&gt;"
+  },
+  {
+    "Code": "SB",
+    "Heading": "Multiple-component retail product, boxed",
+    "Note": "Format of product components must be given in &lt;ProductPart&gt;"
+  },
+  {
+    "Code": "SC",
+    "Heading": "Multiple-component retail product, slip-cased",
+    "Note": "Format of product components must be given in &lt;ProductPart&gt;"
+  },
+  {
+    "Code": "SD",
+    "Heading": "Multiple-component retail product, shrink-wrapped",
+    "Note": "Format of product components must be given in &lt;ProductPart&gt;. Use code XL for a shrink-wrapped pack for trade supply, where the retail items it contains are intended for sale individually"
+  },
+  {
+    "Code": "SE",
+    "Heading": "Multiple-component retail product, loose",
+    "Note": "Format of product components must be given in &lt;ProductPart&gt;"
+  },
+  {
+    "Code": "SF",
+    "Heading": "Multiple-component retail product, part(s) enclosed",
+    "Note": "Multiple component product where subsidiary product part(s) is/are supplied as enclosures to the primary part, eg a book with a CD packaged in a sleeve glued within the back cover. Format of product components must be given in &lt;ProductPart&gt;"
+  },
+  {
+    "Code": "VA",
+    "Heading": "Video",
+    "Note": "Video &#8211; detail unspecified"
+  },
+  {
+    "Code": "VF",
+    "Heading": "Videodisc",
+    "Note": "eg Laserdisc"
+  },
+  {
+    "Code": "VI",
+    "Heading": "DVD video",
+    "Note": "DVD video: specify TV standard in &lt;ProductFormDetail&gt;"
+  },
+  {
+    "Code": "VJ",
+    "Heading": "VHS video",
+    "Note": "VHS videotape: specify TV standard in &lt;ProductFormDetail&gt;"
+  },
+  {
+    "Code": "VK",
+    "Heading": "Betamax video",
+    "Note": "Betamax videotape: specify TV standard in &lt;ProductFormDetail&gt;"
+  },
+  {
+    "Code": "VL",
+    "Heading": "VCD",
+    "Note": "VideoCD"
+  },
+  {
+    "Code": "VM",
+    "Heading": "SVCD",
+    "Note": "Super VideoCD"
+  },
+  {
+    "Code": "VN",
+    "Heading": "HD DVD",
+    "Note": "High definition DVD disc, Toshiba HD DVD format"
+  },
+  {
+    "Code": "VO",
+    "Heading": "Blu-ray",
+    "Note": "High definition DVD disc, Sony Blu-ray format"
+  },
+  {
+    "Code": "VP",
+    "Heading": "UMD Video",
+    "Note": "Sony Universal Media disc"
+  },
+  {
+    "Code": "VQ",
+    "Heading": "CBHD",
+    "Note": "China Blue High-Definition, derivative of HD-DVD"
+  },
+  {
+    "Code": "VZ",
+    "Heading": "Other video format",
+    "Note": "Other video format not specified by VB to VQ"
+  },
+  {
+    "Code": "XA",
+    "Heading": "Trade-only material",
+    "Note": "Trade-only material (unspecified)"
+  },
+  {
+    "Code": "XB",
+    "Heading": "Dumpbin &#8211; empty",
+    "Note": ""
+  },
+  {
+    "Code": "XC",
+    "Heading": "Dumpbin &#8211; filled",
+    "Note": "Dumpbin with contents. ISBN (where applicable) and format of contained items must be given in &lt;ProductPart&gt;"
+  },
+  {
+    "Code": "XD",
+    "Heading": "Counterpack &#8211; empty",
+    "Note": ""
+  },
+  {
+    "Code": "XE",
+    "Heading": "Counterpack &#8211; filled",
+    "Note": "Counterpack with contents. ISBN (where applicable) and format of contained items must be given in &lt;ProductPart&gt;"
+  },
+  {
+    "Code": "XF",
+    "Heading": "Poster, promotional",
+    "Note": "Promotional poster for display, not for sale &#8211; see also PK"
+  },
+  {
+    "Code": "XG",
+    "Heading": "Shelf strip",
+    "Note": ""
+  },
+  {
+    "Code": "XH",
+    "Heading": "Window piece",
+    "Note": "Promotional piece for shop window display"
+  },
+  {
+    "Code": "XI",
+    "Heading": "Streamer",
+    "Note": ""
+  },
+  {
+    "Code": "XJ",
+    "Heading": "Spinner",
+    "Note": ""
+  },
+  {
+    "Code": "XK",
+    "Heading": "Large book display",
+    "Note": "Large scale facsimile of book for promotional display"
+  },
+  {
+    "Code": "XL",
+    "Heading": "Shrink-wrapped pack",
+    "Note": "A quantity pack with its own product code, usually for trade supply only: the retail items it contains are intended for sale individually. ISBN (where applicable) and format of contained items must be given in &lt;ProductPart&gt;. For products or product bundles supplied individually shrink-wrapped for retail sale, use code SD"
+  },
+  {
+    "Code": "XM",
+    "Heading": "Boxed pack",
+    "Note": "A quantity pack with its own product code, usually for trade supply only: the retail items it contains are intended for sale individually. ISBN (where applicable) and format of contained items must be given in &lt;ProductPart&gt;. For products or product bundles boxed individually for retail sale, use code SB"
+  },
+  {
+    "Code": "XZ",
+    "Heading": "Other point of sale",
+    "Note": "Other point of sale material not specified by XB to XL"
+  },
+  {
+    "Code": "ZA",
+    "Heading": "General merchandise",
+    "Note": "General merchandise &#8211; unspecified"
+  },
+  {
+    "Code": "ZB",
+    "Heading": "Doll",
+    "Note": ""
+  },
+  {
+    "Code": "ZC",
+    "Heading": "Soft toy",
+    "Note": "Soft or plush toy"
+  },
+  {
+    "Code": "ZD",
+    "Heading": "Toy",
+    "Note": ""
+  },
+  {
+    "Code": "ZE",
+    "Heading": "Game",
+    "Note": "Board game, or other game (except computer game: see DE and other D* codes)"
+  },
+  {
+    "Code": "ZF",
+    "Heading": "T-shirt",
+    "Note": ""
+  },
+  {
+    "Code": "ZG",
+    "Heading": "E-book reader",
+    "Note": "Dedicated e-book reading device, typically with mono screen"
+  },
+  {
+    "Code": "ZH",
+    "Heading": "Tablet computer",
+    "Note": "General purpose tablet computer, typically with color screen"
+  },
+  {
+    "Code": "ZI",
+    "Heading": "Audiobook player",
+    "Note": "Dedicated audiobook player device, typically including book-related features like bookmarking"
+  },
+  {
+    "Code": "ZJ",
+    "Heading": "Jigsaw",
+    "Note": ""
+  },
+  {
+    "Code": "ZK",
+    "Heading": "Mug",
+    "Note": "For example, branded, promotional or tie-in drinking mug, cup etc"
+  },
+  {
+    "Code": "ZL",
+    "Heading": "Tote bag",
+    "Note": "For example, branded, promotional or tie-in bag"
+  },
+  {
+    "Code": "ZM",
+    "Heading": "Tableware",
+    "Note": "For example, branded, promotional or tie-in plates, bowls etc (note for mugs and cups, use code ZK)"
+  },
+  {
+    "Code": "ZN",
+    "Heading": "Umbrella",
+    "Note": "For example, branded, promotional or tie-in umbrella"
+  },
+  {
+    "Code": "ZY",
+    "Heading": "Other apparel",
+    "Note": "Other apparel items not specified by ZB to ZJ, including branded, promotional or tie-in scarves, caps, aprons etc"
+  },
+  {
+    "Code": "ZZ",
+    "Heading": "Other merchandise",
+    "Note": "Other merchandise not specified by ZB to ZY"
+  }
+]

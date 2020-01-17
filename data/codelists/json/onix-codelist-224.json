@@ -1,0 +1,32 @@
+[
+  {
+    "Code": "U",
+    "Heading": "Unclassifiable",
+    "Note": "Use ONLY if the message severity cannot be determined (eg with a legacy system unable to provide detailed error codes)"
+  },
+  {
+    "Code": "I",
+    "Heading": "Info",
+    "Note": "For information only, provided to encourage the ONIX data supplier to improve the quality of their data (eg provision of a non-mandatory data element that is currently missing, better conformity with best practice, etc)"
+  },
+  {
+    "Code": "Q",
+    "Heading": "Query",
+    "Note": "Request for clarification or further detail of the meaning of the data provided"
+  },
+  {
+    "Code": "W",
+    "Heading": "Warning",
+    "Note": "The ONIX data has been accepted as provided, but there may be issues in the way it is supplied"
+  },
+  {
+    "Code": "E",
+    "Heading": "Error",
+    "Note": "Some data in an ONIX data element or message structure caused an error due to not meeting the requirements of the standard. The data in question has been rejected, but processing of the remaining elements in the record (or the remain records in the message, if used within &lt;MessageStatusDetail&gt;) has continued"
+  },
+  {
+    "Code": "F",
+    "Heading": "Fatal error",
+    "Note": "Some data in an ONIX data element or message structure caused an unrecoverable error due to not meeting the requirements of the standard. The entire ONIX record has been rejected (or the entire message, if used within &lt;MessageStatusDetail&gt;)"
+  }
+]

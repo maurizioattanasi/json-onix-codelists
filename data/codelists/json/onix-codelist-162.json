@@ -1,0 +1,42 @@
+[
+  {
+    "Code": "01",
+    "Heading": "File format",
+    "Note": "Resource Version Feature Value carries a code from List 178"
+  },
+  {
+    "Code": "02",
+    "Heading": "Image height in pixels",
+    "Note": "Resource Version Feature Value carries an integer"
+  },
+  {
+    "Code": "03",
+    "Heading": "Image width in pixels",
+    "Note": "Resource Version Feature Value carries an integer"
+  },
+  {
+    "Code": "04",
+    "Heading": "Filename",
+    "Note": "Resource Version Feature Value carries the filename of the supporting resource, necessary only when it is different from the last part of the path provided in &lt;ResourceLink&gt;"
+  },
+  {
+    "Code": "05",
+    "Heading": "Approximate download file size in megabytes",
+    "Note": "Resource Version Feature Value carries a decimal number only, suggested no more than 2 significant digits (eg 1.7, not 1.7462)"
+  },
+  {
+    "Code": "06",
+    "Heading": "MD5 hash value",
+    "Note": "MD5 hash value of the resource file. &lt;ResourceVersionFeatureValue&gt; should contain the 128-bit digest value (as 32 hexadecimal digits). Can be used as a cryptographic check on the integrity of a resource after it has been retrieved"
+  },
+  {
+    "Code": "07",
+    "Heading": "Exact download file size in bytes",
+    "Note": "Resource Version Feature Value carries a integer number only (eg 1831023)"
+  },
+  {
+    "Code": "08",
+    "Heading": "SHA-256 hash value",
+    "Note": "SHA-256 hash value of the resource file. &lt;ResourceVersionFeatureValue&gt; should contain the 256-bit digest value (as 64 hexadecimal digits). Can be used as a cryptographic check on the integrity of a resource after it has been retrieved"
+  }
+]

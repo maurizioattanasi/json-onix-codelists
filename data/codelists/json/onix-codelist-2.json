@@ -1,0 +1,32 @@
+[
+  {
+    "Code": "00",
+    "Heading": "Single-component retail product",
+    "Note": ""
+  },
+  {
+    "Code": "10",
+    "Heading": "Multiple-component retail product",
+    "Note": "Multiple-component product retailed as a whole"
+  },
+  {
+    "Code": "11",
+    "Heading": "Multiple-item collection, retailed as separate parts",
+    "Note": "Used only when an ONIX record is required for a collection-as-a-whole, even though it is not currently retailed as such"
+  },
+  {
+    "Code": "20",
+    "Heading": "Trade-only product",
+    "Note": "Product available to the book trade, but not for retail sale, and not carrying retail items, eg empty dumpbin, empty counterpack, promotional material"
+  },
+  {
+    "Code": "30",
+    "Heading": "Multiple-item trade-only pack",
+    "Note": "Product available to the book trade, but not for general retail sale as a whole. It carries multiple components for retailing as separate items, eg shrink-wrapped trade pack, filled dumpbin, filled counterpack"
+  },
+  {
+    "Code": "31",
+    "Heading": "Multiple-item pack",
+    "Note": "Carrying multiple components, primarily for retailing as separate items. The pack may be split and retailed as separate items OR retailed as a single item. Use instead of Multiple-item trade-only pack (code 30) if the data provider specifically wishes to make explicit that the pack may optionally be retailed as a whole"
+  }
+]

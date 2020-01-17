@@ -1,0 +1,17 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Permitted unlimited",
+    "Note": ""
+  },
+  {
+    "Code": "02",
+    "Heading": "Permitted subject to limit",
+    "Note": "Limit should be specified in &lt;EpubUsageLimit&gt; or &lt;PriceConstraintLimit&gt;"
+  },
+  {
+    "Code": "03",
+    "Heading": "Prohibited",
+    "Note": ""
+  }
+]

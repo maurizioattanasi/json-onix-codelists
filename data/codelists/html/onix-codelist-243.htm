@@ -1,0 +1,69 @@
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>ONIX Code List 243 [Issue 47]</title>
+		<style type="text/css">
+			body { font-family: Arial, Helvetica, sans-serif }
+			.listHeading { font-size: 16pt; font-weight: bold; margin-top: 12pt }
+			.heading { text-align: left }
+			.code { vertical-align: top }
+			.new { color: red }
+			.update { color: blue }
+		</style>
+	</head>
+	<body>
+		<div class="listHeading">ONIX Code Lists Issue 47, October 2019<br>List 243: Dangerous goods regulations
+		</div>
+		<table width="100%">
+			<tr>
+				<td colspan="3"><hr/></td>
+			</tr>
+			<tr align="left">
+				<th width="10%">Value</th>
+				<th width="30%">Description</th>
+				<th width="60%">Notes</th>
+			</tr>
+			<tr>
+				<td colspan="3"><hr/></td>
+			</tr>
+			<tr valign="top">
+				<td>00</td>
+				<td>Inapplicable</td>
+				<td>The product is not classed as dangerous goods. The default if information is omitted</td>
+			</tr>
+			<tr valign="top">
+				<td>01</td>
+				<td>GHS</td>
+				<td>Indicates if the product is generally classed as a hazardous substance. &lt;ProductFormFeatureDescription&gt; must contain a Hazard Class [eg &#8220;Irritant (Category 2)&#8221;] using the Globally Harmonized System of Classification and Labelling of Chemicals. The text is usually available on the Safety Data Sheet, along with equivalent GHS Hazard Pictograms, and may also be on the product or packaging. Must be accompanied by a Safety Data Sheet URL (see code 06)</td>
+			</tr>
+			<tr valign="top">
+				<td>02</td>
+				<td>Transport</td>
+				<td>Indicates the product is classed as a hazardous substance for transportation purposes. &lt;ProductFormFeatureDescription&gt; must contain a &#8216;UN number&#8217; (UN plus four digits) specifying the specific chemical hazard, eg UN1203 is gasoline</td>
+			</tr>
+			<tr valign="top">
+				<td>03</td>
+				<td>Storage</td>
+				<td>Indicates the product is classed as a hazardous substance for storage purposes</td>
+			</tr>
+			<tr valign="top">
+				<td>04</td>
+				<td>Waste</td>
+				<td>Indicates the product is classed as a hazardous substance for disposal purposes</td>
+			</tr>
+			<tr valign="top">
+				<td>05</td>
+				<td>Other</td>
+				<td>Indicates the product is classed as a hazardous substance for purposes not covered by other codes. Must be accompanied by a Safety Data Sheet URL (see code 06)</td>
+			</tr>
+			<tr valign="top">
+				<td>06</td>
+				<td>Safety data sheet available</td>
+				<td>(Material) Safety Data Sheet available for the product. &lt;ProductFormFeatureDescription&gt; must contain the URL of documentation</td>
+			</tr>
+			<tr>
+				<td colspan="3"><hr/></td>
+			</tr>
+		</table>
+	</body>
+</html>

@@ -1,0 +1,42 @@
+[
+  {
+    "Code": "00",
+    "Heading": "No warning",
+    "Note": "Use to provide positive indication that no warnings are applicable"
+  },
+  {
+    "Code": "01",
+    "Heading": "Carries &#8216;CE&#8217; logo",
+    "Note": ""
+  },
+  {
+    "Code": "02",
+    "Heading": "Carries minimum age warning",
+    "Note": "Use to specify age (in years, or years and months). Provide specific wording in &lt;ProductFormFeatureDescription&gt;"
+  },
+  {
+    "Code": "03",
+    "Heading": "Carries EU Toy Safety Directive &#8216;Unsuitable for children ages 0&#8211;3&#8217; warning logo",
+    "Note": "Carries logo, and must be accompanied by the default warning &#8216;Not suitable for children under 36 months&#8217; (or its approved equivalent in a language other than English, as appropriate), unless specific wording is provided in &lt;ProductFormFeatureDescription&gt;. If specific alternative wording is carried in &lt;ProductFormFeatureDescription&gt;, this must be used in place of the default text"
+  },
+  {
+    "Code": "04",
+    "Heading": "Carries EU Toy Safety Directive hazard warning",
+    "Note": "Exact text of warning must be included in &lt;ProductFormFeatureDescription&gt;"
+  },
+  {
+    "Code": "05",
+    "Heading": "Carries other text associated with toy safety",
+    "Note": "Exact text (not in itself a warning) must be included in &lt;ProductFormFeatureDescription&gt;. May be used either without any warning, or as text additional to a warning. Note that if no warnings apply, code 00 can provide positive indication of this. Example use: &#8216;Suitable for all ages&#8217;"
+  },
+  {
+    "Code": "06",
+    "Heading": "Material Safety Data Sheet available",
+    "Note": "Material Safety Data Sheet (a document required by the EU Toy Safety Directive) available online, typically as a PDF file or similar. &lt;ProductFormFeatureDescription&gt; must carry the URL of the document"
+  },
+  {
+    "Code": "07",
+    "Heading": "Declaration of Conformity available",
+    "Note": "Declaration of Conformity (the document that backs up the CE mark) available online, typically as a PDF file or similar. &lt;ProductFormFeatureDescription&gt; must carry the URL of the document"
+  }
+]

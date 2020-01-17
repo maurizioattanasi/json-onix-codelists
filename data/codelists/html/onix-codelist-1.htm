@@ -1,0 +1,79 @@
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>ONIX Code List 1 [Issue 47]</title>
+		<style type="text/css">
+			body { font-family: Arial, Helvetica, sans-serif }
+			.listHeading { font-size: 16pt; font-weight: bold; margin-top: 12pt }
+			.heading { text-align: left }
+			.code { vertical-align: top }
+			.new { color: red }
+			.update { color: blue }
+		</style>
+	</head>
+	<body>
+		<div class="listHeading">ONIX Code Lists Issue 47, October 2019<br>List 1: Notification or update type
+		</div>
+		<table width="100%">
+			<tr>
+				<td colspan="3"><hr/></td>
+			</tr>
+			<tr align="left">
+				<th width="10%">Value</th>
+				<th width="30%">Description</th>
+				<th width="60%">Notes</th>
+			</tr>
+			<tr>
+				<td colspan="3"><hr/></td>
+			</tr>
+			<tr valign="top">
+				<td>01</td>
+				<td>Early notification</td>
+				<td>Use for a complete record issued earlier than approximately six months before publication</td>
+			</tr>
+			<tr valign="top">
+				<td>02</td>
+				<td>Advance notification (confirmed)</td>
+				<td>Use for a complete record issued to confirm advance information approximately six months before publication; or for a complete record issued after that date and before information has been confirmed from the book-in-hand</td>
+			</tr>
+			<tr valign="top">
+				<td>03</td>
+				<td>Notification confirmed on publication</td>
+				<td>Use for a complete record issued to confirm advance information at or just before actual publication date, usually from the book-in-hand, or for a complete record issued at any later date</td>
+			</tr>
+			<tr valign="top">
+				<td>04</td>
+				<td>Update (partial)</td>
+				<td>In ONIX 3.0 only, use when sending a &#8216;block update&#8217; record. A block update implies using the supplied block(s) to update the existing record for the product, replacing only the blocks included in the block update, and leaving other blocks unchanged &#8211; for example, replacing old information from Blocks 4 and 6 with the newly-received data while retailing information from Blocks 1&#8211;3 and 5 untouched. In previous ONIX releases, and for ONIX 3.0 using other notification types, updating is by replacing the complete record with the newly-received data</td>
+			</tr>
+			<tr valign="top">
+				<td>05</td>
+				<td>Delete</td>
+				<td>Use when sending an instruction to delete a record which was previously issued. Note that a Delete instruction should NOT be used when a product is cancelled, put out of print, or otherwise withdrawn from sale: this should be handled as a change of Publishing status, leaving the receiver to decide whether to retain or delete the record. A Delete instruction is used ONLY when there is a particular reason to withdraw a record completely, eg because it was issued in error</td>
+			</tr>
+			<tr valign="top">
+				<td>08</td>
+				<td>Notice of sale</td>
+				<td>Notice of sale of a product, from one publisher to another: sent by the publisher disposing of the product</td>
+			</tr>
+			<tr valign="top">
+				<td>09</td>
+				<td>Notice of acquisition</td>
+				<td>Notice of acquisition of a product, by one publisher from another: sent by the acquiring publisher</td>
+			</tr>
+			<tr valign="top">
+				<td>88</td>
+				<td>Test update (Partial)</td>
+				<td>ONIX 3.0 only. Record may be processed for test purposes, but data should be discarded when testing is complete. Sender must ensure the &lt;RecordReference&gt; matches a previously-sent Test record</td>
+			</tr>
+			<tr valign="top">
+				<td>89</td>
+				<td>Test record</td>
+				<td>Record may be processed for test purposes, but data should be discarded when testing is complete. Sender must ensure the &lt;RecordReference&gt; does not match any previously-sent live product record</td>
+			</tr>
+			<tr>
+				<td colspan="3"><hr/></td>
+			</tr>
+		</table>
+	</body>
+</html>

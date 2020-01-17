@@ -1,0 +1,37 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Habilitationsschrift",
+    "Note": "Professorial dissertation (thesis for postdoctoral lecturing qualification)"
+  },
+  {
+    "Code": "02",
+    "Heading": "Dissertationsschrift",
+    "Note": "Doctoral thesis"
+  },
+  {
+    "Code": "03",
+    "Heading": "Staatsexamensarbeit",
+    "Note": "State examination thesis"
+  },
+  {
+    "Code": "04",
+    "Heading": "Magisterarbeit",
+    "Note": "Magisters degree thesis"
+  },
+  {
+    "Code": "05",
+    "Heading": "Diplomarbeit",
+    "Note": "Diploma degree thesis"
+  },
+  {
+    "Code": "06",
+    "Heading": "Bachelorarbeit",
+    "Note": "Bachelors degree thesis"
+  },
+  {
+    "Code": "07",
+    "Heading": "Masterarbeit",
+    "Note": "Masters degree thesis"
+  }
+]

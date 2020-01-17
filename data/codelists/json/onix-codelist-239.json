@@ -1,0 +1,12 @@
+[
+  {
+    "Code": "07",
+    "Heading": "Return authorisation contact",
+    "Note": "Eg for use where authorisation must be gained from the supplier (distributor or wholesaler)"
+  },
+  {
+    "Code": "99",
+    "Heading": "Customer services contact",
+    "Note": "For general enquiries"
+  }
+]

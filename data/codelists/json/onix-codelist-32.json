@@ -1,0 +1,52 @@
+[
+  {
+    "Code": "01",
+    "Heading": "Lexile code",
+    "Note": "For example AD or HL. DEPRECATED in ONIX 3 &#8211; use code 06 instead"
+  },
+  {
+    "Code": "02",
+    "Heading": "Lexile number",
+    "Note": "For example 880L. DEPRECATED in ONIX 3 &#8211; use code 06 instead"
+  },
+  {
+    "Code": "03",
+    "Heading": "Fry Readability score",
+    "Note": "Fry readability metric based on number of sentences and syllables per 100 words. Expressed as an integer from 1 to 15 in &lt;ComplexityCode&gt;"
+  },
+  {
+    "Code": "04",
+    "Heading": "IoE Book Band",
+    "Note": "UK Institute of Education Book Bands for Guided Reading scheme (see https://www.ucl.ac.uk/reading-recovery-europe/ilc/publications/which-book-why). &lt;ComplexityCode&gt; is a color, eg &#8216;Pink A&#8217; or &#8216;Copper&#8217;"
+  },
+  {
+    "Code": "05",
+    "Heading": "Fountas &amp; Pinnell Text Level Gradient",
+    "Note": "&lt;ComplexityCode&gt; is a code from &#8216;A&#8217; to Z+&#8217;. See http://www.fountasandpinnellleveledbooks.com/aboutLeveledTexts.aspx"
+  },
+  {
+    "Code": "06",
+    "Heading": "Lexile measure",
+    "Note": "The Lexile measure in &lt;ComplexityCode&gt; combines the Lexile number (for example 620L or 880L) and optionally the Lexile code (for example AD or HL). Examples might be &#8216;880L&#8217;, &#8216;AD0L&#8217; or &#8216;HL600L&#8217;. See https://lexile.com/about-lexile/lexile-overview/"
+  },
+  {
+    "Code": "07",
+    "Heading": "ATOS for Books",
+    "Note": "Advantage-TASA Open Standard book readability score, used for example within the Renaissance Learning Accelerated Reader scheme. &lt;ComplexityCode&gt; is the &#8216;Book Level&#8217;, a real number between 0 and 17. See http://www.renaissance.com/products/accelerated-reader/atos-analyzer"
+  },
+  {
+    "Code": "08",
+    "Heading": "Flesch-Kincaid Grade Level",
+    "Note": "Flesch-Kincaid Grade Level Formula, a standard readability measure based on the weighted number of syllables per word and words per sentence. &lt;ComplexityCode&gt; is a real number typically between about -1 and 20"
+  },
+  {
+    "Code": "09",
+    "Heading": "Guided Reading Level",
+    "Note": "Use this code for books levelled by the publisher or a third party using the Fountas and Pinnell Guided Reading methodology"
+  },
+  {
+    "Code": "10",
+    "Heading": "Reading Recovery Level",
+    "Note": "Used for books aimed at K-2 literacy intervention. &lt;ComplexityCode&gt; is an integer between 1 and 20"
+  }
+]

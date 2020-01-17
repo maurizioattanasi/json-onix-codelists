@@ -1,0 +1,212 @@
+[
+  {
+    "Code": "10",
+    "Heading": "Text (eye-readable)",
+    "Note": "Readable text of the main work: this value is required, together with applicable &lt;ProductForm&gt; and &lt;ProductFormDetail&gt; values, to designate an e-book or other digital or physical product whose primary content is eye-readable text"
+  },
+  {
+    "Code": "15",
+    "Heading": "Extensive links between internal content",
+    "Note": "E-publication contains a significant number of actionable cross-references, hyperlinked notes and annotations, or with other actionable links between largely textual elements (eg quiz/test questions, &#8216;choose your own ending&#8217; etc)"
+  },
+  {
+    "Code": "14",
+    "Heading": "Extensive links to external content",
+    "Note": "E-publication contains a significant number of actionable (clickable) web links"
+  },
+  {
+    "Code": "16",
+    "Heading": "Additional eye-readable text not part of main work",
+    "Note": "Publication contains additional textual content such as interview, feature article, essay, bibliography, quiz/test, other background material or text that is not included in a primary or &#8216;unenhanced&#8217; version"
+  },
+  {
+    "Code": "41",
+    "Heading": "Additional eye-readable links to external content",
+    "Note": "Publication contains a significant number of web links (printed URLs, QR codes etc). For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "17",
+    "Heading": "Promotional text for other book product",
+    "Note": "eg Teaser chapter"
+  },
+  {
+    "Code": "11",
+    "Heading": "Musical notation",
+    "Note": ""
+  },
+  {
+    "Code": "07",
+    "Heading": "Still images / graphics",
+    "Note": "Use only when no more detailed specification is provided"
+  },
+  {
+    "Code": "18",
+    "Heading": "Photographs",
+    "Note": "Whether in a plate section / insert, or not"
+  },
+  {
+    "Code": "19",
+    "Heading": "Figures, diagrams, charts, graphs",
+    "Note": "Including other &#8216;mechanical&#8217; (ie non-photographic) illustrations"
+  },
+  {
+    "Code": "20",
+    "Heading": "Additional images / graphics not part of main work",
+    "Note": "Publication is enhanced with additional images or graphical content such as supplementary photographs that are not included in a primary or &#8216;unenhanced&#8217; version"
+  },
+  {
+    "Code": "12",
+    "Heading": "Maps and/or other cartographic content",
+    "Note": ""
+  },
+  {
+    "Code": "42",
+    "Heading": "Assessment material",
+    "Note": "eg Questions or student exercises, problems, quizzes or tests (as an integral part of the work). For use in ONIX 3.0 only"
+  },
+  {
+    "Code": "01",
+    "Heading": "Audiobook",
+    "Note": "Audio recording of a reading of a book or other text"
+  },
+  {
+    "Code": "02",
+    "Heading": "Performance &#8211; spoken word",
+    "Note": "Audio recording of a drama or other spoken word performance"
+  },
+  {
+    "Code": "13",
+    "Heading": "Other speech content",
+    "Note": "eg an interview, speech, lecture or discussion, not a &#8216;reading&#8217; or &#8216;performance&#8217;)"
+  },
+  {
+    "Code": "03",
+    "Heading": "Music recording",
+    "Note": "Audio recording of a music performance, including musical drama and opera"
+  },
+  {
+    "Code": "04",
+    "Heading": "Other audio",
+    "Note": "Audio recording of other sound, eg birdsong"
+  },
+  {
+    "Code": "21",
+    "Heading": "Partial performance &#8211; spoken word",
+    "Note": "Audio recording of a reading, performance or dramatization of part of the work"
+  },
+  {
+    "Code": "22",
+    "Heading": "Additional audio content not part of main work",
+    "Note": "Product is enhanced with audio recording of full or partial reading, performance, dramatization, interview, background documentary or other audio content not included in the primary or &#8216;unenhanced&#8217; version"
+  },
+  {
+    "Code": "23",
+    "Heading": "Promotional audio for other book product",
+    "Note": "eg Reading of teaser chapter"
+  },
+  {
+    "Code": "06",
+    "Heading": "Video",
+    "Note": "Includes Film, video, animation etc. Use only when no more detailed specification is provided. Formerly &#8216;Moving images&#8217;"
+  },
+  {
+    "Code": "26",
+    "Heading": "Video recording of a reading",
+    "Note": ""
+  },
+  {
+    "Code": "27",
+    "Heading": "Performance &#8211; visual",
+    "Note": "Video recording of a drama or other performance, including musical performance"
+  },
+  {
+    "Code": "24",
+    "Heading": "Animated / interactive illustrations",
+    "Note": "eg animated diagrams, charts, graphs or other illustrations"
+  },
+  {
+    "Code": "25",
+    "Heading": "Narrative animation",
+    "Note": "eg cartoon, animatic or CGI animation"
+  },
+  {
+    "Code": "28",
+    "Heading": "Other video",
+    "Note": "Other video content eg interview, not a reading or performance"
+  },
+  {
+    "Code": "29",
+    "Heading": "Partial performance &#8211; video",
+    "Note": "Video recording of a reading, performance or dramatization of part of the work"
+  },
+  {
+    "Code": "30",
+    "Heading": "Additional video content not part of main work",
+    "Note": "E-publication is enhanced with video recording of full or partial reading, performance, dramatization, interview, background documentary or other content not included in the primary or &#8216;unenhanced&#8217; version"
+  },
+  {
+    "Code": "31",
+    "Heading": "Promotional video for other book product",
+    "Note": "eg Book trailer"
+  },
+  {
+    "Code": "05",
+    "Heading": "Game / Puzzle",
+    "Note": "No multi-user functionality. Formerly just &#8216;Game&#8217;"
+  },
+  {
+    "Code": "32",
+    "Heading": "Contest",
+    "Note": "Includes some degree of multi-user functionality"
+  },
+  {
+    "Code": "08",
+    "Heading": "Software",
+    "Note": "Largely &#8216;content free&#8217;"
+  },
+  {
+    "Code": "09",
+    "Heading": "Data",
+    "Note": "Data files"
+  },
+  {
+    "Code": "33",
+    "Heading": "Data set plus software",
+    "Note": ""
+  },
+  {
+    "Code": "34",
+    "Heading": "Blank pages or spaces",
+    "Note": "Entire pages or blank spaces, forms, boxes etc, intended to be filled in by the reader"
+  },
+  {
+    "Code": "35",
+    "Heading": "Advertising content",
+    "Note": "Use only where type of advertising content is not stated"
+  },
+  {
+    "Code": "37",
+    "Heading": "Advertising &#8211; first party",
+    "Note": "&#8216;Back ads&#8217; &#8211; promotional pages for other books (that do not include sample content, cf codes 17, 23)"
+  },
+  {
+    "Code": "36",
+    "Heading": "Advertising &#8211; coupons",
+    "Note": "Eg to obtain discounts on other products"
+  },
+  {
+    "Code": "38",
+    "Heading": "Advertising &#8211; third party display",
+    "Note": ""
+  },
+  {
+    "Code": "39",
+    "Heading": "Advertising &#8211; third party textual",
+    "Note": ""
+  },
+  {
+    "Code": "40",
+    "Heading": "Scripting",
+    "Note": "E-publication contains microprograms written (eg) in Javascript and executed within the reading system. For use in ONIX 3.0 only"
+  }
+]

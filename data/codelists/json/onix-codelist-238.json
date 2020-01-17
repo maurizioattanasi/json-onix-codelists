@@ -1,0 +1,107 @@
+[
+  {
+    "Code": "K",
+    "Heading": "Educa&ccedil;&atilde;o Infantil",
+    "Note": "Preschool and kindergarten"
+  },
+  {
+    "Code": "1",
+    "Heading": "Fundamental I 1&ordm; ano",
+    "Note": "Elementary school"
+  },
+  {
+    "Code": "2",
+    "Heading": "Fundamental I 2&ordm; ano",
+    "Note": ""
+  },
+  {
+    "Code": "3",
+    "Heading": "Fundamental I 3&ordm; ano",
+    "Note": ""
+  },
+  {
+    "Code": "4",
+    "Heading": "Fundamental I 4&ordm; ano",
+    "Note": ""
+  },
+  {
+    "Code": "5",
+    "Heading": "Fundamental I 5&ordm; ano",
+    "Note": ""
+  },
+  {
+    "Code": "6",
+    "Heading": "Fundamental II 6&ordm; ano",
+    "Note": ""
+  },
+  {
+    "Code": "7",
+    "Heading": "Fundamental II 7&ordm; ano",
+    "Note": ""
+  },
+  {
+    "Code": "8",
+    "Heading": "Fundamental II 8&ordm; ano",
+    "Note": ""
+  },
+  {
+    "Code": "9",
+    "Heading": "Fundamental II 9&ordm; ano",
+    "Note": ""
+  },
+  {
+    "Code": "10",
+    "Heading": "Ensino M&eacute;dio 1&ordm; ano",
+    "Note": "High school"
+  },
+  {
+    "Code": "11",
+    "Heading": "Ensino M&eacute;dio 2&ordm; ano",
+    "Note": ""
+  },
+  {
+    "Code": "12",
+    "Heading": "Ensino M&eacute;dio 3&ordm; ano",
+    "Note": ""
+  },
+  {
+    "Code": "13",
+    "Heading": "Ensino T&eacute;cnico Integrado",
+    "Note": "Technical study at High school, alongside 2nd and 3rd year"
+  },
+  {
+    "Code": "14",
+    "Heading": "Ensino T&eacute;cnico Concomitante",
+    "Note": "Technical study at separate institution in parallel with 2nd and 3rd year High school study"
+  },
+  {
+    "Code": "15",
+    "Heading": "Ensino T&eacute;cnico Subsequente",
+    "Note": "Technical study after completion of High school"
+  },
+  {
+    "Code": "P",
+    "Heading": "Ensino pr&eacute;-vestibular",
+    "Note": "University entrance"
+  },
+  {
+    "Code": "A",
+    "Heading": "Ensino Superior Gradua&ccedil;&atilde;o Licenciatura/ Bacharelado",
+    "Note": "Undergraduate degree level"
+  },
+  {
+    "Code": "B",
+    "Heading": "Ensino Superior Gradua&ccedil;&atilde;o Tecnologia",
+    "Note": ""
+  },
+  {
+    "Code": "D",
+    "Heading": "Ensino Superior P&oacute;s-gradua&ccedil;&atilde;o Stricto sensu",
+    "Note": "Masters and Doctoral degree level"
+  },
+  {
+    "Code": "F",
+    "Heading": "Ensino Superior P&oacute;s-gradua&ccedil;&atilde;o Lato sensu",
+    "Note": "Professional qualifications"
+  }
+]
